@@ -1,0 +1,99 @@
+{
+  "curadoria": {
+    "pontuacao_minima": 70,
+    "min_graficos": 2,
+    "min_videos": 2,
+    "min_fontes": 4,
+    "verificar_capas": true,
+    "verificar_dados": true,
+    "verificar_videos": true,
+    "verificar_fontes": true,
+    "buscar_novas_fontes": true
+  },
+  "capa": {
+    "formatos_aceitos": [".jpg", ".jpeg", ".png", ".gif", ".webp"],
+    "tamanho_minimo": 800,
+    "altura_minima": 600,
+    "tamanho_maximo_mb": 10,
+    "obrigatoria": true
+  },
+  "dados_graficos": {
+    "min_graficos": 2,
+    "min_tabelas": 1,
+    "fontes_obrigatorias": true,
+    "qualidade_minima": "media"
+  },
+  "videos": {
+    "min_videos": 2,
+    "thumbnails_obrigatorios": true,
+    "descricoes_obrigatorias": true,
+    "duracao_maxima_minutos": 60
+  },
+  "fontes": {
+    "min_fontes": 4,
+    "fontes_confiaveis_obrigatorias": 2,
+    "urls_funcionais_obrigatorias": true,
+    "diversidade_obrigatoria": true,
+    "atualidade_maxima_anos": 2
+  },
+  "fontes_confiaveis": {
+    "governamentais": [
+      "gov.br",
+      "mec.gov.br",
+      "inep.gov.br",
+      "fnde.gov.br",
+      "ibge.gov.br",
+      "datasus.gov.br",
+      "ans.gov.br"
+    ],
+    "academicas": [
+      "scielo.br",
+      "scholar.google.com",
+      "researchgate.net",
+      "academia.edu",
+      "jstor.org",
+      "springer.com"
+    ],
+    "internacionais": [
+      "who.int",
+      "un.org",
+      "unesco.org",
+      "oecd.org",
+      "worldbank.org",
+      "imf.org"
+    ],
+    "jornalisticas": [
+      "g1.globo.com",
+      "folha.uol.com.br",
+      "estadao.com.br",
+      "bbc.com",
+      "reuters.com",
+      "ap.org"
+    ],
+    "tecnicas": [
+      "wikipedia.org",
+      "britannica.com",
+      "merriam-webster.com",
+      "oxforddictionaries.com"
+    ]
+  },
+  "busca_fontes": {
+    "max_resultados_web": 10,
+    "max_resultados_noticias": 5,
+    "max_resultados_youtube": 3,
+    "relevancia_minima": 0.6,
+    "atualidade_maxima_dias": 730
+  },
+  "relatorios": {
+    "formato": "json",
+    "incluir_detalhes": true,
+    "incluir_recomendacoes": true,
+    "incluir_estatisticas": true,
+    "diretorio_saida": "docs/relatorios"
+  },
+  "logs": {
+    "nivel": "INFO",
+    "arquivo_log": "curadoria.log",
+    "incluir_console": true
+  }
+}
