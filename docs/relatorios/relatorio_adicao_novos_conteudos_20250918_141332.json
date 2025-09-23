@@ -1,0 +1,120 @@
+{
+  "resumo": {
+    "total_processados": 11,
+    "sucessos": 10,
+    "erros": 1,
+    "timestamp": "20250918_141332"
+  },
+  "detalhes": [
+    {
+      "arquivo": "artigo_gestao_escolar_pos_pandemia.md",
+      "titulo": "Gestão Escolar Pós-Pandemia: Adaptações e Inovações para o Futuro da Educação",
+      "eixo_tematico": "Gestão de Crises e Emergencias",
+      "tag_notion": "governança",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Avançado",
+      "tipo_conteudo": "Artigo",
+      "sucesso": true
+    },
+    {
+      "arquivo": "artigo_gestao_sustentabilidade_escolas.md",
+      "titulo": "Gestão de Sustentabilidade em Escolas: Estratégias para uma Educação Responsável",
+      "eixo_tematico": "Sustentabilidade e Responsabilidade Social",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Artigo",
+      "sucesso": true
+    },
+    {
+      "arquivo": "artigo_inclusao_acessibilidade_gestao_escolar.md",
+      "titulo": "Inclusão e Acessibilidade na Gestão Escolar: Construindo uma Educação para Todos",
+      "eixo_tematico": "Inclusão e Diversidade",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Artigo",
+      "sucesso": true
+    },
+    {
+      "arquivo": "artigo_inteligencia_artificial_gestao_escolar.md",
+      "titulo": "Inteligência Artificial na Gestão Escolar: Implementação Prática e Benefícios",
+      "eixo_tematico": "Tecnologia e Inovação",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Avançado",
+      "tipo_conteudo": "Artigo",
+      "sucesso": true
+    },
+    {
+      "arquivo": "artigo_lgpd_protecao_dados_educacao.md",
+      "titulo": "LGPD e Proteção de Dados na Educação: Guia Completo para Gestores Escolares",
+      "eixo_tematico": "Governança e Compliance",
+      "tag_notion": "governança",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Avançado",
+      "tipo_conteudo": "Artigo",
+      "sucesso": true
+    },
+    {
+      "arquivo": "artigo_rotinas_seguranca_predial_escolas.md",
+      "titulo": "Como Estruturar Rotinas de Segurança Predial",
+      "eixo_tematico": "",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Diretor",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Artigo",
+      "sucesso": true
+    },
+    {
+      "arquivo": "checklist_gestao_escolar_pos_pandemia.md",
+      "titulo": "📋 **CHECKLIST: GESTÃO ESCOLAR PÓS-PANDEMIA**",
+      "eixo_tematico": "Eixo 4 - Gestão de Crises e Adaptação",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Checklist",
+      "sucesso": true
+    },
+    {
+      "arquivo": "checklist_implementacao_ia_gestao_escolar.md",
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE INTELIGÊNCIA ARTIFICIAL NA GESTÃO ESCOLAR**",
+      "eixo_tematico": "Eixo 5 - Gestão Tecnológica e Inovação",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Checklist",
+      "sucesso": true
+    },
+    {
+      "arquivo": "checklist_implementacao_inclusao_acessibilidade_escolar.md",
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE INCLUSÃO E ACESSIBILIDADE NA GESTÃO ESCOLAR**",
+      "eixo_tematico": "Eixo 3 - Gestão Pedagógica e Inclusão",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Checklist",
+      "sucesso": true
+    },
+    {
+      "arquivo": "checklist_implementacao_lgpd_educacao.md",
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE LGPD NA EDUCAÇÃO**",
+      "eixo_tematico": "Eixo 1 - Gestão Administrativa e Legal",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Checklist",
+      "sucesso": true
+    },
+    {
+      "arquivo": "checklist_implementacao_sustentabilidade_escolas.md",
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE SUSTENTABILIDADE EM ESCOLAS**",
+      "eixo_tematico": "Eixo 2 - Gestão Ambiental e Sustentabilidade",
+      "tag_notion": "infraestrutura",
+      "funcao_alvo": "Coordenador",
+      "nivel_profundidade": "Intermediário",
+      "tipo_conteudo": "Checklist",
+      "sucesso": true
+    }
+  ]
+}

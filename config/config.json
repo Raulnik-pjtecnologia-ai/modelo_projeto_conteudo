@@ -1,0 +1,94 @@
+{
+  "notion": {
+    "token": "",
+    "biblioteca_url": "https://www.notion.so/2325113a91a381c09b33f826449a218f",
+    "categoria_url": "https://www.notion.so/2325113a91a381f4b7a7ddd6fa5575b1",
+    "modulos_url": "https://www.notion.so/2325113a91a38155bba2dec98a75447b",
+    "cursos_url": "https://www.notion.so/2325113a91a3815caca3e00a2b3d8648",
+    "views_url": "https://www.notion.so/2325113a91a381e799b2d1b64db53c61"
+  },
+  "diretorios": {
+    "pronto_para_publicar": "2_conteudo/03_pronto_para_publicar",
+    "publicado": "2_conteudo/04_publicado",
+    "logs": "logs",
+    "backups": "backups"
+  },
+  "configuracoes": {
+    "backup_enabled": true,
+    "notification_enabled": false,
+    "auto_publish": false,
+    "log_level": "INFO"
+  },
+  "classificacao": {
+    "funcoes": ["Mantenedor", "Secretário", "Diretor", "Coordenador"],
+    "niveis": ["Estratégico", "Tático", "Operacional"],
+    "areas_problema": [
+      "Financeiro",
+      "Pedagógico", 
+      "Jurídico",
+      "Operacional",
+      "Pessoas",
+      "Infraestrutura",
+      "Governança"
+    ],
+    "tipos_conteudo": [
+      "Artigo Curto",
+      "Checklist",
+      "Lição",
+      "Link",
+      "Documento Oficial",
+      "Vídeo",
+      "Apresentação",
+      "Artigo",
+      "Texto"
+    ],
+    "tags": [
+      "Apresentação",
+      "Planejamento Financeiro",
+      "Prestação de Contas",
+      "RH",
+      "Jurídico",
+      "Admissão",
+      "Controle de Presença",
+      "Férias Trabalhistas",
+      "Gestão de Patrimônio",
+      "Fornecedores",
+      "Remuneração Estratégica",
+      "Auditoria",
+      "Desligamento",
+      "Fechamento de Folha",
+      "EVP",
+      "Módulo 1",
+      "Módulo 2",
+      "Video informativo"
+    ]
+  },
+  "validacao": {
+    "secoes_obrigatorias": [
+      "Título",
+      "Resumo Executivo",
+      "Contexto",
+      "Aplicação Prática",
+      "Taxonomia e Indexação"
+    ],
+    "tamanho_minimo": 500,
+    "tamanho_maximo": 50000,
+    "imagens_obrigatorias": false
+  },
+  "integracao": {
+    "wordpress": {
+      "url": "",
+      "usuario": "",
+      "senha": "",
+      "habilitado": false
+    },
+    "discord": {
+      "webhook": "",
+      "habilitado": false
+    },
+    "slack": {
+      "webhook": "",
+      "habilitado": false
+    }
+  }
+}
