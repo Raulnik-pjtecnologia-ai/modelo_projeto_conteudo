@@ -11,6 +11,11 @@ Esta coleção de templates padroniza a criação de conteúdo educacional, gara
 ```markdown
 # [Título do Artigo]: [Subtítulo Descritivo]
 
+## 🖼️ Capa
+
+![Capa do Artigo](caminho/para/capa_artigo.jpg)
+*Descrição da imagem de capa: [Breve descrição do que a imagem representa]*
+
 ## Resumo Executivo
 - **Ponto Principal 1**: Descrição concisa do benefício
 - **Ponto Principal 2**: Descrição concisa do benefício
@@ -28,6 +33,24 @@ A falta de [problema específico] pode resultar em:
 - **Consequência 3** internos e externos
 - **Consequência 4** na resolução de problemas
 - **Consequência 5** com órgãos fiscalizadores
+
+## 📊 Dados e Gráficos
+
+### Gráfico 1: [Título do Gráfico]
+![Gráfico 1](caminho/para/grafico1.png)
+*Fonte: [Fonte dos dados do gráfico]*
+
+### Gráfico 2: [Título do Gráfico]
+![Gráfico 2](caminho/para/grafico2.png)
+*Fonte: [Fonte dos dados do gráfico]*
+
+### Tabela de Dados: [Título da Tabela]
+| Coluna 1 | Coluna 2 | Coluna 3 | Coluna 4 |
+|----------|----------|----------|----------|
+| Dado 1   | Dado 2   | Dado 3   | Dado 4   |
+| Dado 5   | Dado 6   | Dado 7   | Dado 8   |
+
+*Fonte: [Fonte dos dados da tabela]*
 
 ## Aplicação Prática
 
@@ -104,6 +127,45 @@ A falta de [problema específico] pode resultar em:
 - **Indicador 1**: Como medir
 - **Indicador 2**: Como medir
 - **Indicador 3**: Como medir
+
+## 🎥 Vídeos Relacionados
+
+### Vídeo 1: [Título do Vídeo]
+[![Vídeo 1](caminho/para/thumbnail_video1.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+### Vídeo 2: [Título do Vídeo]
+[![Vídeo 2](caminho/para/thumbnail_video2.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+## 📚 Recursos e Fontes
+
+### **Legislação Aplicável**
+- [Lei/Decreto 1]: [Descrição] - [URL ou referência completa]
+- [Lei/Decreto 2]: [Descrição] - [URL ou referência completa]
+- [Norma 1]: [Descrição] - [URL ou referência completa]
+- [Norma 2]: [Descrição] - [URL ou referência completa]
+
+### **Fontes dos Dados e Estatísticas**
+- **[Fonte 1]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 2]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 3]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 4]**: [Nome da instituição/organização] - [URL ou referência completa]
+
+### **Referências Bibliográficas**
+- [Autor 1] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 2] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 3] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+
+### **Links Úteis e Recursos Online**
+- [Link útil 1]: [Descrição] - [URL]
+- [Link útil 2]: [Descrição] - [URL]
+- [Link útil 3]: [Descrição] - [URL]
+- [Link útil 4]: [Descrição] - [URL]
 
 ## Taxonomia e Indexação
 
@@ -213,6 +275,45 @@ A falta de [processo específico] pode comprometer:
 - [ ] **Documento 3**: [Descrição do documento]
 - [ ] **Documento 4**: [Descrição do documento]
 - [ ] **Documento 5**: [Descrição do documento]
+
+## 🎥 Vídeos Relacionados
+
+### Vídeo 1: [Título do Vídeo]
+[![Vídeo 1](caminho/para/thumbnail_video1.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+### Vídeo 2: [Título do Vídeo]
+[![Vídeo 2](caminho/para/thumbnail_video2.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+## 📚 Recursos e Fontes
+
+### **Legislação Aplicável**
+- [Lei/Decreto 1]: [Descrição] - [URL ou referência completa]
+- [Lei/Decreto 2]: [Descrição] - [URL ou referência completa]
+- [Norma 1]: [Descrição] - [URL ou referência completa]
+- [Norma 2]: [Descrição] - [URL ou referência completa]
+
+### **Fontes dos Dados e Estatísticas**
+- **[Fonte 1]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 2]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 3]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 4]**: [Nome da instituição/organização] - [URL ou referência completa]
+
+### **Referências Bibliográficas**
+- [Autor 1] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 2] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 3] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+
+### **Links Úteis e Recursos Online**
+- [Link útil 1]: [Descrição] - [URL]
+- [Link útil 2]: [Descrição] - [URL]
+- [Link útil 3]: [Descrição] - [URL]
+- [Link útil 4]: [Descrição] - [URL]
 
 ## Taxonomia e Indexação
 
@@ -330,6 +431,45 @@ Imagine que você é [função] de [contexto]. Com base nas informações abaixo
 - **Dica 1**: [Descrição da dica]
 - **Dica 2**: [Descrição da dica]
 - **Dica 3**: [Descrição da dica]
+
+## 🎥 Vídeos Relacionados
+
+### Vídeo 1: [Título do Vídeo]
+[![Vídeo 1](caminho/para/thumbnail_video1.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+### Vídeo 2: [Título do Vídeo]
+[![Vídeo 2](caminho/para/thumbnail_video2.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+## 📚 Recursos e Fontes
+
+### **Legislação Aplicável**
+- [Lei/Decreto 1]: [Descrição] - [URL ou referência completa]
+- [Lei/Decreto 2]: [Descrição] - [URL ou referência completa]
+- [Norma 1]: [Descrição] - [URL ou referência completa]
+- [Norma 2]: [Descrição] - [URL ou referência completa]
+
+### **Fontes dos Dados e Estatísticas**
+- **[Fonte 1]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 2]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 3]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 4]**: [Nome da instituição/organização] - [URL ou referência completa]
+
+### **Referências Bibliográficas**
+- [Autor 1] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 2] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 3] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+
+### **Links Úteis e Recursos Online**
+- [Link útil 1]: [Descrição] - [URL]
+- [Link útil 2]: [Descrição] - [URL]
+- [Link útil 3]: [Descrição] - [URL]
+- [Link útil 4]: [Descrição] - [URL]
 
 ## Taxonomia e Indexação
 

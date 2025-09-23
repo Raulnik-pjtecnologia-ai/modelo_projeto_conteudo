@@ -1,17 +1,17 @@
-# [TÍTULO DO ARTIGO]
+# [TÍTULO DO VÍDEO]
 
 ## 🖼️ Capa
 
-![Capa do Artigo](caminho/para/capa_artigo.jpg)
+![Capa do Vídeo](caminho/para/capa_video.jpg)
 *Descrição da imagem de capa: [Breve descrição do que a imagem representa]*
 
-## 📋 Resumo Executivo
+## 📋 Resumo do Vídeo
 
-• **[Benefício 1]**: [Descrição do benefício principal]
-• **[Benefício 2]**: [Descrição do benefício secundário]
-• **[Benefício 3]**: [Descrição do benefício operacional]
-• **[Benefício 4]**: [Descrição do benefício estratégico]
-• **[Benefício 5]**: [Descrição do benefício de longo prazo]
+• **[Objetivo 1]**: [Descrição do objetivo principal]
+• **[Objetivo 2]**: [Descrição do objetivo secundário]
+• **[Objetivo 3]**: [Descrição do objetivo operacional]
+• **[Objetivo 4]**: [Descrição do objetivo estratégico]
+• **[Objetivo 5]**: [Descrição do objetivo de longo prazo]
 
 ---
 
@@ -53,59 +53,67 @@
 
 ---
 
-## 🛠️ Aplicação Prática: [Título da seção principal]
+## 🎥 Informações do Vídeo
 
-### **1. [Subtítulo 1]**
+### **Detalhes Técnicos**
+- **Duração**: [X minutos e Y segundos]
+- **Qualidade**: [HD/Full HD/4K]
+- **Formato**: [MP4/AVI/MOV]
+- **Tamanho**: [X MB/GB]
 
-#### **[Subseção 1.1]**
+### **Conteúdo do Vídeo**
+- **Introdução**: [Descrição da introdução]
+- **Desenvolvimento**: [Descrição do desenvolvimento]
+- **Conclusão**: [Descrição da conclusão]
+- **Call to Action**: [Descrição da chamada para ação]
+
+### **Elementos Visuais**
+- **Slides**: [Número de slides utilizados]
+- **Gráficos**: [Número de gráficos apresentados]
+- **Imagens**: [Número de imagens utilizadas]
+- **Animações**: [Descrição das animações]
+
+---
+
+## 🛠️ Conteúdo Principal
+
+### **1. [Tópico 1]**
+
+#### **[Subtópico 1.1]**
 - **[Item 1]**: [Descrição detalhada]
 - **[Item 2]**: [Descrição detalhada]
 - **[Item 3]**: [Descrição detalhada]
 - **[Item 4]**: [Descrição detalhada]
 
-#### **[Subseção 1.2]**
+#### **[Subtópico 1.2]**
 - **[Item 1]**: [Descrição detalhada]
 - **[Item 2]**: [Descrição detalhada]
 - **[Item 3]**: [Descrição detalhada]
 - **[Item 4]**: [Descrição detalhada]
 
-### **2. [Subtítulo 2]**
+### **2. [Tópico 2]**
 
-#### **[Subseção 2.1]**
+#### **[Subtópico 2.1]**
 - **[Item 1]**: [Descrição detalhada]
 - **[Item 2]**: [Descrição detalhada]
 - **[Item 3]**: [Descrição detalhada]
 - **[Item 4]**: [Descrição detalhada]
 
-#### **[Subseção 2.2]**
+#### **[Subtópico 2.2]**
 - **[Item 1]**: [Descrição detalhada]
 - **[Item 2]**: [Descrição detalhada]
 - **[Item 3]**: [Descrição detalhada]
 - **[Item 4]**: [Descrição detalhada]
 
-### **3. [Subtítulo 3]**
+### **3. [Tópico 3]**
 
-#### **[Subseção 3.1]**
+#### **[Subtópico 3.1]**
 - **[Item 1]**: [Descrição detalhada]
 - **[Item 2]**: [Descrição detalhada]
 - **[Item 3]**: [Descrição detalhada]
 - **[Item 4]**: [Descrição detalhada]
 
-#### **[Subseção 3.2]**
-- **[Item 1]**: [Descrição detalhada]
-- **[Item 2]**: [Descrição detalhada]
-- **[Item 3]**: [Descrição detalhada]
-- **[Item 4]**: [Descrição detalhada]
-
-### **4. [Subtítulo 4]**
-
-#### **[Subseção 4.1]**
-- **[Item 1]**: [Descrição detalhada]
-- **[Item 2]**: [Descrição detalhada]
-- **[Item 3]**: [Descrição detalhada]
-- **[Item 4]**: [Descrição detalhada]
-
-#### **[Subseção 4.2]**
+#### **[Subtópico 3.2]**
 - **[Item 1]**: [Descrição detalhada]
 - **[Item 2]**: [Descrição detalhada]
 - **[Item 3]**: [Descrição detalhada]
@@ -113,31 +121,47 @@
 
 ---
 
-## ✅ Checklist Inicial: Ação Imediata
+## 🎥 Vídeos Relacionados
 
-### **Semana 1: [Fase 1]**
-- [ ] [Ação específica 1]
-- [ ] [Ação específica 2]
-- [ ] [Ação específica 3]
-- [ ] [Ação específica 4]
+### Vídeo 1: [Título do Vídeo]
+[![Vídeo 1](caminho/para/thumbnail_video1.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
 
-### **Semana 2: [Fase 2]**
-- [ ] [Ação específica 1]
-- [ ] [Ação específica 2]
-- [ ] [Ação específica 3]
-- [ ] [Ação específica 4]
+### Vídeo 2: [Título do Vídeo]
+[![Vídeo 2](caminho/para/thumbnail_video2.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
 
-### **Semana 3: [Fase 3]**
-- [ ] [Ação específica 1]
-- [ ] [Ação específica 2]
-- [ ] [Ação específica 3]
-- [ ] [Ação específica 4]
+### Vídeo 3: [Título do Vídeo]
+[![Vídeo 3](caminho/para/thumbnail_video3.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
 
-### **Semana 4: [Fase 4]**
-- [ ] [Ação específica 1]
-- [ ] [Ação específica 2]
-- [ ] [Ação específica 3]
-- [ ] [Ação específica 4]
+---
+
+## ✅ Exercícios Práticos
+
+### **Exercício 1: [Título do Exercício]**
+- [ ] [Passo 1 do exercício]
+- [ ] [Passo 2 do exercício]
+- [ ] [Passo 3 do exercício]
+- [ ] [Passo 4 do exercício]
+
+### **Exercício 2: [Título do Exercício]**
+- [ ] [Passo 1 do exercício]
+- [ ] [Passo 2 do exercício]
+- [ ] [Passo 3 do exercício]
+- [ ] [Passo 4 do exercício]
+
+### **Exercício 3: [Título do Exercício]**
+- [ ] [Passo 1 do exercício]
+- [ ] [Passo 2 do exercício]
+- [ ] [Passo 3 do exercício]
+- [ ] [Passo 4 do exercício]
 
 ---
 
@@ -179,41 +203,13 @@
 
 ---
 
-## 🎥 Vídeos Relacionados
-
-### Vídeo 1: [Título do Vídeo]
-[![Vídeo 1](caminho/para/thumbnail_video1.jpg)](https://youtube.com/watch?v=VIDEO_ID)
-*Descrição: [Breve descrição do conteúdo do vídeo]*
-*Duração: [X minutos]*
-*Canal: [Nome do canal]*
-
-### Vídeo 2: [Título do Vídeo]
-[![Vídeo 2](caminho/para/thumbnail_video2.jpg)](https://youtube.com/watch?v=VIDEO_ID)
-*Descrição: [Breve descrição do conteúdo do vídeo]*
-*Duração: [X minutos]*
-*Canal: [Nome do canal]*
-
-### Vídeo 3: [Título do Vídeo]
-[![Vídeo 3](caminho/para/thumbnail_video3.jpg)](https://youtube.com/watch?v=VIDEO_ID)
-*Descrição: [Breve descrição do conteúdo do vídeo]*
-*Duração: [X minutos]*
-*Canal: [Nome do canal]*
-
----
-
-## 📚 Recursos Adicionais
+## 📚 Recursos e Fontes
 
 ### **Legislação Aplicável**
 - [Lei/Decreto 1]: [Descrição] - [URL ou referência completa]
 - [Lei/Decreto 2]: [Descrição] - [URL ou referência completa]
 - [Norma 1]: [Descrição] - [URL ou referência completa]
 - [Norma 2]: [Descrição] - [URL ou referência completa]
-
-### **Ferramentas Recomendadas**
-- **[Ferramenta 1]**: [Descrição] - [URL ou referência]
-- **[Ferramenta 2]**: [Descrição] - [URL ou referência]
-- **[Ferramenta 3]**: [Descrição] - [URL ou referência]
-- **[Ferramenta 4]**: [Descrição] - [URL ou referência]
 
 ### **Fontes dos Dados e Estatísticas**
 - **[Fonte 1]**: [Nome da instituição/organização] - [URL ou referência completa]
@@ -282,8 +278,14 @@
 
 ---
 
+## 🏷️ Tags
+
 **Eixo**: [Nome do Eixo]  
 **Função**: [Função Alvo]  
 **Nível**: [Nível de Profundidade]  
 **Tipo**: [Tipo de Conteúdo]  
 **Status**: [Status Editorial]
+
+---
+*Criado em: {datetime.now().strftime('%d/%m/%Y')}*
+*Versão: 1.0*

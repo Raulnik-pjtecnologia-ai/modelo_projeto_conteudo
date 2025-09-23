@@ -1,5 +1,10 @@
 # [TÍTULO DO CHECKLIST]
 
+## 🖼️ Capa
+
+![Capa do Checklist](caminho/para/capa_checklist.jpg)
+*Descrição da imagem de capa: [Breve descrição do que a imagem representa]*
+
 ## 📋 Resumo Executivo
 
 • **[Benefício 1]**: [Descrição do benefício principal]
@@ -25,6 +30,27 @@
 - **[Benefício 2]**: [Percentual] de [melhoria/redação]
 - **[Benefício 3]**: [Percentual] de [melhoria/redação]
 - **[Benefício 4]**: [Percentual] de [melhoria/redação]
+
+---
+
+## 📊 Dados e Gráficos
+
+### Gráfico 1: [Título do Gráfico]
+![Gráfico 1](caminho/para/grafico1.png)
+*Fonte: [Fonte dos dados do gráfico]*
+
+### Gráfico 2: [Título do Gráfico]
+![Gráfico 2](caminho/para/grafico2.png)
+*Fonte: [Fonte dos dados do gráfico]*
+
+### Tabela de Indicadores: [Título da Tabela]
+| Indicador | Meta | Atual | Status |
+|-----------|------|-------|--------|
+| Indicador 1 | 100% | 85% | ⚠️ |
+| Indicador 2 | 100% | 92% | ✅ |
+| Indicador 3 | 100% | 78% | ⚠️ |
+
+*Fonte: [Fonte dos dados da tabela]*
 
 ---
 
@@ -223,6 +249,55 @@
 - [ ] [Benefício 6]: [Descrição e percentual]
 - [ ] [Benefício 7]: [Descrição e percentual]
 - [ ] [Benefício 8]: [Descrição e percentual]
+
+---
+
+## 🎥 Vídeos Relacionados
+
+### Vídeo 1: [Título do Vídeo]
+[![Vídeo 1](caminho/para/thumbnail_video1.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+### Vídeo 2: [Título do Vídeo]
+[![Vídeo 2](caminho/para/thumbnail_video2.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+### Vídeo 3: [Título do Vídeo]
+[![Vídeo 3](caminho/para/thumbnail_video3.jpg)](https://youtube.com/watch?v=VIDEO_ID)
+*Descrição: [Breve descrição do conteúdo do vídeo]*
+*Duração: [X minutos]*
+*Canal: [Nome do canal]*
+
+---
+
+## 📚 Recursos e Fontes
+
+### **Legislação Aplicável**
+- [Lei/Decreto 1]: [Descrição] - [URL ou referência completa]
+- [Lei/Decreto 2]: [Descrição] - [URL ou referência completa]
+- [Norma 1]: [Descrição] - [URL ou referência completa]
+- [Norma 2]: [Descrição] - [URL ou referência completa]
+
+### **Fontes dos Dados e Estatísticas**
+- **[Fonte 1]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 2]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 3]**: [Nome da instituição/organização] - [URL ou referência completa]
+- **[Fonte 4]**: [Nome da instituição/organização] - [URL ou referência completa]
+
+### **Referências Bibliográficas**
+- [Autor 1] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 2] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+- [Autor 3] (Ano). [Título do trabalho]. [Editora/Publicação]. [URL se disponível]
+
+### **Links Úteis e Recursos Online**
+- [Link útil 1]: [Descrição] - [URL]
+- [Link útil 2]: [Descrição] - [URL]
+- [Link útil 3]: [Descrição] - [URL]
+- [Link útil 4]: [Descrição] - [URL]
 
 ---
 
