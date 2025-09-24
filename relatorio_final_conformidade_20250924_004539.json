@@ -1,0 +1,12 @@
+{
+  "total_conteudos": 185,
+  "conteudos_conformes": 168,
+  "conteudos_nao_conformes": 17,
+  "taxa_conformidade": 90.81081081081082,
+  "problemas_residuais": {
+    "sem_tags_gestao_escolar": 0,
+    "sem_descricao": 16,
+    "sem_secoes_obrigatorias": 17,
+    "conteudo_muito_curto": 0
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "data_analise": "2025-09-23T18:13:26.539828",
+  "analise_distribuicao": {
+    "tipos": {
+      "Artigo": 72,
+      "Lição": 39,
+      "Checklist": 40,
+      "Documento Oficial": 5,
+      "Artigo Curto": 1,
+      "Vídeo": 13
+    },
+    "funcoes": {
+      "Pedagógica": 56,
+      "Gestão": 123,
+      "Sustentabilidade": 4,
+      "Inovação": 8,
+      "Recursos Humanos": 27,
+      "Infraestrutura": 36,
+      "Qualidade": 45,
+      "Comunicação": 22,
+      "Financeira": 29,
+      "Jurídica": 34
+    },
+    "niveis": {
+      "Básico": 113,
+      "Avançado": 28,
+      "Intermediário": 29
+    },
+    "tags": {
+      "pedagógico": 56,
+      "Gestão Escolar": 105,
+      "Sustentabilidade": 4,
+      "Inovação": 8,
+      "Recursos Humanos": 27,
+      "infraestrutura": 36,
+      "Qualidade": 45,
+      "Comunicação": 22,
+      "financeiro": 29,
+      "Jurídico": 34
+    },
+    "total_conteudos": 170
+  },
+  "oportunidades_identificadas": [
+    {
+      "categoria": "Tipo",
+      "item": "Documento Oficial",
+      "atual": 5,
+      "percentual": 2.941176470588235,
+      "prioridade": "Alta",
+      "sugestao": "Aumentar conteúdo do tipo \"Documento Oficial\""
+    },
+    {
+      "categoria": "Tipo",
+      "item": "Artigo Curto",
+      "atual": 1,
+      "percentual": 0.5882352941176471,
+      "prioridade": "Alta",
+      "sugestao": "Aumentar conteúdo do tipo \"Artigo Curto\""
+    },
+    {
+      "categoria": "Tipo",
+      "item": "Vídeo",
+      "atual": 13,
+      "percentual": 7.647058823529412,
+      "prioridade": "Alta",
+      "sugestao": "Aumentar conteúdo do tipo \"Vídeo\""
+    },
+    {
+      "categoria": "Função",
+      "item": "Sustentabilidade",
+      "atual": 4,
+      "percentual": 2.3529411764705883,
+      "prioridade": "Alta",
+      "sugestao": "Aumentar conteúdo para função \"Sustentabilidade\""
+    },
+    {
+      "categoria": "Função",
+      "item": "Inovação",
+      "atual": 8,
+      "percentual": 4.705882352941177,
+      "prioridade": "Alta",
+      "sugestao": "Aumentar conteúdo para função \"Inovação\""
+    }
+  ],
+  "sugestoes_conteudo": [
+    {
+      "titulo": "Artigo: Inteligência Artificial na Gestão Escolar",
+      "tipo": "Artigo",
+      "tema": "Inteligência Artificial na Gestão Escolar",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Inteligência Artificial na Gestão Escolar",
+      "tipo": "Checklist",
+      "tema": "Inteligência Artificial na Gestão Escolar",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Inteligência Artificial na Gestão Escolar",
+      "tipo": "Lição",
+      "tema": "Inteligência Artificial na Gestão Escolar",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Sustentabilidade e Educação Ambiental",
+      "tipo": "Artigo",
+      "tema": "Sustentabilidade e Educação Ambiental",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Sustentabilidade e Educação Ambiental",
+      "tipo": "Checklist",
+      "tema": "Sustentabilidade e Educação Ambiental",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Sustentabilidade e Educação Ambiental",
+      "tipo": "Lição",
+      "tema": "Sustentabilidade e Educação Ambiental",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Inclusão e Acessibilidade Digital",
+      "tipo": "Artigo",
+      "tema": "Inclusão e Acessibilidade Digital",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Inclusão e Acessibilidade Digital",
+      "tipo": "Checklist",
+      "tema": "Inclusão e Acessibilidade Digital",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Inclusão e Acessibilidade Digital",
+      "tipo": "Lição",
+      "tema": "Inclusão e Acessibilidade Digital",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Gestão de Dados e Privacidade (LGPD)",
+      "tipo": "Artigo",
+      "tema": "Gestão de Dados e Privacidade (LGPD)",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Gestão de Dados e Privacidade (LGPD)",
+      "tipo": "Checklist",
+      "tema": "Gestão de Dados e Privacidade (LGPD)",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Gestão de Dados e Privacidade (LGPD)",
+      "tipo": "Lição",
+      "tema": "Gestão de Dados e Privacidade (LGPD)",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Metodologias Ativas e Tecnologia",
+      "tipo": "Artigo",
+      "tema": "Metodologias Ativas e Tecnologia",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Metodologias Ativas e Tecnologia",
+      "tipo": "Checklist",
+      "tema": "Metodologias Ativas e Tecnologia",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Metodologias Ativas e Tecnologia",
+      "tipo": "Lição",
+      "tema": "Metodologias Ativas e Tecnologia",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Gestão de Crises e Continuidade",
+      "tipo": "Artigo",
+      "tema": "Gestão de Crises e Continuidade",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Gestão de Crises e Continuidade",
+      "tipo": "Checklist",
+      "tema": "Gestão de Crises e Continuidade",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Gestão de Crises e Continuidade",
+      "tipo": "Lição",
+      "tema": "Gestão de Crises e Continuidade",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Liderança Transformacional",
+      "tipo": "Artigo",
+      "tema": "Liderança Transformacional",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Liderança Transformacional",
+      "tipo": "Checklist",
+      "tema": "Liderança Transformacional",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Liderança Transformacional",
+      "tipo": "Lição",
+      "tema": "Liderança Transformacional",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Inovação Pedagógica",
+      "tipo": "Artigo",
+      "tema": "Inovação Pedagógica",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Inovação Pedagógica",
+      "tipo": "Checklist",
+      "tema": "Inovação Pedagógica",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Inovação Pedagógica",
+      "tipo": "Lição",
+      "tema": "Inovação Pedagógica",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Gestão Financeira Sustentável",
+      "tipo": "Artigo",
+      "tema": "Gestão Financeira Sustentável",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Gestão Financeira Sustentável",
+      "tipo": "Checklist",
+      "tema": "Gestão Financeira Sustentável",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Gestão Financeira Sustentável",
+      "tipo": "Lição",
+      "tema": "Gestão Financeira Sustentável",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Comunicação Digital e Transparência",
+      "tipo": "Artigo",
+      "tema": "Comunicação Digital e Transparência",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Checklist: Comunicação Digital e Transparência",
+      "tipo": "Checklist",
+      "tema": "Comunicação Digital e Transparência",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Lição: Comunicação Digital e Transparência",
+      "tipo": "Lição",
+      "tema": "Comunicação Digital e Transparência",
+      "prioridade": "Alta",
+      "justificativa": "Conteúdo essencial para gestão escolar moderna",
+      "categoria": "Emergente"
+    },
+    {
+      "titulo": "Artigo: Documento Oficial - Guia Completo",
+      "tipo": "Artigo",
+      "tema": "Documento Oficial",
+      "prioridade": "Alta",
+      "justificativa": "Gap identificado: apenas 5 conteúdos (2.9%)",
+      "categoria": "Gap"
+    },
+    {
+      "titulo": "Artigo: Artigo Curto - Guia Completo",
+      "tipo": "Artigo",
+      "tema": "Artigo Curto",
+      "prioridade": "Alta",
+      "justificativa": "Gap identificado: apenas 1 conteúdos (0.6%)",
+      "categoria": "Gap"
+    },
+    {
+      "titulo": "Artigo: Vídeo - Guia Completo",
+      "tipo": "Artigo",
+      "tema": "Vídeo",
+      "prioridade": "Alta",
+      "justificativa": "Gap identificado: apenas 13 conteúdos (7.6%)",
+      "categoria": "Gap"
+    },
+    {
+      "titulo": "Artigo: Sustentabilidade - Guia Completo",
+      "tipo": "Artigo",
+      "tema": "Sustentabilidade",
+      "prioridade": "Alta",
+      "justificativa": "Gap identificado: apenas 4 conteúdos (2.4%)",
+      "categoria": "Gap"
+    },
+    {
+      "titulo": "Artigo: Inovação - Guia Completo",
+      "tipo": "Artigo",
+      "tema": "Inovação",
+      "prioridade": "Alta",
+      "justificativa": "Gap identificado: apenas 8 conteúdos (4.7%)",
+      "categoria": "Gap"
+    }
+  ],
+  "resumo": {
+    "total_conteudos": 170,
+    "total_oportunidades": 5,
+    "total_sugestoes": 35,
+    "oportunidades_alta_prioridade": 5
+  }
+}
