@@ -1,0 +1,2331 @@
+{
+  "data_analise": "2025-09-24T22:36:14.722845",
+  "total_paginas": 186,
+  "conteudos_gestao": [
+    {
+      "titulo": "Lição: Metodologias Ativas e Tecnologia",
+      "tipo": "Lição",
+      "id": "2775113a-91a3-813a-a575-f94978af7a6c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-25 01:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist: Metodologias Ativas e Tecnologia",
+      "tipo": "Checklist",
+      "id": "2775113a-91a3-81db-9c29-c87a51cf45c3",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-25 01:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo: Metodologias Ativas e Tecnologia",
+      "tipo": "Artigo",
+      "id": "2775113a-91a3-8198-a3c4-f1077709d014",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-25 01:28:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão de Dados e Privacidade (LGPD)",
+      "tipo": "Lição",
+      "id": "2775113a-91a3-81e6-ad6c-d82cba7a2515",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-25 01:31:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist: Gestão de Dados e Privacidade (LGPD)",
+      "tipo": "Checklist",
+      "id": "2775113a-91a3-81da-bdaa-c28e5cf45e46",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-25 01:33:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo: Gestão de Dados e Privacidade (LGPD)",
+      "tipo": "Artigo",
+      "id": "2775113a-91a3-815e-bc25-c076041e51cb",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-25 01:35:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Inclusão e Acessibilidade Digital",
+      "tipo": "Lição",
+      "id": "2775113a-91a3-8159-b133-ecfeb1ae05a8",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:09:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist: Inclusão e Acessibilidade Digital",
+      "tipo": "Checklist",
+      "id": "2775113a-91a3-8104-8b58-f3f31f820410",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:16:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:09:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo: Inclusão e Acessibilidade Digital",
+      "tipo": "Artigo",
+      "id": "2775113a-91a3-81a4-afa5-dae39414a1df",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:15:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:09:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Sustentabilidade e Educação Ambiental",
+      "tipo": "Lição",
+      "id": "2775113a-91a3-81f1-9819-f34477b09c19",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:15:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:09:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist: Sustentabilidade e Educação Ambiental",
+      "tipo": "Checklist",
+      "id": "2775113a-91a3-81df-a96b-c55c625cf735",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:15:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:10:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo: Sustentabilidade e Educação Ambiental",
+      "tipo": "Artigo",
+      "id": "2775113a-91a3-81e0-b10f-ede9250956b7",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:15:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:10:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Inteligência Artificial na Gestão Escolar",
+      "tipo": "Lição",
+      "id": "2775113a-91a3-819e-9b48-cb48e28d8d86",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:15:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:10:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist: Inteligência Artificial na Gestão Escolar",
+      "tipo": "Checklist",
+      "id": "2775113a-91a3-81d1-a0de-f4ef8d41796c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:15:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:10:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo: Inteligência Artificial na Gestão Escolar",
+      "tipo": "Artigo",
+      "id": "2775113a-91a3-81cf-a362-f3d3a40ae821",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-23 21:15:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:10:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo: Economia Circular na Educação",
+      "tipo": "Artigo",
+      "id": "2765113a-91a3-819b-b062-de7121dc0da4",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-22 21:45:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:10:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Sustentabilidade na Gestão Escolar",
+      "tipo": "Lição",
+      "id": "2765113a-91a3-8174-911c-d7b2bb51e035",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-22 21:45:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:11:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist: Gestão Ambiental Escolar",
+      "tipo": "Checklist",
+      "id": "2765113a-91a3-8124-8d6f-e32a8f866a5d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-22 21:45:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:11:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Metodologias Ativas de Ensino",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-8186-9637-d9bf31dc9dd3",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 19:26:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:11:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Liderança Transformacional na Educação",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-818f-819a-e363141c9a30",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 19:26:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:11:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Inovação Pedagógica na Escola",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-810b-81f4-cd5dc133e75a",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:26:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:11:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão de Mudanças na Educação",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-815e-9a87-d56ba2d0b34a",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 19:26:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:11:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-813d-9263-ca8d5004ea51",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:12:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão Estratégica Escolar",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-818c-8b08-d63139620b39",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:12:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão de Conflitos Escolares",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-81c3-8f66-ff72172bebf7",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:12:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Desenvolvimento Profissional Docente",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-810a-9d60-fd812b9c51bc",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:12:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: SEGURANÇA ESCOLAR INTEGRAL**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81dd-a50f-f48082e1214f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:12:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: RECRUTAMENTO E SELEÇÃO DE PROFESSORES**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8188-868e-ed9f733b41bb",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:12:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: PLANEJAMENTO ORÇAMENTÁRIO ANUAL ESCOLAR**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8145-ad96-d6f9d4fc271e",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:13:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: GESTÃO TECNOLÓGICA ESCOLAR**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-816b-baa1-c38fbd76cd16",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:13:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: GESTÃO DA QUALIDADE EDUCACIONAL**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8195-9171-c691c8e20d77",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:13:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: GESTÃO DE PROJETOS EDUCACIONAIS**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8138-890d-dcd2674e1eac",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:13:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: GESTÃO DE CRISES ESCOLARES**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81b1-bcc7-e10fbadb53b2",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:13:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: GESTÃO AMBIENTAL ESCOLAR**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8184-b089-ccd090744df0",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:14:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: AVALIAÇÃO INSTITUCIONAL ESCOLAR**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8158-8798-c2873467b416",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:14:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: AVALIAÇÃO DE DESEMPENHO DOCENTE**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81fd-a51c-e3a56577d2a8",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 19:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:14:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Plano de Crescimento Sustentável",
+      "tipo": "Documento Oficial",
+      "id": "2725113a-91a3-8141-9652-ca76853e4994",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:16:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:14:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Sistema de Monitoramento da Biblioteca",
+      "tipo": "Documento Oficial",
+      "id": "2725113a-91a3-811b-939f-d151f274a6f5",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:16:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:14:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Desenvolvimento Profissional Docente",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-8192-a327-f78ae6d6ff3d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:07:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:14:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Avaliação Institucional Escolar",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81d9-bfe1-e4578d9b81ec",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 19:07:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:14:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão Estratégica Escolar",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-81e2-b66e-e54b38caba63",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:05:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:15:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Gestão de Crises Escolares",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-816f-a0d4-f0bf51e34b9d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:05:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:15:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão de Mudanças na Educação",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-81ce-8d12-f0c5fe208428",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 19:02:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:15:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Gestão Tecnológica Escolar",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8126-8f77-d02a8ae08741",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:02:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:15:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-8168-8ca5-e889e4b1e290",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:15:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Gestão Ambiental Escolar",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8195-b1be-f6a2a3a6afd2",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:15:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Gestão da Qualidade Educacional",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81dc-a646-e30c1131f307",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 19:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:16:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Inovação Pedagógica na Escola",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-8156-a1e3-d7bd9c7af26f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 18:46:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:16:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Gestão de Projetos Educacionais",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8160-89d4-da06e2422f89",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 18:45:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:16:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão de Conflitos Escolares",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-817a-b1d7-c566f4f6d48e",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 18:44:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:16:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Avaliação de Desempenho Docente",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8104-bac4-d661effa492b",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 18:43:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:16:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Metodologias Ativas de Ensino",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-8126-9c1e-c0685e13eb64",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 18:34:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:16:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Recrutamento e Seleção de Professores",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81f6-a611-ef6fd1a214d9",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 18:34:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Liderança Transformacional na Educação",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-816c-b278-eccce3a9bfd0",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 18:32:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Planejamento Orçamentário Anual Escolar",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81ab-b70b-ec55768a60a8",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 18:32:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Inovação em Escolas**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8128-950f-c862527694c4",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 17:49:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Inovação em Escolas: Criando Culturas de Transformação Educacional",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81a4-93c2-e7dfbb61d39b",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:49:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Projetos Educacionais**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8144-b03e-f1b7da6e5865",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:49:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Projetos Educacionais: Metodologias e Práticas para Sucesso Pedagógico",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81b3-9f0f-c5725e94e7d5",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Comunidade Escolar**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-816b-bbc8-cac848780bca",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Comunidade Escolar e Relacionamento com Famílias: Construindo Parcerias Estratégicas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81f1-b72c-f5f1c645a738",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: Implementação de Analytics na Educação**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8131-9939-cec2d1f61401",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:17:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8169-b193-e01f6967ad1f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Inovação em Escolas: Criando Culturas de Transformação Educacional",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81db-b688-fa5cb0e8a453",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Projetos Educacionais: Metodologias e Práticas para Sucesso Pedagógico",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81f8-9b4f-e56c697b2df0",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Comunidade Escolar e Relacionamento com Famílias: Construindo Parcerias Estratégicas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-814b-a50b-f4d812d4b15b",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8126-b98e-e1491b32336a",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-18 17:48:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE SUSTENTABILIDADE EM ESCOLAS**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81a0-8781-e1b8e3588756",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 17:13:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE LGPD NA EDUCAÇÃO**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-811f-856f-eb858d024fce",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 17:13:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE INCLUSÃO E ACESSIBILIDADE NA GESTÃO ESCOLAR**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8108-960d-f5b9a0be9f6e",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 17:13:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE INTELIGÊNCIA ARTIFICIAL NA GESTÃO ESCOLAR**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81d8-a5a4-f322e76f1616",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:13:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "📋 **CHECKLIST: GESTÃO ESCOLAR PÓS-PANDEMIA**",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8172-9bd6-e124f761daeb",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:12:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Como Estruturar Rotinas de Segurança Predial",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81e2-a716-c402876b6ca0",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 17:12:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "LGPD e Proteção de Dados na Educação: Guia Completo para Gestores Escolares",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8149-acd6-d7e8c1f3d75f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:12:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Inteligência Artificial na Gestão Escolar: Implementação Prática e Benefícios",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8108-8e4f-f1a5187c3c25",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:11:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Inclusão e Acessibilidade na Gestão Escolar: Construindo uma Educação para Todos",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8147-a4dc-dc29156fd2d6",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c",
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:11:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:18:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Sustentabilidade em Escolas: Estratégias para uma Educação Responsável",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81e1-bb37-dd26c1c77b55",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:11:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:19:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão Escolar Pós-Pandemia: Adaptações e Inovações para o Futuro da Educação",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-817a-8506-c2bca4374f95",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 17:11:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:19:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Licao Planejamento Orcamentario Escolar",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-81f9-9079-c71e4e63c1c8",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:19:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Licao Comunicacao Digital Escolar",
+      "tipo": "Lição",
+      "id": "2725113a-91a3-815f-a983-fa5213892733",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:19:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist Seguranca Alimentar Escolas",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-814b-af29-daaa0927ac9f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:19:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist Manutencao Preventiva Escolas",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-81a0-b97b-ed7e7d03ade2",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:19:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist Implementacao Comunicacao Escolar",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-812d-91f5-fbfa5e7563ca",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:19:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist Conformidade Legal Contratacoes",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-8122-94fd-f8d21f05a2f5",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:20:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist Auditoria Fornecedores",
+      "tipo": "Checklist",
+      "id": "2725113a-91a3-815b-852e-f1463c1bd97a",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:20:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Rotinas Seguranca Predial Escolas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8132-854b-e3d5d24a4630",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c",
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:20:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Riscos Operacionais Escolas Mitigacao",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-814d-ad47-c04402727471",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:20:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Politicas Compras Escolas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81ec-bf76-e05baf4ed55a",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:21:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Planejamento Quadro Pessoal Escolar",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81eb-8d8b-fc9c92b1df39",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:21:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Padroes Qualidade Alimentacao Escolar",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-813c-a64b-f43a19a69504",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:21:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Normas Acessibilidade Escolas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-817c-9128-e33b001c52a7",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:21:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Transporte Escolar",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81c3-bce3-fcdf7efef90b",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c",
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:21:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Fluxo Caixa Educacional",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-813e-8343-ca5636ea9573",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:21:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Documental Secretarias Educacao",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8168-83a4-e08785858591",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:21:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Contratos Manutencao Escolas",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-811a-b496-d11ae4617934",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:22:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Contratos Escolares",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-81ba-85da-ccfb1f7990cc",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:22:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Comunicacao Escolar Avancado",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8146-945d-db8ce3cc03ec",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-18 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:22:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Comunicacao Escolar",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8111-aa3d-e57dadce7cef",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:22:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Gestao Beneficios Redes Escolares",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8112-96f1-f0d0ce25c622",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-18 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:22:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Artigo Controle Estoque Materiais Escolares",
+      "tipo": "Artigo",
+      "id": "2725113a-91a3-8167-8c78-c9e5c372ffcd",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-18 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:22:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Comunicação Escolar: Estratégia, Transparência e Engajamento da Comunidade",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-810d-80eb-d4ddb59a5a89",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81e7-926b-df4edbd9e525",
+        "2325113a-91a3-81b9-a393-fec761b34d1a"
+      ],
+      "created_datetime": "2025-09-16 19:10:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:23:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Auditoria de Fornecedores Escolares",
+      "tipo": "Checklist",
+      "id": "2705113a-91a3-8164-913c-f31a59e4a53b",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-16 19:09:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:23:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Planejamento Orçamentário Escolar: Estratégia, Controle e Sustentabilidade Financeira",
+      "tipo": "Lição",
+      "id": "2705113a-91a3-815f-bdea-e31289444898",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-16 19:06:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:23:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Conformidade Legal em Contratações Escolares",
+      "tipo": "Checklist",
+      "id": "2705113a-91a3-81bf-b696-fdc9be24a775",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81e7-926b-df4edbd9e525",
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-09-16 19:05:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:23:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Contratos Escolares: Eficiência Administrativa e Conformidade Legal",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-81ca-9815-d81ae59ae5e8",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-16 19:04:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:23:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "O Papel do Coordenador Pedagógico em Redes Escolares (Duplicata)",
+      "tipo": "Artigo Curto",
+      "id": "2705113a-91a3-8030-9361-d4ba2de14656",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-16 18:11:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:23:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Extração das tags únicas da planilha e cadastro no Notion (para “Assuntos”)",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-80c4-96b5-f36ca93045e7",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-16 16:45:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:23:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Atualiza as opções do campo multi-select no Notion para incluir as novas que faltam.",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-8034-9c1c-c74442047eea",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-16 16:45:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "O Papel do Coordenador Pedagógico em Redes Escolares",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-80c9-a8cf-d083de6b8062",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-16 14:27:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist desligamento",
+      "tipo": "Checklist",
+      "id": "2705113a-91a3-8025-8d4a-cdb2e5de05ee",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-09-16 14:05:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist de Admissão de Colaboradores",
+      "tipo": "Checklist",
+      "id": "2705113a-91a3-8093-9480-ea6d8eff7fd4",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-09-16 14:04:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Substituição professores",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-8039-b722-f82eac69748c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-09-16 14:03:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Redução rotatividade",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-80c6-a5f6-d30cccdc9433",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-09-16 14:01:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Planejamento quadro pessoal",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-80a2-82e4-c2f4ecc8b232",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-16 13:58:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:24:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Modelos de Contratação no Setor Educacional",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-8010-af58-fc0a0caa9f7f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-16 13:56:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:25:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Benefícios Corporativos",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-8073-8633-c1dac6efedf7",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-16 13:46:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:25:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Avaliação desempenho",
+      "tipo": "Artigo",
+      "id": "2705113a-91a3-8099-8c2e-f0c19124248e",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-16 13:19:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:25:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist conformidade contratos pagamentos",
+      "tipo": "Checklist",
+      "id": "26d5113a-91a3-80a6-bf2f-e2f37a4eb43d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-13 18:25:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:25:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Checklist fechamento financeiro mensal",
+      "tipo": "Checklist",
+      "id": "26d5113a-91a3-804c-9ab2-de004801c0c5",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-13 18:23:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Fluxo de Caixa Educacional",
+      "tipo": "Artigo",
+      "id": "26d5113a-91a3-80ed-a675-cea1352fd59e",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-09-13 17:43:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Políticas de Compras para Escolas: Boas Práticas",
+      "tipo": "Artigo",
+      "id": "26d5113a-91a3-80f8-be45-dfb2ea005375",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-13 17:43:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Prestação de contas conselhos fundos",
+      "tipo": "Artigo",
+      "id": "26d5113a-91a3-80f8-8837-dbbfc6f6e6bc",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-13 17:42:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Estrutura centro de custos",
+      "tipo": "Artigo",
+      "id": "26d5113a-91a3-8038-86b4-ddc94b330bef",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-09-13 17:39:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Erros execução orçamentária",
+      "tipo": "Artigo",
+      "id": "26c5113a-91a3-8016-86c7-f0460673911e",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-12 20:12:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Como estruturar um calendário de pagamentos escolares",
+      "tipo": "Artigo",
+      "id": "26c5113a-91a3-807c-a228-d77d1cd54aed",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-09-12 19:12:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:26:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Adaptar atributos dos bancos para contexto ENEM",
+      "tipo": "Artigo",
+      "id": "2695113a-91a3-8057-9cd3-cbb7af6ccab9",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-09-09 15:30:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:27:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Paraná tem a melhor educação do Brasil no ranking geral do Ideb",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8151-8265-e906175f8a10",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:27:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lei de Cotas Completa 33 Anos",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81d5-8882-d49f73bd6063",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:27:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Qualidade e Auditorias: Prestação de Contas Final",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8175-b1ad-d201e57a8fd2",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:27:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Engajamento dos Pais e da Comunidade Escolar",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-819f-a933-e7790141676f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:27:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Planejamento Orçamentário e Finanças da Escola",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-81b0-b96b-c71fa8d45cd1",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:27:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Viagens a Trabalho: Como Estruturar uma Política de Reembolsos Clara, Econômica e Auditável",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81b8-b7b7-e30f53d0966d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:28:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Promoções e Mudanças de Carga Horária no Quadro Administrativo: Critérios, Comunicação e Transparência",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81e6-b54b-df290b89e1b3",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:28:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Comunicação Não-Violenta e Gestão de Conflitos",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8109-9d0c-e7af8032b439",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:28:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "As verdades sobre o programa Parceiro da Escola",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8118-9d48-d3deaeadb9d7",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-818f-b7e6-d8905ae463e2"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:28:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Fundo Nacional de Desenvolvimento da Educação",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8120-b7ca-eaea4911d473",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:28:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Cultura de Aprendizagem Contínua e Inovação na Gestão",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8131-9bc1-e3ac4c930ca6",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:29:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "A importância da Parceria entre Família e Escola",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8134-89b2-e1539f2d3e48",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:29:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Contratação e Mobilidade Interna: Eficiência Estratégica e Valorização do Capital Humano",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-816b-950b-ecec7202a2fd",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:29:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Integração, Desenvolvimento e Retenção de Colaboradores",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8104-8402-c38c64e69782",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:29:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Desligamentos Organizacionais: Justiça, Conformidade Legal e Governança no Processo Demissional",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81c8-8501-f03b0ef0036f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:29:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Edital Programa Parceiro da Escola",
+      "tipo": "Documento Oficial",
+      "id": "2325113a-91a3-81d7-acfb-e0deeafcbe84",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-810a-a7bf-f6c18e61d662"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:29:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Colaboração com Professores e Equipe Pedagógica",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-81db-92cc-c9d5ea7eed7d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:30:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Pagamentos Avulsos: Controle, Rastreabilidade e Redução de Riscos em Despesas Pontuais",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81e3-8670-d3b4343942d5",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:30:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Contexto e Origem do Programa Parceiro da Escola",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8156-9a1d-c71abf246e24",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:30:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Cartão de Crédito Corporativo: Agilidade com Controle, Responsabilidade e Rastreabilidade",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8160-892e-e50b08f9129f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:30:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Princípios Modernos de Gestão aplicados à Escola",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8170-b9ae-f1601858f1d6",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:31:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gerenciando a Cultura e o Clima da Escola\n",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8173-a928-fe1fb1e7e2ca",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:31:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Como Aproximar as Famílias da Escola",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81a0-a3ba-c2e9b0311210",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:31:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Faltas e Substituições no Quadro Administrativo: Continuidade Operacional e Controle de Recursos Humanos",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81ab-8df5-f453c21267b1",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:31:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "PDCA na Prática",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8182-b802-de3f291bd082",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:31:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Tudo que você precisa saber sobre o Parceiro da Escola",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8189-870a-da6211200dcd",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81e7-926b-df4edbd9e525"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:32:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão à Vista ",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-81ba-98d4-f7fc6f1f1240",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:32:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Fechamento de Folha: Rigor Técnico, Cumprimento Legal e Confiabilidade no Pagamento",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81b5-8ef3-c50948a8eeab",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:32:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Banco de Horas: Flexibilidade com Controle e Segurança Jurídica",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81c4-9659-f5d423d2559c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:33:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Indicadores Administrativos e Ferramentas da Qualidade",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-81c5-94c4-faa3be5d1fd4",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:33:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Benefícios Corporativos: Atratividade, Retenção e Alinhamento com a Cultura Organizacional",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8190-a029-eeda344a2753",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c",
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:33:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Apoio do Gestor ao Desempenho Acadêmico dos Alunos",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-81fb-8de1-dcbea2e3061f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:33:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão de Pessoal na Escola e Recrutamento Efetivo",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-812e-82e6-c1d866796dcb",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-818f-b7e6-d8905ae463e2"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:33:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lei Federal nº 9.394/1996 (LDB) – Diretrizes e Bases da Educação Nacional",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8191-87bc-e6862fe7c888",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:33:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Faltas e Substituições Docentes: Organização Acadêmica, Impacto Orçamentário e Confiabilidade na Folha",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81bf-99c7-c4872a7df16c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:34:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: A Educação Pública no Paraná e seus Desafios",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8107-9eda-fdac84bc96a2",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:34:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Reembolsos Corporativos: Transparência, Eficiência e Responsabilidade Fiscal",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8156-928c-d91d080d1c52",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81b9-940c-c7edf1d86b41"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:34:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Políticas Educacionais e Currículo: Alinhando Administração e Projeto Pedagógico",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-817f-874b-eabe3c3e97d6",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:34:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Planejamento e Acompanhamento de Infraestrutura: Eficiência Operacional e Conservação Patrimonial",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81b4-b0ab-d0ccb411cc33",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c",
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:34:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Consolidação das Leis de Trabalho",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8134-99ce-e57dd3f10243",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-810a-a7bf-f6c18e61d662"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:34:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Contratos com Fornecedores: Formalização, Segurança Jurídica e Gestão de Compras",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8154-b4de-d05c7f0e75fa",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:35:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Gestão de Fornecedores e Contratos de Serviços",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-8169-bced-c8854664ff7c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:35:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Comunicação Não-Violenta no Ambiente Escolar",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-81b4-901d-fcdf6e7b628d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:35:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Os desafios da BNCC para os Gestores",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-81c7-b1ed-f96e5735c814",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:35:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Liderança, Relacionamento e Cultura Colaborativa",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-81d0-b439-f24ffc0f62c1",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-818f-b7e6-d8905ae463e2"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:35:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "O Papel do Gestor Escolar Administrativo",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8105-b6d8-da3901112d84",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:36:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Como fazer o PPP funcionar",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8160-982b-fbc97af7f56d",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:36:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Gestão de Férias Trabalhistas: Planejamento, Conformidade Legal e Continuidade Operacional",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-8169-8b98-d9f276b7aa2c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:36:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lei 14.133/2021 – Nova Lei de Licitações",
+      "tipo": "Documento Oficial",
+      "id": "2325113a-91a3-8172-96ae-c89eee6192c3",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-810a-a7bf-f6c18e61d662"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:36:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Acompanhamento de Indicadores Educacionais e Metas de Aprendizagem",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-817a-9a81-e24f37acbb53",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:36:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "6 Passos para Garantir a Segurança Escolar",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-819b-9598-ea5431262104",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Plano de Cargos e Salários: Estrutura, Transparência e Estratégia de Valorização",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81c0-873d-f1714f3b4f18",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lei 22.006/2024 - Institui o programa Parceiro da Escola",
+      "tipo": "Documento Oficial",
+      "id": "2325113a-91a3-8145-978a-e28aa4e5a25a",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-810a-a7bf-f6c18e61d662"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "O que são 5S | Como implementar",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8172-abde-e14a88a58931",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Lição: Infraestrutura Escolar: Manutenção e Segurança do Espaço",
+      "tipo": "Lição",
+      "id": "2325113a-91a3-817b-bc66-e71a5a51dc80",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c",
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Índice de Artigos Financeiros e Administrativos",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81cb-b95c-eb9d4e71ab8c",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "COM PROGRAMA PARCEIRO DA ESCOLA, GOVERNO DO ESTADO QUER EXPANDIR QUALIDADE DA EDUCAÇÃO",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-8148-9571-dccc0aa6f67f",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-81c7-a475-dc537a11c70c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Kanban na Prática - Como funciona o Kanban",
+      "tipo": "Vídeo",
+      "id": "2325113a-91a3-81a7-b0f8-c41eed162f33",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    },
+    {
+      "titulo": "Fechamento de Comitê Financeiro: Prestação de Contas, Indicadores Orçamentários e Decisão Estratégica",
+      "tipo": "Artigo",
+      "id": "2325113a-91a3-81b3-8faa-f87325088662",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-819f-8d12-ceeeff041cb7",
+        "2325113a-91a3-81f0-b0e1-eb04ee60746c"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:37:00+00:00",
+      "is_gestao": true
+    }
+  ],
+  "conteudos_nao_gestao": [
+    {
+      "titulo": "Aula 1: Slides",
+      "tipo": "Apresentação",
+      "id": "2325113a-91a3-819b-8341-ccaaf5697f10",
+      "tags": [],
+      "status": "Rascunho",
+      "categoria_ids": [
+        "2325113a-91a3-818f-b7e6-d8905ae463e2"
+      ],
+      "created_datetime": "2025-07-16 15:00:00+00:00",
+      "last_edited_datetime": "2025-09-24 23:32:00+00:00",
+      "is_gestao": false
+    }
+  ],
+  "tipos_gestao": {
+    "Lição": 44,
+    "Checklist": 45,
+    "Artigo": 77,
+    "Documento Oficial": 5,
+    "Artigo Curto": 1,
+    "Vídeo": 13
+  },
+  "status_gestao": {
+    "Rascunho": 185
+  }
+}

@@ -1,0 +1,997 @@
+{
+  "data_analise": "2025-09-25T20:40:14.489933",
+  "bloco": 4,
+  "total_paginas_processadas": 45,
+  "total_melhoradas": 45,
+  "total_sem_melhorias": 0,
+  "paginas_processadas": [
+    {
+      "page_id": "2775113a-91a3-819e-9b48-cb48e28d8d86",
+      "titulo": "Lição: Inteligência Artificial na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2775113a-91a3-81d1-a0de-f4ef8d41796c",
+      "titulo": "Checklist: Inteligência Artificial na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2775113a-91a3-81cf-a362-f3d3a40ae821",
+      "titulo": "Artigo: Inteligência Artificial na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2765113a-91a3-8174-911c-d7b2bb51e035",
+      "titulo": "Lição: Sustentabilidade na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2765113a-91a3-8124-8d6f-e32a8f866a5d",
+      "titulo": "Checklist: Gestão Ambiental Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-815e-9a87-d56ba2d0b34a",
+      "titulo": "Lição: Gestão de Mudanças na Educação",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-813d-9263-ca8d5004ea51",
+      "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-818c-8b08-d63139620b39",
+      "titulo": "Lição: Gestão Estratégica Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81c3-8f66-ff72172bebf7",
+      "titulo": "Lição: Gestão de Conflitos Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81dd-a50f-f48082e1214f",
+      "titulo": "📋 **CHECKLIST: SEGURANÇA ESCOLAR INTEGRAL**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8145-ad96-d6f9d4fc271e",
+      "titulo": "📋 **CHECKLIST: PLANEJAMENTO ORÇAMENTÁRIO ANUAL ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-816b-baa1-c38fbd76cd16",
+      "titulo": "📋 **CHECKLIST: GESTÃO TECNOLÓGICA ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8195-9171-c691c8e20d77",
+      "titulo": "📋 **CHECKLIST: GESTÃO DA QUALIDADE EDUCACIONAL**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8138-890d-dcd2674e1eac",
+      "titulo": "📋 **CHECKLIST: GESTÃO DE PROJETOS EDUCACIONAIS**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81b1-bcc7-e10fbadb53b2",
+      "titulo": "📋 **CHECKLIST: GESTÃO DE CRISES ESCOLARES**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8184-b089-ccd090744df0",
+      "titulo": "📋 **CHECKLIST: GESTÃO AMBIENTAL ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8158-8798-c2873467b416",
+      "titulo": "📋 **CHECKLIST: AVALIAÇÃO INSTITUCIONAL ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81d9-bfe1-e4578d9b81ec",
+      "titulo": "Checklist de Avaliação Institucional Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81e2-b66e-e54b38caba63",
+      "titulo": "Lição: Gestão Estratégica Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-816f-a0d4-f0bf51e34b9d",
+      "titulo": "Checklist de Gestão de Crises Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81ce-8d12-f0c5fe208428",
+      "titulo": "Lição: Gestão de Mudanças na Educação",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8126-8f77-d02a8ae08741",
+      "titulo": "Checklist de Gestão Tecnológica Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8168-8ca5-e889e4b1e290",
+      "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8195-b1be-f6a2a3a6afd2",
+      "titulo": "Checklist de Gestão Ambiental Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81dc-a646-e30c1131f307",
+      "titulo": "Checklist de Gestão da Qualidade Educacional",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8160-89d4-da06e2422f89",
+      "titulo": "Checklist de Gestão de Projetos Educacionais",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-817a-b1d7-c566f4f6d48e",
+      "titulo": "Lição: Gestão de Conflitos Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81ab-b70b-ec55768a60a8",
+      "titulo": "Checklist de Planejamento Orçamentário Anual Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8128-950f-c862527694c4",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Inovação em Escolas**",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8144-b03e-f1b7da6e5865",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Projetos Educacionais**",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-816b-bbc8-cac848780bca",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Comunidade Escolar**",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8169-b193-e01f6967ad1f",
+      "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+      "melhorias_aplicadas": [
+        "Tags e categorização"
+      ],
+      "total_melhorias": 1,
+      "percentual_original": 88.88888888888889,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8126-b98e-e1491b32336a",
+      "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+      "melhorias_aplicadas": [
+        "Tags e categorização"
+      ],
+      "total_melhorias": 1,
+      "percentual_original": 88.88888888888889,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81d8-a5a4-f322e76f1616",
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE INTELIGÊNCIA ARTIFICIAL NA GESTÃO ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Fontes confiáveis",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81f9-9079-c71e4e63c1c8",
+      "titulo": "Licao Planejamento Orcamentario Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-815f-a983-fa5213892733",
+      "titulo": "Licao Comunicacao Digital Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-812d-91f5-fbfa5e7563ca",
+      "titulo": "Checklist Implementacao Comunicacao Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81eb-8d8b-fc9c92b1df39",
+      "titulo": "Artigo Planejamento Quadro Pessoal Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-813c-a64b-f43a19a69504",
+      "titulo": "Artigo Padroes Qualidade Alimentacao Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81c3-bce3-fcdf7efef90b",
+      "titulo": "Artigo Gestao Transporte Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-813e-8343-ca5636ea9573",
+      "titulo": "Artigo Gestao Fluxo Caixa Educacional",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81ba-85da-ccfb1f7990cc",
+      "titulo": "Artigo Gestao Contratos Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8146-945d-db8ce3cc03ec",
+      "titulo": "Artigo Gestao Comunicacao Escolar Avancado",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8111-aa3d-e57dadce7cef",
+      "titulo": "Artigo Gestao Comunicacao Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8112-96f1-f0d0ce25c622",
+      "titulo": "Artigo Gestao Beneficios Redes Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    }
+  ],
+  "paginas_melhoradas": [
+    {
+      "page_id": "2775113a-91a3-819e-9b48-cb48e28d8d86",
+      "titulo": "Lição: Inteligência Artificial na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2775113a-91a3-81d1-a0de-f4ef8d41796c",
+      "titulo": "Checklist: Inteligência Artificial na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2775113a-91a3-81cf-a362-f3d3a40ae821",
+      "titulo": "Artigo: Inteligência Artificial na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2765113a-91a3-8174-911c-d7b2bb51e035",
+      "titulo": "Lição: Sustentabilidade na Gestão Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2765113a-91a3-8124-8d6f-e32a8f866a5d",
+      "titulo": "Checklist: Gestão Ambiental Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-815e-9a87-d56ba2d0b34a",
+      "titulo": "Lição: Gestão de Mudanças na Educação",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-813d-9263-ca8d5004ea51",
+      "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-818c-8b08-d63139620b39",
+      "titulo": "Lição: Gestão Estratégica Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81c3-8f66-ff72172bebf7",
+      "titulo": "Lição: Gestão de Conflitos Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81dd-a50f-f48082e1214f",
+      "titulo": "📋 **CHECKLIST: SEGURANÇA ESCOLAR INTEGRAL**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8145-ad96-d6f9d4fc271e",
+      "titulo": "📋 **CHECKLIST: PLANEJAMENTO ORÇAMENTÁRIO ANUAL ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-816b-baa1-c38fbd76cd16",
+      "titulo": "📋 **CHECKLIST: GESTÃO TECNOLÓGICA ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8195-9171-c691c8e20d77",
+      "titulo": "📋 **CHECKLIST: GESTÃO DA QUALIDADE EDUCACIONAL**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8138-890d-dcd2674e1eac",
+      "titulo": "📋 **CHECKLIST: GESTÃO DE PROJETOS EDUCACIONAIS**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81b1-bcc7-e10fbadb53b2",
+      "titulo": "📋 **CHECKLIST: GESTÃO DE CRISES ESCOLARES**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8184-b089-ccd090744df0",
+      "titulo": "📋 **CHECKLIST: GESTÃO AMBIENTAL ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8158-8798-c2873467b416",
+      "titulo": "📋 **CHECKLIST: AVALIAÇÃO INSTITUCIONAL ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81d9-bfe1-e4578d9b81ec",
+      "titulo": "Checklist de Avaliação Institucional Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81e2-b66e-e54b38caba63",
+      "titulo": "Lição: Gestão Estratégica Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-816f-a0d4-f0bf51e34b9d",
+      "titulo": "Checklist de Gestão de Crises Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81ce-8d12-f0c5fe208428",
+      "titulo": "Lição: Gestão de Mudanças na Educação",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8126-8f77-d02a8ae08741",
+      "titulo": "Checklist de Gestão Tecnológica Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8168-8ca5-e889e4b1e290",
+      "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8195-b1be-f6a2a3a6afd2",
+      "titulo": "Checklist de Gestão Ambiental Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81dc-a646-e30c1131f307",
+      "titulo": "Checklist de Gestão da Qualidade Educacional",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8160-89d4-da06e2422f89",
+      "titulo": "Checklist de Gestão de Projetos Educacionais",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-817a-b1d7-c566f4f6d48e",
+      "titulo": "Lição: Gestão de Conflitos Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81ab-b70b-ec55768a60a8",
+      "titulo": "Checklist de Planejamento Orçamentário Anual Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8128-950f-c862527694c4",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Inovação em Escolas**",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8144-b03e-f1b7da6e5865",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Projetos Educacionais**",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-816b-bbc8-cac848780bca",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Comunidade Escolar**",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8169-b193-e01f6967ad1f",
+      "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+      "melhorias_aplicadas": [
+        "Tags e categorização"
+      ],
+      "total_melhorias": 1,
+      "percentual_original": 88.88888888888889,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8126-b98e-e1491b32336a",
+      "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+      "melhorias_aplicadas": [
+        "Tags e categorização"
+      ],
+      "total_melhorias": 1,
+      "percentual_original": 88.88888888888889,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81d8-a5a4-f322e76f1616",
+      "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE INTELIGÊNCIA ARTIFICIAL NA GESTÃO ESCOLAR**",
+      "melhorias_aplicadas": [
+        "Fontes confiáveis",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81f9-9079-c71e4e63c1c8",
+      "titulo": "Licao Planejamento Orcamentario Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-815f-a983-fa5213892733",
+      "titulo": "Licao Comunicacao Digital Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-812d-91f5-fbfa5e7563ca",
+      "titulo": "Checklist Implementacao Comunicacao Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81eb-8d8b-fc9c92b1df39",
+      "titulo": "Artigo Planejamento Quadro Pessoal Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-813c-a64b-f43a19a69504",
+      "titulo": "Artigo Padroes Qualidade Alimentacao Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81c3-bce3-fcdf7efef90b",
+      "titulo": "Artigo Gestao Transporte Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-813e-8343-ca5636ea9573",
+      "titulo": "Artigo Gestao Fluxo Caixa Educacional",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-81ba-85da-ccfb1f7990cc",
+      "titulo": "Artigo Gestao Contratos Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8146-945d-db8ce3cc03ec",
+      "titulo": "Artigo Gestao Comunicacao Escolar Avancado",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8111-aa3d-e57dadce7cef",
+      "titulo": "Artigo Gestao Comunicacao Escolar",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    },
+    {
+      "page_id": "2725113a-91a3-8112-96f1-f0d0ce25c622",
+      "titulo": "Artigo Gestao Beneficios Redes Escolares",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 77.77777777777779,
+      "status": "melhorada"
+    }
+  ]
+}
