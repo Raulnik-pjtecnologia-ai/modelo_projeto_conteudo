@@ -1,0 +1,1118 @@
+{
+  "data_correcao": "2025-09-25T21:39:24.409675",
+  "titulo": "CORREÇÃO COMPLETA PARA 100% DE CONFORMIDADE COM BOILERPLATE",
+  "regras_aplicadas": [
+    "REGRA_ENRIQUECIMENTO_MCP.md",
+    "REGRA_BOILERPLATE_GESTAO.md",
+    "REGRA_CURADORIA_OBRIGATORIA.md",
+    "REGRA_PRESENTACAO_CONTEUDO.md"
+  ],
+  "total_paginas_corrigidas": 58,
+  "total_com_erro": 0,
+  "paginas_aprovadas": 25,
+  "paginas_reprovadas": 33,
+  "percentual_aprovacao": 43.103448275862064,
+  "paginas_corrigidas": [
+    {
+      "page_id": "2775113a-91a3-813a-a575-f94978af7a6c",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2775113a-91a3-81db-9c29-c87a51cf45c3",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2775113a-91a3-8198-a3c4-f1077709d014",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2775113a-91a3-81e6-ad6c-d82cba7a2515",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2775113a-91a3-81da-bdaa-c28e5cf45e46",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2775113a-91a3-815e-bc25-c076041e51cb",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2775113a-91a3-8159-b133-ecfeb1ae05a8",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2765113a-91a3-819b-b062-de7121dc0da4",
+      "titulo": "Artigo: Economia Circular na Educação",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-816c-b278-eccce3a9bfd0",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 33.33333333333333,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8128-950f-c862527694c4",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Inovação em Escolas**",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81a4-93c2-e7dfbb61d39b",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8144-b03e-f1b7da6e5865",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Projetos Educacionais**",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81b3-9f0f-c5725e94e7d5",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-816b-bbc8-cac848780bca",
+      "titulo": "📋 **CHECKLIST: Implementação de Gestão de Comunidade Escolar**",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81f1-b72c-f5f1c645a738",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8131-9939-cec2d1f61401",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 4,
+      "percentual_original": 22.22222222222222,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81db-b688-fa5cb0e8a453",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81f8-9b4f-e56c697b2df0",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-814b-a50b-f4d812d4b15b",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81a0-8781-e1b8e3588756",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 4,
+      "percentual_original": 22.22222222222222,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8108-960d-f5b9a0be9f6e",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Fontes confiáveis",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 5,
+      "percentual_original": 11.11111111111111,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8172-9bd6-e124f761daeb",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Fontes confiáveis",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 5,
+      "percentual_original": 11.11111111111111,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81e2-a716-c402876b6ca0",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Fontes confiáveis",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 5,
+      "percentual_original": 22.22222222222222,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8149-acd6-d7e8c1f3d75f",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Fontes confiáveis",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 5,
+      "percentual_original": 11.11111111111111,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8108-8e4f-f1a5187c3c25",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Fontes confiáveis",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-8147-a4dc-dc29156fd2d6",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 4,
+      "percentual_original": 22.22222222222222,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-81e1-bb37-dd26c1c77b55",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Fontes confiáveis",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 5,
+      "percentual_original": 11.11111111111111,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2725113a-91a3-817a-8506-c2bca4374f95",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Fontes confiáveis",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 5,
+      "percentual_original": 11.11111111111111,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-80c4-96b5-f36ca93045e7",
+      "titulo": "Extração das tags únicas da planilha e cadastro no Notion (para “Assuntos”)",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-8034-9c1c-c74442047eea",
+      "titulo": "Atualiza as opções do campo multi-select no Notion para incluir as novas que faltam.",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-8039-b722-f82eac69748c",
+      "titulo": "Substituição professores",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-80c6-a5f6-d30cccdc9433",
+      "titulo": "Redução rotatividade",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-80a2-82e4-c2f4ecc8b232",
+      "titulo": "Planejamento quadro pessoal",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-8010-af58-fc0a0caa9f7f",
+      "titulo": "Modelos de Contratação no Setor Educacional",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-8073-8633-c1dac6efedf7",
+      "titulo": "Gestão de Benefícios Corporativos",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-8099-8c2e-f0c19124248e",
+      "titulo": "Avaliação desempenho",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2695113a-91a3-8057-9cd3-cbb7af6ccab9",
+      "titulo": "Adaptar atributos dos bancos para contexto ENEM",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8151-8265-e906175f8a10",
+      "titulo": "Paraná tem a melhor educação do Brasil no ranking geral do Ideb",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-81d5-8882-d49f73bd6063",
+      "titulo": "Lei de Cotas Completa 33 Anos",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8118-9d48-d3deaeadb9d7",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8120-b7ca-eaea4911d473",
+      "titulo": "Fundo Nacional de Desenvolvimento da Educação",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-81d7-acfb-e0deeafcbe84",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8156-9a1d-c71abf246e24",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-81a0-a3ba-c2e9b0311210",
+      "titulo": "Como Aproximar as Famílias da Escola",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8189-870a-da6211200dcd",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8191-87bc-e6862fe7c888",
+      "titulo": "Lei Federal nº 9.394/1996 (LDB) – Diretrizes e Bases da Educação Nacional",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8134-99ce-e57dd3f10243",
+      "titulo": "Consolidação das Leis de Trabalho",
+      "melhorias_aplicadas": [
+        "Vídeos educativos do YouTube",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8169-8b98-d9f276b7aa2c",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Fontes confiáveis",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 4,
+      "percentual_original": 22.22222222222222,
+      "percentual_novo": 66.66666666666666,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8172-96ae-c89eee6192c3",
+      "titulo": "Lei 14.133/2021 – Nova Lei de Licitações",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-817a-9a81-e24f37acbb53",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-819b-9598-ea5431262104",
+      "titulo": "6 Passos para Garantir a Segurança Escolar",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-81c0-873d-f1714f3b4f18",
+      "titulo": "Plano de Cargos e Salários: Estrutura, Transparência e Estratégia de Valorização",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 88.88888888888889,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8145-978a-e28aa4e5a25a",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 2,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8172-abde-e14a88a58931",
+      "titulo": "O que são 5S | Como implementar",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-817b-bc66-e71a5a51dc80",
+      "titulo": "Lição: Infraestrutura Escolar: Manutenção e Segurança do Espaço",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 55.55555555555556,
+      "percentual_novo": 88.88888888888889,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-8148-9571-dccc0aa6f67f",
+      "titulo": "",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-81a7-b0f8-c41eed162f33",
+      "titulo": "Kanban na Prática - Como funciona o Kanban",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_curadoria": "APROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    },
+    {
+      "page_id": "2325113a-91a3-81b3-8faa-f87325088662",
+      "titulo": "Fechamento de Comitê Financeiro: Prestação de Contas, Indicadores Orçamentários e Decisão Estratégica",
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos do YouTube",
+        "Tags e categorização"
+      ],
+      "total_melhorias": 3,
+      "percentual_original": 44.44444444444444,
+      "percentual_novo": 77.77777777777779,
+      "status_curadoria": "REPROVADO",
+      "regras_aplicadas": [
+        "REGRA_ENRIQUECIMENTO_MCP",
+        "REGRA_BOILERPLATE_GESTAO",
+        "REGRA_CURADORIA_OBRIGATORIA",
+        "REGRA_PRESENTACAO_CONTEUDO"
+      ]
+    }
+  ],
+  "paginas_com_erro": []
+}
