@@ -1,0 +1,199 @@
+{
+  "data_verificacao": "2025-09-30T16:44:01.426200",
+  "total_verificacoes_realizadas": 19,
+  "verificacoes_corretas": 19,
+  "verificacoes_incorretas": 0,
+  "percentual_sucesso": 100.0,
+  "detalhes_verificacao": [
+    {
+      "page_id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:42.183085"
+    },
+    {
+      "page_id": "2775113a-91a3-8055-aa64-f44db7c10609",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:42.998014"
+    },
+    {
+      "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+      "titulo": "",
+      "tipo_esperado": "Educacao",
+      "valor_atual": "Educacao",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:43.806772"
+    },
+    {
+      "page_id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:45.027418"
+    },
+    {
+      "page_id": "2705113a-91a3-81ee-9c22-e89f72812350",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:45.862818"
+    },
+    {
+      "page_id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:47.325193"
+    },
+    {
+      "page_id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:48.168109"
+    },
+    {
+      "page_id": "26a5113a-91a3-810b-b647-e10963c83524",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:49.854523"
+    },
+    {
+      "page_id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:50.670754"
+    },
+    {
+      "page_id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:51.479156"
+    },
+    {
+      "page_id": "26a5113a-91a3-8112-a314-ccea441781fb",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:52.300160"
+    },
+    {
+      "page_id": "26a5113a-91a3-8172-b405-e315b96897a7",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:53.480017"
+    },
+    {
+      "page_id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:54.322522"
+    },
+    {
+      "page_id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:55.662689"
+    },
+    {
+      "page_id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:57.556114"
+    },
+    {
+      "page_id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:58.377573"
+    },
+    {
+      "page_id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:43:59.286420"
+    },
+    {
+      "page_id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:44:00.111949"
+    },
+    {
+      "page_id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+      "titulo": "",
+      "tipo_esperado": "Gestao Escolar",
+      "valor_atual": "Gestao Escolar",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Tipo",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T16:44:00.925602"
+    }
+  ]
+}
