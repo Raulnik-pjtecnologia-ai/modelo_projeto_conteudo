@@ -1,0 +1,3851 @@
+{
+  "total": 19,
+  "categorias": {},
+  "tipos": {
+    "Gestao Escolar": 18,
+    "Educacao": 1
+  },
+  "status": {
+    "Rascunho": 6,
+    "Publicado": 12
+  },
+  "titulos": [
+    "Material de geometria",
+    "Acesse planners, módulos de estudo e ferramentas práticas",
+    "Mudanças no ENEM 2025: O que os estudantes precisam saber",
+    "Como estruturar um calendário de pagamentos escolares",
+    "Revise e ajuste conforme necessário",
+    "Artigo – Formato Padrão.",
+    "Análise ENEM 2024: Tendências em Matemática",
+    "Carreiras em Tecnologia: Guia Completo pós-ENEM",
+    "Podcast: Estratégias de Estudo com Especialistas",
+    "Calculadora ENEM",
+    "Planner Semanal de Estudos",
+    "Redação ENEM: Como Estruturar sua Argumentação",
+    "Dashboard de Desempenho Pessoal",
+    "Planner ENEM: Organize seus Estudos",
+    "Exercícios de Interpretação de Texto Comentados",
+    "Mudanças Climáticas: Tema Recorrente no ENEM",
+    "Como Estudar Matemática para o ENEM: Guia Completo",
+    "Cronograma ENEM 2025: Datas Importantes"
+  ],
+  "lacunas": [
+    "Simulados"
+  ],
+  "pages": [
+    {
+      "object": "page",
+      "id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+      "created_time": "2025-09-23T18:50:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": null
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-8134-8715-eca347d03b49"
+            }
+          ],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "abfe76d1-417d-4f2d-927a-9cacc27e7e80",
+              "name": "Geometria",
+              "color": "green"
+            }
+          ]
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": null
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "7f48773e-9f7a-42f4-986d-c23eb9008185",
+            "name": "Rascunho",
+            "color": "red"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bfc8b447-e603-4157-85e7-f05416178d10",
+              "name": "Ciências Exatas",
+              "color": "purple"
+            }
+          ]
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "8fff4251-5d35-4986-a1d7-feea6caed822",
+              "name": "Reta Final",
+              "color": "purple"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Material de geometria",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Material de geometria",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Material-de-geometria-2775113a91a380adbabdd0932f3acca0",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2775113a-91a3-8055-aa64-f44db7c10609",
+      "created_time": "2025-09-23T18:44:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": null
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": null
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": null
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "7f48773e-9f7a-42f4-986d-c23eb9008185",
+            "name": "Rascunho",
+            "color": "red"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Acesse planners, módulos de estudo e ferramentas práticas",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Acesse planners, módulos de estudo e ferramentas práticas",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Acesse-planners-m-dulos-de-estudo-e-ferramentas-pr-ticas-2775113a91a38055aa64f44db7c10609",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+      "created_time": "2025-09-16T18:15:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "f22f0e4b-8b68-493f-adb9-085b0e8fe955",
+            "name": "Educacao",
+            "color": "default"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "6f765457-400a-44fa-bee9-dc5d38a1fda5",
+              "name": "Educação",
+              "color": "orange"
+            }
+          ]
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "7f48773e-9f7a-42f4-986d-c23eb9008185",
+            "name": "Rascunho",
+            "color": "red"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "a8a10fec-ec49-4bb2-91c5-93f29c9f2501",
+              "name": "Ciências Humanas",
+              "color": "orange"
+            }
+          ]
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "d070f6e2-8c0f-4e57-9c3f-33df8338ec34",
+              "name": "Mudanças",
+              "color": "pink"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mudanças no ENEM 2025: O que os estudantes precisam saber",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mudanças no ENEM 2025: O que os estudantes precisam saber",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Mudan-as-no-ENEM-2025-O-que-os-estudantes-precisam-saber-2705113a91a381f78505d10bcddffe7c",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+      "created_time": "2025-09-16T17:46:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": null
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "7f48773e-9f7a-42f4-986d-c23eb9008185",
+            "name": "Rascunho",
+            "color": "red"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": []
+        }
+      },
+      "url": "https://www.notion.so/2705113a91a3806eb5ccd090a5df49b2",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "2705113a-91a3-81ee-9c22-e89f72812350",
+      "created_time": "2025-09-16T15:55:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": [
+            {
+              "name": "Calendario_pagamentos.md",
+              "type": "file",
+              "file": {
+                "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/ac35113a-91a3-8149-affa-0003b43f243c/77922bff-2ecc-4a67-ac90-2e597416848c/Calendario_pagamentos.md?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LB466ZPQ5N5GD%2F20250930%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250930T221526Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEG4aCXVzLXdlc3QtMiJGMEQCIFzgQ4ymmfjgTwAg8Y%2BILZdpMgeq%2FdRQr7KALuG0vLhiAiBqpwKWhH%2BB6mQFOt9q4Csg8iexuIQ4CVLsta8HrmuoPSqIBAj2%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAAaDDYzNzQyMzE4MzgwNSIMsu37qw%2FyYrJflG0wKtwDXpa6Q3Uw08CSUUF3z45tdg5XWUyU7vrTmPAlt%2BNOnrTt2Q%2F2P2K0jILdbQNChQI3FGHhMUvX9EMC8gpU62ABRNTMuK9TcD4wiVLzIg4LjMOWfit30KqVop9BRxIUrAvJWdall5HcMCxOMEPCJj4wQjrr6VXtXQeFh6pC099b1c1HMPV6c5ARBHOnqbu3uUKZb%2FgHzSkaQ2Jj095ZvZ1S%2BJ0F1ieJPKPNbzyYEcJUXckMkhbyjvoxMR%2BvJaOz5wYrrMBQc%2Fie5xUvepwXY9r1iyJa2gTTnyj6gt%2BGmhaBvKXbrvfmFL5niaoOg55o1%2FWjWXyLiw74ij0PaxbCxwVImXvLai6mR5TxewIAWOakuKcMs3L4uQwStu92vSZYxr6mEDSZ8Yq658QzemOl2DMlx9rRStsDRLJPPqXBiSiS5NpX3Xg8C3Awe%2BkxWqd63Aegq4UfvuwODyeYiBtbF5Ntj7yecvHfOLzwDAquge8Kk2tsWpmYeC1rT%2BUVcdCjdDT2C1tgR40CjApRT9RmTfj4qBgSu2Zy%2Bo%2BFVe6ilHqXVVudXdtEGU54HDn85ucX5NfjMe7%2BoCn8LVSBTxizgtFAyOKjWU0UwqutFwz%2F7jJRUUFQpmE%2FiopJ9dkDgD0wqZLxxgY6pgHtL%2F4sW0OeKpmfm0tTNJUuebjf6t0gpMJJRNNYWf9wk92t%2BGOAWDeW3irOn5DdtvvMa0qT%2BKJv8shdFhNGxi9rqq8qWA8xsyfZsZf1tkBtgNQGEtUU%2BvUvVSFwzlQygxWoBz0KmfceYkZrs19jmRkTXtiUI6Lp7kp6xFcx3WZU1jmq6ckEjyvgrggKqCuijZnpmo7AYt9J5v4FptN6GOZyJDEF9RBB&X-Amz-Signature=f24eb30a0fd1a57f32f0576d6fff860744861aecc1816006136fd365b45bc798&X-Amz-SignedHeaders=host&x-amz-checksum-mode=ENABLED&x-id=GetObject",
+                "expiry_time": "2025-09-30T23:15:26.257Z"
+              }
+            }
+          ]
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-801b-b96a-c8186cfaf55e"
+            }
+          ],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "a77acea6-3e42-4af4-a445-feb651c6d0eb",
+              "name": "Professor",
+              "color": "blue"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": null
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "a25b15fd-14b8-4f05-8ae6-5637411ba186",
+              "name": "Diretor",
+              "color": "red"
+            },
+            {
+              "id": "dff56d68-d960-441c-924e-98a575b8053b",
+              "name": "Coordenador Pedagogico",
+              "color": "brown"
+            },
+            {
+              "id": "90444c83-1f2f-4e56-831e-c94719245dd4",
+              "name": "Coordenador Financeiro",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "d5bde95c-d14c-4099-9cfe-0991065f530d",
+              "name": "Política",
+              "color": "red"
+            }
+          ]
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "7f48773e-9f7a-42f4-986d-c23eb9008185",
+            "name": "Rascunho",
+            "color": "red"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "21607724-24e3-4356-b5cb-e61273444263",
+              "name": "Cronograma",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Como estruturar um calendário de pagamentos escolares",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Como estruturar um calendário de pagamentos escolares",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Como-estruturar-um-calend-rio-de-pagamentos-escolares-2705113a91a381ee9c22e89f72812350",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+      "created_time": "2025-09-10T05:21:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "324722c9-0f3f-4ca0-a7bf-260cbd9155e7",
+            "name": "Em Revisao",
+            "color": "purple"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": null
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "7f48773e-9f7a-42f4-986d-c23eb9008185",
+            "name": "Rascunho",
+            "color": "red"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Revise e ajuste conforme necessário",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Revise e ajuste conforme necessário",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Revise-e-ajuste-conforme-necess-rio-26a5113a91a3806fa0abfeb06eafde98",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+      "created_time": "2025-09-10T02:38:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "2695113a-91a3-81a3-b59f-c1089272f5de"
+            }
+          ],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": null
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": null
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Artigo – Formato Padrão",
+                "link": null
+              },
+              "annotations": {
+                "bold": true,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Artigo – Formato Padrão",
+              "href": null
+            },
+            {
+              "type": "text",
+              "text": {
+                "content": ".",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": ".",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Artigo-Formato-Padr-o-26a5113a91a38037aca6e8f4c1a9e84f",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-810b-b647-e10963c83524",
+      "created_time": "2025-09-10T00:58:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            },
+            {
+              "id": "a77acea6-3e42-4af4-a445-feb651c6d0eb",
+              "name": "Professor",
+              "color": "blue"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-8134-8715-eca347d03b49"
+            }
+          ],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-8194-93d5-ff81f7631c67"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "3f3086f9-84e6-4b04-8c44-de6faa120b32",
+              "name": "Álgebra",
+              "color": "blue"
+            },
+            {
+              "id": "abfe76d1-417d-4f2d-927a-9cacc27e7e80",
+              "name": "Geometria",
+              "color": "green"
+            },
+            {
+              "id": "6dab9a0e-c4ca-4b50-a3d9-91595a99a172",
+              "name": "Estatística",
+              "color": "orange"
+            }
+          ]
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Análise ENEM 2024: Tendências em Matemática",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Análise ENEM 2024: Tendências em Matemática",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/An-lise-ENEM-2024-Tend-ncias-em-Matem-tica-26a5113a91a3810bb647e10963c83524",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+      "created_time": "2025-09-10T00:58:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-811c-9a48-f2ebbbc3a138"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "19395367-6e25-4314-b14f-874e1f1b1590",
+            "name": "Média",
+            "color": "yellow"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "2284a0be-c8fd-4dd1-9ec7-907b09df344d",
+              "name": "Tecnologia",
+              "color": "gray"
+            },
+            {
+              "id": "6f765457-400a-44fa-bee9-dc5d38a1fda5",
+              "name": "Educação",
+              "color": "orange"
+            }
+          ]
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "7a1dbd17-3cd4-490f-8ca9-1c1d4557b887",
+              "name": "Tecnologia",
+              "color": "blue"
+            },
+            {
+              "id": "bfc8b447-e603-4157-85e7-f05416178d10",
+              "name": "Ciências Exatas",
+              "color": "purple"
+            }
+          ]
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Carreiras em Tecnologia: Guia Completo pós-ENEM",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Carreiras em Tecnologia: Guia Completo pós-ENEM",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Carreiras-em-Tecnologia-Guia-Completo-p-s-ENEM-26a5113a91a381d3bfcfdac7dd31a6e3",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+      "created_time": "2025-09-10T00:58:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-81d1-84b4-dd88905e2f6b"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "19395367-6e25-4314-b14f-874e1f1b1590",
+            "name": "Média",
+            "color": "yellow"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            },
+            {
+              "id": "e92e1d78-29e6-4317-940c-b7444e86d74b",
+              "name": "Professor",
+              "color": "purple"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "1b57023d-7248-4120-a83a-e61fb5023192",
+            "name": "Checklist de Processo",
+            "color": "green"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "474ae6ac-d14b-4543-91f8-63db9dbbd1dc",
+              "name": "Entrevista",
+              "color": "brown"
+            },
+            {
+              "id": "5364a74e-5622-4c1a-918c-04cca2ea52ed",
+              "name": "Preparação Inicial",
+              "color": "orange"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Podcast: Estratégias de Estudo com Especialistas",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Podcast: Estratégias de Estudo com Especialistas",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Podcast-Estrat-gias-de-Estudo-com-Especialistas-26a5113a91a381daa7fafef93d3bbe32",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-8112-a314-ccea441781fb",
+      "created_time": "2025-09-10T00:58:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": {
+        "type": "external",
+        "external": {
+          "url": "https://www.notion.so/images/page-cover/nasa_great_sandy_desert_australia.jpg"
+        }
+      },
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-812d-88b0-e3f818c0e5b7"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "3424bae9-d588-4fdd-a3f5-701d71e71bdf",
+            "name": "Ferramenta",
+            "color": "pink"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Calculadora ENEM",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Calculadora ENEM",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Calculadora-ENEM-26a5113a91a38112a314ccea441781fb",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-8172-b405-e315b96897a7",
+      "created_time": "2025-09-10T00:58:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-81d1-84b4-dd88905e2f6b"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "19395367-6e25-4314-b14f-874e1f1b1590",
+            "name": "Média",
+            "color": "yellow"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "764ecc77-b3be-4ab7-afb8-649444c5250a",
+            "name": "Template",
+            "color": "orange"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "21607724-24e3-4356-b5cb-e61273444263",
+              "name": "Cronograma",
+              "color": "yellow"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Planner Semanal de Estudos",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Planner Semanal de Estudos",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Planner-Semanal-de-Estudos-26a5113a91a38172b405e315b96897a7",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+      "created_time": "2025-09-10T00:58:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-810a-9190-e778b6901578"
+            }
+          ],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-81d1-84b4-dd88905e2f6b"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "1ff8a7ce-ce53-40ea-931c-0d3be51b197d",
+              "name": "Literatura",
+              "color": "purple"
+            },
+            {
+              "id": "bc72abcd-033d-4f06-8a8f-57a1bccf8beb",
+              "name": "Interpretação",
+              "color": "pink"
+            }
+          ]
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "945acaac-6cd5-48b4-a759-4049a933b35a",
+              "name": "Tutorial",
+              "color": "default"
+            },
+            {
+              "id": "5364a74e-5622-4c1a-918c-04cca2ea52ed",
+              "name": "Preparação Inicial",
+              "color": "orange"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Redação ENEM: Como Estruturar sua Argumentação",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Redação ENEM: Como Estruturar sua Argumentação",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Reda-o-ENEM-Como-Estruturar-sua-Argumenta-o-26a5113a91a3818ca0d4cc051e2dd28b",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+      "created_time": "2025-09-10T00:58:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-81d1-84b4-dd88905e2f6b"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "19395367-6e25-4314-b14f-874e1f1b1590",
+            "name": "Média",
+            "color": "yellow"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "a25b15fd-14b8-4f05-8ae6-5637411ba186",
+              "name": "Diretor",
+              "color": "red"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "3424bae9-d588-4fdd-a3f5-701d71e71bdf",
+            "name": "Ferramenta",
+            "color": "pink"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Dashboard de Desempenho Pessoal",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Dashboard de Desempenho Pessoal",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Dashboard-de-Desempenho-Pessoal-26a5113a91a381ecad4ada983f2616dd",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+      "created_time": "2025-09-10T00:56:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-81d1-84b4-dd88905e2f6b"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "764ecc77-b3be-4ab7-afb8-649444c5250a",
+            "name": "Template",
+            "color": "orange"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "21607724-24e3-4356-b5cb-e61273444263",
+              "name": "Cronograma",
+              "color": "yellow"
+            },
+            {
+              "id": "5364a74e-5622-4c1a-918c-04cca2ea52ed",
+              "name": "Preparação Inicial",
+              "color": "orange"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Planner ENEM: Organize seus Estudos",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Planner ENEM: Organize seus Estudos",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Planner-ENEM-Organize-seus-Estudos-26a5113a91a3814f9bbffa0ceb700ac6",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+      "created_time": "2025-09-10T00:56:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-8159-a448-d4e08843ed8d"
+            }
+          ],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-8194-93d5-ff81f7631c67"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "bc72abcd-033d-4f06-8a8f-57a1bccf8beb",
+              "name": "Interpretação",
+              "color": "pink"
+            },
+            {
+              "id": "1ff8a7ce-ce53-40ea-931c-0d3be51b197d",
+              "name": "Literatura",
+              "color": "purple"
+            }
+          ]
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "19395367-6e25-4314-b14f-874e1f1b1590",
+            "name": "Média",
+            "color": "yellow"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Exercícios de Interpretação de Texto Comentados",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Exercícios de Interpretação de Texto Comentados",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Exerc-cios-de-Interpreta-o-de-Texto-Comentados-26a5113a91a3815da3abc521b1bc1de4",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+      "created_time": "2025-09-10T00:56:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": false
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-811c-9a48-f2ebbbc3a138"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "a31e639f-8d0f-4237-ae4d-8e3a4f07252e",
+              "name": "Geografia",
+              "color": "blue"
+            },
+            {
+              "id": "31af823a-d198-4bf0-b392-cd9373def24f",
+              "name": "Biologia",
+              "color": "green"
+            }
+          ]
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "19395367-6e25-4314-b14f-874e1f1b1590",
+            "name": "Média",
+            "color": "yellow"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "32dd7a79-5baa-419f-bafb-0df4f8852156",
+              "name": "Meio Ambiente",
+              "color": "green"
+            },
+            {
+              "id": "cb126863-1ebd-42a4-bd24-f2cf5a3258ff",
+              "name": "Ciência",
+              "color": "blue"
+            }
+          ]
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Mudanças Climáticas: Tema Recorrente no ENEM",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Mudanças Climáticas: Tema Recorrente no ENEM",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Mudan-as-Clim-ticas-Tema-Recorrente-no-ENEM-26a5113a91a381febdaacf08b4f71ab5",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+      "created_time": "2025-09-10T00:55:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-8134-8715-eca347d03b49"
+            }
+          ],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-8194-93d5-ff81f7631c67"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "3f3086f9-84e6-4b04-8c44-de6faa120b32",
+              "name": "Álgebra",
+              "color": "blue"
+            },
+            {
+              "id": "abfe76d1-417d-4f2d-927a-9cacc27e7e80",
+              "name": "Geometria",
+              "color": "green"
+            },
+            {
+              "id": "6dab9a0e-c4ca-4b50-a3d9-91595a99a172",
+              "name": "Estatística",
+              "color": "orange"
+            }
+          ]
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "c89d31f1-33e4-46f7-abd6-6a81512e4dcb",
+            "name": "Artigo Educacional",
+            "color": "blue"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "945acaac-6cd5-48b4-a759-4049a933b35a",
+              "name": "Tutorial",
+              "color": "default"
+            },
+            {
+              "id": "5364a74e-5622-4c1a-918c-04cca2ea52ed",
+              "name": "Preparação Inicial",
+              "color": "orange"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Como Estudar Matemática para o ENEM: Guia Completo",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Como Estudar Matemática para o ENEM: Guia Completo",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Como-Estudar-Matem-tica-para-o-ENEM-Guia-Completo-26a5113a91a381298eadf547059a6a61",
+      "public_url": null
+    },
+    {
+      "object": "page",
+      "id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+      "created_time": "2025-09-10T00:55:00.000Z",
+      "last_edited_time": "2025-09-30T19:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "232d872b-594c-8126-8251-0002637439ea"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "18ea480a-de0e-432a-9d90-6f40e9d56d18"
+      },
+      "cover": null,
+      "icon": null,
+      "parent": {
+        "type": "database_id",
+        "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f"
+      },
+      "archived": false,
+      "in_trash": false,
+      "is_locked": false,
+      "properties": {
+        "Anexos": {
+          "id": "%3A%3BnK",
+          "type": "files",
+          "files": []
+        },
+        "Link Externo": {
+          "id": "%3CFah",
+          "type": "url",
+          "url": null
+        },
+        "Seção": {
+          "id": "%3DLr%3F",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Status Editorial": {
+          "id": "C%3BfN",
+          "type": "select",
+          "select": {
+            "id": "2ef43072-6c71-4f54-aef2-191bde861b08",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Tipo": {
+          "id": "MFbh",
+          "type": "select",
+          "select": {
+            "id": "b97c70ac-b437-4e2e-ac4c-f0d929e75bff",
+            "name": "Gestao Escolar",
+            "color": "pink"
+          }
+        },
+        "Público Alvo": {
+          "id": "N%3A%5Ec",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "f64b247e-7ee5-4110-ae41-f5b3bac974c5",
+              "name": "Estudante",
+              "color": "orange"
+            }
+          ]
+        },
+        "Destaque": {
+          "id": "Onpj",
+          "type": "checkbox",
+          "checkbox": true
+        },
+        "Módulo": {
+          "id": "PozM",
+          "type": "relation",
+          "relation": [],
+          "has_more": false
+        },
+        "Autor": {
+          "id": "S%5B%5Dc",
+          "type": "relation",
+          "relation": [
+            {
+              "id": "26a5113a-91a3-812d-88b0-e3f818c0e5b7"
+            }
+          ],
+          "has_more": false
+        },
+        "Tags Módulos": {
+          "id": "UH%3AA",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Prioridade": {
+          "id": "XCKF",
+          "type": "select",
+          "select": {
+            "id": "2368d9c2-5a24-4797-bcd0-4051294dd78e",
+            "name": "Alta",
+            "color": "orange"
+          }
+        },
+        "Função Alvo": {
+          "id": "%5CzBA",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "c7d7fcc2-8742-407e-b95d-537dc2a26c8f",
+              "name": "Estudante",
+              "color": "pink"
+            }
+          ]
+        },
+        "Tags Tema": {
+          "id": "c%3AOI",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tipo de Conteúdo": {
+          "id": "c%5D%5D%40",
+          "type": "select",
+          "select": {
+            "id": "764ecc77-b3be-4ab7-afb8-649444c5250a",
+            "name": "Template",
+            "color": "orange"
+          }
+        },
+        "Data Publicação": {
+          "id": "c%7BFs",
+          "type": "date",
+          "date": null
+        },
+        "Comentários": {
+          "id": "euad",
+          "type": "rich_text",
+          "rich_text": []
+        },
+        "Status": {
+          "id": "gbMz",
+          "type": "select",
+          "select": {
+            "id": "n:O]",
+            "name": "Publicado",
+            "color": "green"
+          }
+        },
+        "Data Criação": {
+          "id": "kCt%7C",
+          "type": "date",
+          "date": null
+        },
+        "Thumbnail": {
+          "id": "qbbd",
+          "type": "files",
+          "files": []
+        },
+        "Tags Área": {
+          "id": "rFSh",
+          "type": "multi_select",
+          "multi_select": []
+        },
+        "Tags Tipo": {
+          "id": "sl%7DL",
+          "type": "multi_select",
+          "multi_select": [
+            {
+              "id": "21607724-24e3-4356-b5cb-e61273444263",
+              "name": "Cronograma",
+              "color": "yellow"
+            },
+            {
+              "id": "99375394-a4f5-4aa5-aaa0-a848a426a50c",
+              "name": "Inscrições",
+              "color": "orange"
+            }
+          ]
+        },
+        "Title": {
+          "id": "title",
+          "type": "title",
+          "title": [
+            {
+              "type": "text",
+              "text": {
+                "content": "Cronograma ENEM 2025: Datas Importantes",
+                "link": null
+              },
+              "annotations": {
+                "bold": false,
+                "italic": false,
+                "strikethrough": false,
+                "underline": false,
+                "code": false,
+                "color": "default"
+              },
+              "plain_text": "Cronograma ENEM 2025: Datas Importantes",
+              "href": null
+            }
+          ]
+        }
+      },
+      "url": "https://www.notion.so/Cronograma-ENEM-2025-Datas-Importantes-26a5113a91a381f4819bd188f49930ab",
+      "public_url": null
+    }
+  ]
+}
