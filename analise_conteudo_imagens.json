@@ -1,0 +1,1013 @@
+{
+  "data_analise": "2025-09-30T16:04:28.051212",
+  "total_artigos_analisados": 19,
+  "artigos_com_referencias": 1,
+  "artigos_sem_referencias": 18,
+  "tipos_referencias": {
+    "Estatística": 1
+  },
+  "artigos_analisados": [
+    {
+      "page_id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "Título 1 - ",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "2775113a-91a3-8055-aa64-f44db7c10609",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+      "titulo": "",
+      "referencias_gerais": [
+        "Estatística"
+      ],
+      "urls_imagem": [],
+      "total_referencias": 1,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_2",
+          "conteudo": "Introdução",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "O Exame Nacional do Ensino Médio (ENEM) está passando por transformações significativas em 2025. Com o objetivo de modernizar a avaliação e torná-la mais alinhada com as necessidades do século XXI, o Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) anunciou uma série de mudanças estruturais que impactarão diretamente estudantes, professores e instituições de ensino.",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Este artigo apresenta um panorama completo das principais alterações previstas para o ENEM 2025, ajudando você a se preparar melhor para as provas.",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Mudanças na Estrutura das Provas",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "1. Nova Matriz de Referência",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "A principal mudança estrutural é a reformulação completa da matriz de referência do ENEM. A nova versão busca integrar melhor os conhecimentos e desenvolver competências essenciais para a vida acadêmica e profissional.",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Principais alterações:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Maior ênfase em competências socioemocionais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Integração entre disciplinas através de temas transversais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Foco em resolução de problemas reais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Desenvolvimento de pensamento crítico e criatividade",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "2. Formato das Questões",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "O ENEM 2025 introduzirá novos tipos de questões, abandonando parcialmente o formato tradicional de múltipla escolha:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Questões híbridas: Combinam múltipla escolha com resposta aberta curta",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Questões contextualizadas: Aplicadas a situações reais do cotidiano",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Questões interdisciplinares: Integram conhecimentos de diferentes áreas",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Questões de produção textual: Além da redação, incluirão produção de textos mais curtos",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Alterações por Área de Conhecimento",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Linguagens, Códigos e suas Tecnologias",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Novidades:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Maior peso para análise crítica de discursos midiáticos",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Inclusão de linguagens digitais e programação básica",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Foco em comunicação intercultural",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Avaliação de competências digitais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Matemática e suas Tecnologias",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Mudanças esperadas:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Aplicação prática da matemática no contexto profissional",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Estatística e probabilidade com enfoque em dados reais",
+          "urls": [],
+          "referencias_imagem": [
+            "Referência a estatística"
+          ]
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Modelagem matemática de situações cotidianas",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Introdução à lógica computacional",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Ciências da Natureza",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Transformações:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Integração entre Física, Química e Biologia",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Ênfase em questões ambientais e sustentabilidade",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Biotecnologia e suas aplicações",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Ciência de dados aplicada às ciências naturais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Ciências Humanas e suas Tecnologias",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Alterações:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "História integrada com Geografia e Sociologia",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Filosofia e Sociologia com temas contemporâneos",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Economia comportamental e psicologia social",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Geopolítica e relações internacionais atuais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "A Nova Redação do ENEM",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "A redação do ENEM 2025 sofrerá mudanças significativas em sua estrutura e avaliação:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Estrutura Reformulada",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Tema único: Abordagem mais ampla e integrada",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Competências avaliadas:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Critérios de Avaliação",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Os cinco critérios tradicionais serão mantidos, mas com pesos diferenciados:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Demonstração do domínio da norma culta (20 pontos)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Compreensão da proposta de redação (20 pontos)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Seleção e organização das informações (20 pontos)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Demonstração de conhecimentos específicos (20 pontos)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Proposta de intervenção (20 pontos) - novo critério",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Impacto na Preparação dos Estudantes",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Estratégias de Estudo Recomendadas",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Para os novos formatos:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Pratique resolução de problemas reais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Desenvolva habilidades de pesquisa e análise",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Foque em interdisciplinaridade",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Trabalhe competências socioemocionais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Para a redação:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Estude temas transversais e atuais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Pratique diferentes tipos de texto",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Desenvolva argumentação crítica",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Amplie repertório cultural",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Cronograma de Preparação",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Fase 1: Base (Janeiro - Abril)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Revisão dos conteúdos fundamentais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Desenvolvimento de habilidades básicas",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Fase 2: Integração (Maio - Julho)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Estudos interdisciplinares",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Prática de questões contextualizadas",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Fase 3: Aperfeiçoamento (Agosto - Outubro)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Simulados específicos para o novo formato",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Refinamento da redação",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Fase 4: Finalização (Novembro - Dezembro)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Revisão intensiva",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Preparação mental e emocional",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Tecnologias na Aplicação",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "O ENEM 2025 incorporará tecnologias digitais em sua aplicação:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Plataforma digital aprimorada: Interface mais intuitiva e acessível",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Ferramentas de apoio: Calculadora integrada, dicionário digital",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Avaliação adaptativa: Dificuldade ajustada ao desempenho do estudante",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Correção automatizada: Uso de IA para correção preliminar",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Preparação Digital",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Recursos Tecnológicos Recomendados",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Apps de estudo: Plataformas adaptativas de aprendizagem",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Simuladores online: Ambientes virtuais que reproduzem o ENEM",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Bancos de questões inteligentes: Questões que se adaptam ao seu nível",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Ferramentas de produtividade: Para organização e planejamento",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_3",
+          "conteudo": "Competências Digitais Necessárias",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Navegação segura na internet",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Uso crítico de fontes de informação",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Produção de conteúdo digital",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Colaboração online",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Considerações Finais",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "As mudanças no ENEM 2025 representam uma evolução significativa na avaliação do ensino médio brasileiro. Embora tragam desafios, também abrem oportunidades para uma formação mais completa e alinhada com as demandas do século XXI.",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Dicas para se preparar:",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Mantenha-se informado sobre as atualizações oficiais",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "2705113a-91a3-81ee-9c22-e89f72812350",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "{{Título claro e objetivo}}",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Resumo executivo",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Ponto 1",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Ponto 2",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "bulleted_list_item",
+          "conteudo": "Ponto 3",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Contexto (por que importa)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "paragraph",
+          "conteudo": "Explique o problema, a relevância para a gestão e riscos de não tratar.",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Aplicação prática (passos claros)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Passo 1",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Passo 2",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "numbered_list_item",
+          "conteudo": "Passo 3",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_2",
+          "conteudo": "Checklist inicial (ação imediata)",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "to_do",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "to_do",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "to_do",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-810b-b647-e10963c83524",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "paragraph",
+          "conteudo": "Este parágrafo contém informações relevantes sobre o tópico abordado.",
+          "urls": [],
+          "referencias_imagem": []
+        },
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-8112-a314-ccea441781fb",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-8172-b405-e315b96897a7",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    },
+    {
+      "page_id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+      "titulo": "",
+      "referencias_gerais": [],
+      "urls_imagem": [],
+      "total_referencias": 0,
+      "total_urls": 0,
+      "blocos_analisados": [
+        {
+          "tipo": "heading_1",
+          "conteudo": "",
+          "urls": [],
+          "referencias_imagem": []
+        }
+      ]
+    }
+  ],
+  "referencias_encontradas": [
+    {
+      "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+      "titulo": "",
+      "referencias": [
+        "Estatística"
+      ],
+      "urls": []
+    }
+  ]
+}
