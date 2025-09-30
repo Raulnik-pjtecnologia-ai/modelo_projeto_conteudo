@@ -1,0 +1,906 @@
+{
+  "data_correcao": "2025-09-30T12:16:45.131845",
+  "titulo": "CORREÇÃO DE FALHAS DO BOILERPLATE",
+  "total_paginas_corrigidas": 43,
+  "conformes_final": 43,
+  "nao_conformes_final": 0,
+  "percentual_conformidade_final": 100.0,
+  "paginas_corrigidas": [
+    {
+      "page_id": "2725113a-91a3-81e1-bb37-dd26c1c77b55",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Fontes confiáveis",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 4,
+      "criterios_adicionados": 5,
+      "total_criterios": 9,
+      "percentual_anterior": 44.44444444444444,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8172-abde-e14a88a58931",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 5,
+      "criterios_adicionados": 3,
+      "total_criterios": 8,
+      "percentual_anterior": 55.55555555555556,
+      "percentual_novo": 88.88888888888889,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8191-87bc-e6862fe7c888",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8128-950f-c862527694c4",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "tags"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Tags e categorização"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-8010-af58-fc0a0caa9f7f",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-80c4-96b5-f36ca93045e7",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8108-8e4f-f1a5187c3c25",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "fontes",
+        "resumo_executivo",
+        "tags"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Fontes confiáveis",
+        "Resumo executivo",
+        "Tags e categorização"
+      ],
+      "criterios_anteriores": 5,
+      "criterios_adicionados": 4,
+      "total_criterios": 9,
+      "percentual_anterior": 55.55555555555556,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-8073-8633-c1dac6efedf7",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-8039-b722-f82eac69748c",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-81b3-9f0f-c5725e94e7d5",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-81d7-acfb-e0deeafcbe84",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 7,
+      "criterios_adicionados": 2,
+      "total_criterios": 9,
+      "percentual_anterior": 77.77777777777779,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8120-b7ca-eaea4911d473",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8144-b03e-f1b7da6e5865",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "tags"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Tags e categorização"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2765113a-91a3-819b-b062-de7121dc0da4",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-81d5-8882-d49f73bd6063",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8172-96ae-c89eee6192c3",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 5,
+      "criterios_adicionados": 3,
+      "total_criterios": 8,
+      "percentual_anterior": 55.55555555555556,
+      "percentual_novo": 88.88888888888889,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-81a4-93c2-e7dfbb61d39b",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8172-9bd6-e124f761daeb",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Fontes confiáveis",
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 3,
+      "criterios_adicionados": 6,
+      "total_criterios": 9,
+      "percentual_anterior": 33.33333333333333,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-819b-9598-ea5431262104",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 5,
+      "criterios_adicionados": 3,
+      "total_criterios": 8,
+      "percentual_anterior": 55.55555555555556,
+      "percentual_novo": 88.88888888888889,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-814b-a50b-f4d812d4b15b",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-8099-8c2e-f0c19124248e",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8118-9d48-d3deaeadb9d7",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 7,
+      "criterios_adicionados": 2,
+      "total_criterios": 9,
+      "percentual_anterior": 77.77777777777779,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-817a-8506-c2bca4374f95",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Fontes confiáveis",
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 3,
+      "criterios_adicionados": 6,
+      "total_criterios": 9,
+      "percentual_anterior": 33.33333333333333,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8131-9939-cec2d1f61401",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 4,
+      "criterios_adicionados": 5,
+      "total_criterios": 9,
+      "percentual_anterior": 44.44444444444444,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2775113a-91a3-8159-b133-ecfeb1ae05a8",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 7,
+      "criterios_adicionados": 2,
+      "total_criterios": 9,
+      "percentual_anterior": 77.77777777777779,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-81a0-8781-e1b8e3588756",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Resumo executivo",
+        "Tags e categorização"
+      ],
+      "criterios_anteriores": 5,
+      "criterios_adicionados": 4,
+      "total_criterios": 9,
+      "percentual_anterior": 55.55555555555556,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-81f8-9b4f-e56c697b2df0",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8189-870a-da6211200dcd",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 7,
+      "criterios_adicionados": 2,
+      "total_criterios": 9,
+      "percentual_anterior": 77.77777777777779,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8151-8265-e906175f8a10",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2695113a-91a3-8057-9cd3-cbb7af6ccab9",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-8034-9c1c-c74442047eea",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-81a7-b0f8-c41eed162f33",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 5,
+      "criterios_adicionados": 3,
+      "total_criterios": 8,
+      "percentual_anterior": 55.55555555555556,
+      "percentual_novo": 88.88888888888889,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8134-99ce-e57dd3f10243",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-81e2-a716-c402876b6ca0",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "conclusao",
+        "metodologia"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Fontes confiáveis",
+        "Resumo executivo",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 3,
+      "criterios_adicionados": 5,
+      "total_criterios": 8,
+      "percentual_anterior": 33.33333333333333,
+      "percentual_novo": 88.88888888888889,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-8156-9a1d-c71abf246e24",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 7,
+      "criterios_adicionados": 2,
+      "total_criterios": 9,
+      "percentual_anterior": 77.77777777777779,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-80c6-a5f6-d30cccdc9433",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2325113a-91a3-81a0-a3ba-c2e9b0311210",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8147-a4dc-dc29156fd2d6",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 4,
+      "criterios_adicionados": 5,
+      "total_criterios": 9,
+      "percentual_anterior": 44.44444444444444,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-80a2-82e4-c2f4ecc8b232",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Vídeos educativos",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-81f1-b72c-f5f1c645a738",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8108-960d-f5b9a0be9f6e",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "dados_reais"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Fontes confiáveis",
+        "Tags e categorização"
+      ],
+      "criterios_anteriores": 4,
+      "criterios_adicionados": 4,
+      "total_criterios": 8,
+      "percentual_anterior": 44.44444444444444,
+      "percentual_novo": 88.88888888888889,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-81db-b688-fa5cb0e8a453",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 6,
+      "criterios_adicionados": 3,
+      "total_criterios": 9,
+      "percentual_anterior": 66.66666666666666,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    },
+    {
+      "page_id": "2725113a-91a3-8149-acd6-d7e8c1f3d75f",
+      "titulo": "Sem título",
+      "criterios_faltando_anteriores": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "melhorias_aplicadas": [
+        "Dados do Censo Escolar 2024",
+        "Vídeos educativos",
+        "Fontes confiáveis",
+        "Resumo executivo",
+        "Tags e categorização",
+        "Conclusão estruturada"
+      ],
+      "criterios_anteriores": 3,
+      "criterios_adicionados": 6,
+      "total_criterios": 9,
+      "percentual_anterior": 33.33333333333333,
+      "percentual_novo": 100.0,
+      "status_final": "CONFORME"
+    }
+  ]
+}

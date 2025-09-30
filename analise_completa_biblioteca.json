@@ -1,0 +1,1150 @@
+{
+  "data_analise": "2025-09-30T12:22:37.478854",
+  "titulo": "ANÁLISE COMPLETA DA BIBLIOTECA - VERIFICAÇÃO DE CONFORMIDADES",
+  "total_paginas_analisadas": 19,
+  "total_conformes": 0,
+  "total_nao_conformes": 19,
+  "total_com_erro": 0,
+  "percentual_conformidade_geral": 0.0,
+  "criterios_boilerplate": {
+    "censo_escolar": "Dados do Censo Escolar 2024",
+    "videos": "Vídeos educativos do YouTube",
+    "fontes": "Fontes confiáveis e referências",
+    "resumo_executivo": "Resumo executivo",
+    "tags": "Tags e categorização",
+    "conclusao": "Conclusão estruturada",
+    "dados_reais": "Dados reais e estatísticas",
+    "metodologia": "Metodologia e aplicabilidade",
+    "qualidade": "Padrões de qualidade educacional"
+  },
+  "analise_criterios": {
+    "censo_escolar": {
+      "atingido": 1,
+      "total": 19
+    },
+    "videos": {
+      "atingido": 0,
+      "total": 19
+    },
+    "fontes": {
+      "atingido": 1,
+      "total": 19
+    },
+    "resumo_executivo": {
+      "atingido": 1,
+      "total": 19
+    },
+    "tags": {
+      "atingido": 0,
+      "total": 19
+    },
+    "conclusao": {
+      "atingido": 0,
+      "total": 19
+    },
+    "dados_reais": {
+      "atingido": 1,
+      "total": 19
+    },
+    "metodologia": {
+      "atingido": 0,
+      "total": 19
+    },
+    "qualidade": {
+      "atingido": 1,
+      "total": 19
+    }
+  },
+  "distribuicao_faixas": {
+    "100%": 0,
+    "90-99%": 0,
+    "80-89%": 0,
+    "70-79%": 0,
+    "60-69%": 0,
+    "50-59%": 0,
+    "40-49%": 0,
+    "30-39%": 1,
+    "20-29%": 1,
+    "10-19%": 0,
+    "0-9%": 17
+  },
+  "paginas_analisadas": [
+    {
+      "page_id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "2775113a-91a3-8055-aa64-f44db7c10609",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+      "titulo": "",
+      "percentual_conformidade": 33.33333333333333,
+      "criterios_atingidos": 3,
+      "criterios_faltando": [
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": true,
+        "videos": false,
+        "fontes": true,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": true,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "2705113a-91a3-81ee-9c22-e89f72812350",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+      "titulo": "",
+      "percentual_conformidade": 22.22222222222222,
+      "criterios_atingidos": 2,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": true,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": true
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-810b-b647-e10963c83524",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-8112-a314-ccea441781fb",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-8172-b405-e315b96897a7",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    },
+    {
+      "page_id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      },
+      "status_conformidade": "NÃO CONFORME"
+    }
+  ],
+  "paginas_conformes": [],
+  "paginas_nao_conformes": [
+    {
+      "page_id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "2775113a-91a3-8055-aa64-f44db7c10609",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+      "titulo": "",
+      "percentual_conformidade": 33.33333333333333,
+      "criterios_atingidos": 3,
+      "criterios_faltando": [
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": true,
+        "videos": false,
+        "fontes": true,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": true,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "2705113a-91a3-81ee-9c22-e89f72812350",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+      "titulo": "",
+      "percentual_conformidade": 22.22222222222222,
+      "criterios_atingidos": 2,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": true,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": true
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-810b-b647-e10963c83524",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-8112-a314-ccea441781fb",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-8172-b405-e315b96897a7",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    },
+    {
+      "page_id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+      "titulo": "",
+      "percentual_conformidade": 0.0,
+      "criterios_atingidos": 0,
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao",
+        "dados_reais",
+        "metodologia",
+        "qualidade"
+      ],
+      "conformidade_detalhada": {
+        "censo_escolar": false,
+        "videos": false,
+        "fontes": false,
+        "resumo_executivo": false,
+        "tags": false,
+        "conclusao": false,
+        "dados_reais": false,
+        "metodologia": false,
+        "qualidade": false
+      }
+    }
+  ],
+  "paginas_com_erro": []
+}

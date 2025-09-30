@@ -1,0 +1,471 @@
+{
+  "data_sincronizacao": "2025-09-30T13:11:30.360486",
+  "titulo": "SINCRONIZAÇÃO COMPLETA COM NOTION",
+  "total_paginas_sincronizadas": 44,
+  "total_com_erro": 0,
+  "total_correcoes_aplicadas": 153,
+  "paginas_sincronizadas": [
+    {
+      "page_id": "2705113a-91a3-80c4-96b5-f36ca93045e7",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-81f8-9b4f-e56c697b2df0",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-8147-a4dc-dc29156fd2d6",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5
+    },
+    {
+      "page_id": "2695113a-91a3-8057-9cd3-cbb7af6ccab9",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-81e1-bb37-dd26c1c77b55",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5
+    },
+    {
+      "page_id": "2325113a-91a3-81a0-a3ba-c2e9b0311210",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-8108-8e4f-f1a5187c3c25",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "fontes",
+        "resumo_executivo",
+        "tags"
+      ],
+      "correcoes_aplicadas": 4
+    },
+    {
+      "page_id": "2325113a-91a3-81a7-b0f8-c41eed162f33",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 4
+    },
+    {
+      "page_id": "2325113a-91a3-8151-8265-e906175f8a10",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2705113a-91a3-8073-8633-c1dac6efedf7",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-8134-99ce-e57dd3f10243",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-81b3-9f0f-c5725e94e7d5",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-816b-bbc8-cac848780bca",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "tags"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2765113a-91a3-819b-b062-de7121dc0da4",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-8131-9939-cec2d1f61401",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5
+    },
+    {
+      "page_id": "2725113a-91a3-81a0-8781-e1b8e3588756",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags"
+      ],
+      "correcoes_aplicadas": 4
+    },
+    {
+      "page_id": "2725113a-91a3-81e2-a716-c402876b6ca0",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "conclusao",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 6
+    },
+    {
+      "page_id": "2725113a-91a3-81db-b688-fa5cb0e8a453",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-81d5-8882-d49f73bd6063",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-8189-870a-da6211200dcd",
+      "titulo": "",
+      "criterios_faltando": [
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 2
+    },
+    {
+      "page_id": "2705113a-91a3-8010-af58-fc0a0caa9f7f",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-819b-9598-ea5431262104",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 4
+    },
+    {
+      "page_id": "2325113a-91a3-8120-b7ca-eaea4911d473",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2705113a-91a3-80c6-a5f6-d30cccdc9433",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-8156-9a1d-c71abf246e24",
+      "titulo": "",
+      "criterios_faltando": [
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 2
+    },
+    {
+      "page_id": "2725113a-91a3-8128-950f-c862527694c4",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "tags"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-81d7-acfb-e0deeafcbe84",
+      "titulo": "",
+      "criterios_faltando": [
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 2
+    },
+    {
+      "page_id": "2325113a-91a3-8172-abde-e14a88a58931",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 4
+    },
+    {
+      "page_id": "2725113a-91a3-817a-8506-c2bca4374f95",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 6
+    },
+    {
+      "page_id": "2725113a-91a3-81a4-93c2-e7dfbb61d39b",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-8108-960d-f5b9a0be9f6e",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "dados_reais"
+      ],
+      "correcoes_aplicadas": 5
+    },
+    {
+      "page_id": "2725113a-91a3-81f1-b72c-f5f1c645a738",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-8172-9bd6-e124f761daeb",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 6
+    },
+    {
+      "page_id": "2705113a-91a3-8099-8c2e-f0c19124248e",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-8191-87bc-e6862fe7c888",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2725113a-91a3-8144-b03e-f1b7da6e5865",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "tags"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2775113a-91a3-8159-b133-ecfeb1ae05a8",
+      "titulo": "",
+      "criterios_faltando": [
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 2
+    },
+    {
+      "page_id": "2725113a-91a3-8149-acd6-d7e8c1f3d75f",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 6
+    },
+    {
+      "page_id": "2325113a-91a3-8118-9d48-d3deaeadb9d7",
+      "titulo": "",
+      "criterios_faltando": [
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 2
+    },
+    {
+      "page_id": "2725113a-91a3-814b-a50b-f4d812d4b15b",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2705113a-91a3-8034-9c1c-c74442047eea",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2325113a-91a3-8172-96ae-c89eee6192c3",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "conclusao",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 4
+    },
+    {
+      "page_id": "2705113a-91a3-8039-b722-f82eac69748c",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    },
+    {
+      "page_id": "2705113a-91a3-80a2-82e4-c2f4ecc8b232",
+      "titulo": "",
+      "criterios_faltando": [
+        "videos",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3
+    }
+  ],
+  "paginas_com_erro": []
+}

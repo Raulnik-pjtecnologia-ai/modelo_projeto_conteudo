@@ -1,0 +1,250 @@
+{
+  "data_correcao_adicional": "2025-09-30T13:20:31.270411",
+  "titulo": "CORREÇÃO ADICIONAL PARA 80%+ DE CONFORMIDADE",
+  "total_paginas_corrigidas": 20,
+  "total_com_erro": 0,
+  "total_correcoes_aplicadas": 141,
+  "paginas_corrigidas": [
+    {
+      "page_id": "2725113a-91a3-81f8-9b4f-e56c697b2df0",
+      "titulo": "",
+      "criterios_faltando": [
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 3,
+      "percentual_anterior": 77.77777777777779
+    },
+    {
+      "page_id": "2725113a-91a3-8147-a4dc-dc29156fd2d6",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 9,
+      "percentual_anterior": 44.44444444444444
+    },
+    {
+      "page_id": "2725113a-91a3-81e1-bb37-dd26c1c77b55",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 9,
+      "percentual_anterior": 44.44444444444444
+    },
+    {
+      "page_id": "2725113a-91a3-8108-8e4f-f1a5187c3c25",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "fontes",
+        "resumo_executivo",
+        "tags"
+      ],
+      "correcoes_aplicadas": 7,
+      "percentual_anterior": 55.55555555555556
+    },
+    {
+      "page_id": "2325113a-91a3-81a7-b0f8-c41eed162f33",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2725113a-91a3-81b3-9f0f-c5725e94e7d5",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2725113a-91a3-8131-9939-cec2d1f61401",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 9,
+      "percentual_anterior": 44.44444444444444
+    },
+    {
+      "page_id": "2725113a-91a3-81a0-8781-e1b8e3588756",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "resumo_executivo",
+        "tags"
+      ],
+      "correcoes_aplicadas": 7,
+      "percentual_anterior": 55.55555555555556
+    },
+    {
+      "page_id": "2725113a-91a3-81e2-a716-c402876b6ca0",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "conclusao",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 12,
+      "percentual_anterior": 33.33333333333333
+    },
+    {
+      "page_id": "2725113a-91a3-81db-b688-fa5cb0e8a453",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2325113a-91a3-819b-9598-ea5431262104",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2325113a-91a3-8172-abde-e14a88a58931",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2725113a-91a3-817a-8506-c2bca4374f95",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 11,
+      "percentual_anterior": 33.33333333333333
+    },
+    {
+      "page_id": "2725113a-91a3-81a4-93c2-e7dfbb61d39b",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2725113a-91a3-8108-960d-f5b9a0be9f6e",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "tags",
+        "dados_reais"
+      ],
+      "correcoes_aplicadas": 9,
+      "percentual_anterior": 44.44444444444444
+    },
+    {
+      "page_id": "2725113a-91a3-81f1-b72c-f5f1c645a738",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2725113a-91a3-8172-9bd6-e124f761daeb",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags"
+      ],
+      "correcoes_aplicadas": 9,
+      "percentual_anterior": 44.44444444444444
+    },
+    {
+      "page_id": "2725113a-91a3-8149-acd6-d7e8c1f3d75f",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "videos",
+        "fontes",
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 11,
+      "percentual_anterior": 33.33333333333333
+    },
+    {
+      "page_id": "2725113a-91a3-814b-a50b-f4d812d4b15b",
+      "titulo": "",
+      "criterios_faltando": [
+        "resumo_executivo",
+        "tags",
+        "conclusao"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    },
+    {
+      "page_id": "2325113a-91a3-8172-96ae-c89eee6192c3",
+      "titulo": "",
+      "criterios_faltando": [
+        "censo_escolar",
+        "tags",
+        "metodologia"
+      ],
+      "correcoes_aplicadas": 5,
+      "percentual_anterior": 66.66666666666666
+    }
+  ],
+  "paginas_com_erro": []
+}

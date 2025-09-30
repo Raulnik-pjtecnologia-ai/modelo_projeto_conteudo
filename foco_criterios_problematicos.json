@@ -1,0 +1,32 @@
+{
+  "data_melhorias": "2025-09-30T12:42:19.629761",
+  "titulo": "FOCO NOS CRITÉRIOS MAIS PROBLEMÁTICOS",
+  "criterios_problematicos": {
+    "tags": {
+      "nome": "Tags e categorização",
+      "conformidade_atual": 25.9,
+      "prioridade": "ALTA",
+      "descricao": "Sistema de tags e categorização para organização do conteúdo"
+    },
+    "conclusao": {
+      "nome": "Conclusão estruturada",
+      "conformidade_atual": 34.5,
+      "prioridade": "ALTA",
+      "descricao": "Conclusão estruturada com próximos passos e impactos esperados"
+    },
+    "videos": {
+      "nome": "Vídeos educativos do YouTube",
+      "conformidade_atual": 51.7,
+      "prioridade": "MÉDIA",
+      "descricao": "Vídeos educativos relevantes para o tema"
+    },
+    "censo_escolar": {
+      "nome": "Dados do Censo Escolar 2024",
+      "conformidade_atual": 70.7,
+      "prioridade": "MÉDIA",
+      "descricao": "Dados reais e atualizados do Censo Escolar 2024"
+    }
+  },
+  "total_paginas_melhoradas": 0,
+  "paginas_melhoradas": []
+}
