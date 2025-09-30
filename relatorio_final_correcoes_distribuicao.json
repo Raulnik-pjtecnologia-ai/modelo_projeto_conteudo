@@ -1,0 +1,106 @@
+{
+  "data_relatorio": "2025-09-30T17:08:50.853931",
+  "resumo_executivo": {
+    "total_conteudos_analisados": 73,
+    "conteudos_com_discrepancia_inicial": 29,
+    "percentual_acuracia_inicial": 60.273972602739725,
+    "correcoes_principais_aplicadas": 19,
+    "correcoes_restantes_aplicadas": 6,
+    "total_correcoes_aplicadas": 25,
+    "verificacoes_principais_corretas": 19,
+    "verificacoes_restantes_corretas": 6,
+    "total_verificacoes_corretas": 25,
+    "distribuicao_final": {
+      "Outros": 100,
+      "Governanca": 1,
+      "Gestao Escolar": 54,
+      "Legislacao": 1,
+      "Formacao": 1,
+      "Financeiro": 1,
+      "Tecnologia": 4,
+      "Pedagogico": 1,
+      "Educacao": 9,
+      "Biblioteca": 1
+    }
+  },
+  "detalhes_por_fase": {
+    "fase_1_verificacao_inicial": {
+      "descricao": "Análise inicial da distribuição baseada no título vs conteúdo interno",
+      "total_conteudos": 73,
+      "conteudos_sem_discrepancia": 44,
+      "conteudos_com_discrepancia": 29,
+      "percentual_acuracia": 60.273972602739725,
+      "distribuicao_anterior": {
+        "Outros": 66,
+        "Governanca": 1,
+        "Gestao Escolar": 1,
+        "Legislacao": 1,
+        "Formacao": 1,
+        "Financeiro": 1,
+        "Tecnologia": 1,
+        "Pedagogico": 1
+      },
+      "distribuicao_real": {
+        "Gestao Escolar": 20,
+        "Educacao": 2,
+        "Outros": 51
+      }
+    },
+    "fase_2_correcao_principal": {
+      "descricao": "Correção dos conteúdos com propriedades de categoria existentes",
+      "total_para_corrigir": 29,
+      "correcoes_aplicadas": 19,
+      "falhas_correcao": 10,
+      "percentual_sucesso": 65.51724137931035
+    },
+    "fase_3_verificacao_principal": {
+      "descricao": "Verificação das correções principais aplicadas",
+      "total_verificacoes": 19,
+      "verificacoes_corretas": 19,
+      "verificacoes_incorretas": 0,
+      "percentual_sucesso": 100.0
+    },
+    "fase_4_correcao_restante": {
+      "descricao": "Correção dos conteúdos restantes (criação de propriedades)",
+      "total_para_corrigir": 10,
+      "correcoes_aplicadas": 6,
+      "falhas_correcao": 4,
+      "percentual_sucesso": 60.0
+    },
+    "fase_5_verificacao_restante": {
+      "descricao": "Verificação das correções restantes aplicadas",
+      "total_verificacoes": 6,
+      "verificacoes_corretas": 6,
+      "verificacoes_incorretas": 0,
+      "percentual_sucesso": 100.0
+    }
+  },
+  "resultados_finais": {
+    "total_conteudos_banco": 173,
+    "total_databases": 12,
+    "distribuicao_final_por_tipo": {
+      "Outros": 100,
+      "Governanca": 1,
+      "Gestao Escolar": 54,
+      "Legislacao": 1,
+      "Formacao": 1,
+      "Financeiro": 1,
+      "Tecnologia": 4,
+      "Pedagogico": 1,
+      "Educacao": 9,
+      "Biblioteca": 1
+    },
+    "melhorias_alcancadas": {
+      "gestao_escolar": {
+        "antes": 1,
+        "depois": 54,
+        "melhoria": 53
+      },
+      "educacao": {
+        "antes": 0,
+        "depois": 9,
+        "melhoria": 9
+      }
+    }
+  }
+}

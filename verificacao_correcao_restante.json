@@ -1,0 +1,69 @@
+{
+  "data_verificacao": "2025-09-30T17:07:30.467924",
+  "total_verificacoes_realizadas": 6,
+  "verificacoes_corretas": 6,
+  "verificacoes_incorretas": 0,
+  "percentual_sucesso": 100.0,
+  "detalhes_verificacao": [
+    {
+      "page_id": "2325113a-91a3-81b9-940c-c7edf1d86b41",
+      "titulo": "Gestão de Pessoas",
+      "tipo_esperado": "Outros",
+      "valor_atual": "Outros",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Categoria",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T17:07:25.589128"
+    },
+    {
+      "page_id": "2325113a-91a3-810a-a7bf-f6c18e61d662",
+      "titulo": "Legislação",
+      "tipo_esperado": "Outros",
+      "valor_atual": "Outros",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Categoria",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T17:07:26.525580"
+    },
+    {
+      "page_id": "2325113a-91a3-818f-b7e6-d8905ae463e2",
+      "titulo": "Formação",
+      "tipo_esperado": "Outros",
+      "valor_atual": "Outros",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Categoria",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T17:07:27.319257"
+    },
+    {
+      "page_id": "2325113a-91a3-819f-8d12-ceeeff041cb7",
+      "titulo": "Financeiro",
+      "tipo_esperado": "Outros",
+      "valor_atual": "Outros",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Categoria",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T17:07:28.232475"
+    },
+    {
+      "page_id": "2325113a-91a3-81b9-a393-fec761b34d1a",
+      "titulo": "Tecnologia e Sistemas",
+      "tipo_esperado": "Outros",
+      "valor_atual": "Outros",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Categoria",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T17:07:29.158802"
+    },
+    {
+      "page_id": "2325113a-91a3-81c7-a475-dc537a11c70c",
+      "titulo": "Pedagógico",
+      "tipo_esperado": "Outros",
+      "valor_atual": "Outros",
+      "correcao_aplicada": true,
+      "propriedade_usada": "Categoria",
+      "tipo_propriedade": "select",
+      "timestamp": "2025-09-30T17:07:29.967326"
+    }
+  ]
+}

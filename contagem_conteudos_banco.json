@@ -1,20 +1,59 @@
 {
-  "data_contagem": "2025-09-30T16:44:38.863439",
+  "data_contagem": "2025-09-30T17:08:03.831152",
   "total_databases": 12,
   "total_conteudos": 173,
   "tipos_gerais": {
     "Outros": 100,
-    "Gestao Escolar": 54,
-    "Tecnologia": 4,
-    "Educacao": 9,
-    "Biblioteca": 1,
     "Governanca": 1,
+    "Gestao Escolar": 54,
     "Legislacao": 1,
     "Formacao": 1,
     "Financeiro": 1,
-    "Pedagogico": 1
+    "Tecnologia": 4,
+    "Pedagogico": 1,
+    "Educacao": 9,
+    "Biblioteca": 1
   },
   "databases_info": [
+    {
+      "database_id": "2325113a-91a3-815c-aca3-e00a2b3d8648",
+      "nome": "Cursos",
+      "total_paginas": 3,
+      "tipos_conteudo": {
+        "Outros": 3
+      }
+    },
+    {
+      "database_id": "2325113a-91a3-8155-bba2-dec98a75447b",
+      "nome": "Módulos",
+      "total_paginas": 10,
+      "tipos_conteudo": {
+        "Outros": 10
+      }
+    },
+    {
+      "database_id": "dae6cbd8-2e14-4bb7-8fba-1fcf750cc067",
+      "nome": "Autores",
+      "total_paginas": 8,
+      "tipos_conteudo": {
+        "Outros": 8
+      }
+    },
+    {
+      "database_id": "2325113a-91a3-81f4-b7a7-ddd6fa5575b1",
+      "nome": "Categoria",
+      "total_paginas": 9,
+      "tipos_conteudo": {
+        "Governanca": 1,
+        "Gestao Escolar": 1,
+        "Legislacao": 1,
+        "Formacao": 1,
+        "Financeiro": 1,
+        "Tecnologia": 1,
+        "Pedagogico": 1,
+        "Outros": 2
+      }
+    },
     {
       "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f",
       "nome": "Biblioteca",
@@ -33,21 +72,6 @@
         "Outros": 34,
         "Educacao": 9,
         "Biblioteca": 1
-      }
-    },
-    {
-      "database_id": "2325113a-91a3-81f4-b7a7-ddd6fa5575b1",
-      "nome": "Categoria",
-      "total_paginas": 9,
-      "tipos_conteudo": {
-        "Governanca": 1,
-        "Gestao Escolar": 1,
-        "Legislacao": 1,
-        "Formacao": 1,
-        "Financeiro": 1,
-        "Tecnologia": 1,
-        "Pedagogico": 1,
-        "Outros": 2
       }
     },
     {
@@ -81,34 +105,10 @@
       }
     },
     {
-      "database_id": "dae6cbd8-2e14-4bb7-8fba-1fcf750cc067",
-      "nome": "Autores",
-      "total_paginas": 8,
-      "tipos_conteudo": {
-        "Outros": 8
-      }
-    },
-    {
-      "database_id": "2325113a-91a3-8155-bba2-dec98a75447b",
-      "nome": "Módulos",
-      "total_paginas": 10,
-      "tipos_conteudo": {
-        "Outros": 10
-      }
-    },
-    {
       "database_id": "2325113a-91a3-81d5-8751-fe9ed674ebcb",
       "nome": "Planner",
       "total_paginas": 0,
       "tipos_conteudo": {}
-    },
-    {
-      "database_id": "2325113a-91a3-815c-aca3-e00a2b3d8648",
-      "nome": "Cursos",
-      "total_paginas": 3,
-      "tipos_conteudo": {
-        "Outros": 3
-      }
     },
     {
       "database_id": "2325113a-91a3-81e7-99b2-d1b64db53c61",

@@ -1,0 +1,109 @@
+{
+  "data_correcao": "2025-09-30T17:06:55.158476",
+  "total_conteudos_para_corrigir": 10,
+  "correcoes_aplicadas": 6,
+  "falhas_correcao": 4,
+  "percentual_sucesso": 60.0,
+  "detalhes_correcoes": [
+    {
+      "page_id": "2655113a-91a3-8070-99c0-d2027c3c36a3",
+      "titulo": "Governança",
+      "database": "Categoria",
+      "tipo_anterior": "Governanca",
+      "tipo_real": "Outros",
+      "propriedade_usada": null,
+      "sucesso": false,
+      "timestamp": "2025-09-30T17:06:15.075234"
+    },
+    {
+      "page_id": "2325113a-91a3-81b9-940c-c7edf1d86b41",
+      "titulo": "Gestão de Pessoas",
+      "database": "Categoria",
+      "tipo_anterior": "Gestao Escolar",
+      "tipo_real": "Outros",
+      "propriedade_usada": "Categoria",
+      "sucesso": true,
+      "timestamp": "2025-09-30T17:06:18.032507"
+    },
+    {
+      "page_id": "2325113a-91a3-810a-a7bf-f6c18e61d662",
+      "titulo": "Legislação",
+      "database": "Categoria",
+      "tipo_anterior": "Legislacao",
+      "tipo_real": "Outros",
+      "propriedade_usada": "Categoria",
+      "sucesso": true,
+      "timestamp": "2025-09-30T17:06:21.440154"
+    },
+    {
+      "page_id": "2325113a-91a3-818f-b7e6-d8905ae463e2",
+      "titulo": "Formação",
+      "database": "Categoria",
+      "tipo_anterior": "Formacao",
+      "tipo_real": "Outros",
+      "propriedade_usada": "Categoria",
+      "sucesso": true,
+      "timestamp": "2025-09-30T17:06:25.960280"
+    },
+    {
+      "page_id": "2325113a-91a3-819f-8d12-ceeeff041cb7",
+      "titulo": "Financeiro",
+      "database": "Categoria",
+      "tipo_anterior": "Financeiro",
+      "tipo_real": "Outros",
+      "propriedade_usada": "Categoria",
+      "sucesso": true,
+      "timestamp": "2025-09-30T17:06:28.832036"
+    },
+    {
+      "page_id": "2325113a-91a3-81b9-a393-fec761b34d1a",
+      "titulo": "Tecnologia e Sistemas",
+      "database": "Categoria",
+      "tipo_anterior": "Tecnologia",
+      "tipo_real": "Outros",
+      "propriedade_usada": "Categoria",
+      "sucesso": true,
+      "timestamp": "2025-09-30T17:06:32.349467"
+    },
+    {
+      "page_id": "2325113a-91a3-81c7-a475-dc537a11c70c",
+      "titulo": "Pedagógico",
+      "database": "Categoria",
+      "tipo_anterior": "Pedagogico",
+      "tipo_real": "Outros",
+      "propriedade_usada": "Categoria",
+      "sucesso": true,
+      "timestamp": "2025-09-30T17:06:35.330260"
+    },
+    {
+      "page_id": "26a5113a-91a3-810f-b5b5-e7be184b994b",
+      "titulo": "Especialista ENEM",
+      "database": "Autores",
+      "tipo_anterior": "Outros",
+      "tipo_real": "Educacao",
+      "propriedade_usada": null,
+      "sucesso": false,
+      "timestamp": "2025-09-30T17:06:44.559887"
+    },
+    {
+      "page_id": "2325113a-91a3-81ef-9407-ed5db3469178",
+      "titulo": "",
+      "database": "Módulos",
+      "tipo_anterior": "Outros",
+      "tipo_real": "Gestao Escolar",
+      "propriedade_usada": null,
+      "sucesso": false,
+      "timestamp": "2025-09-30T17:06:48.082472"
+    },
+    {
+      "page_id": "2325113a-91a3-8160-bc6f-ecc0fcd1ee38",
+      "titulo": "",
+      "database": "Cursos",
+      "tipo_anterior": "Outros",
+      "tipo_real": "Gestao Escolar",
+      "propriedade_usada": null,
+      "sucesso": false,
+      "timestamp": "2025-09-30T17:06:53.157859"
+    }
+  ]
+}
