@@ -1,0 +1,795 @@
+{
+  "data": "2025-10-01T12:33:37.929318",
+  "gestao": {
+    "total": 50,
+    "conformes": 49,
+    "media": 82.8,
+    "conformidades": [
+      {
+        "page_id": "2795113a-91a3-812f-90fd-c873d67cbafd",
+        "titulo": "🎯 Gestão Estratégica Escolar: Transformando Desafios em Oportunidades em 2024",
+        "pontos": 3,
+        "total": 5,
+        "problemas": [
+          "⚠️ Nível de profundidade: formato incorreto",
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 60.0
+      },
+      {
+        "page_id": "2775113a-91a3-813a-a575-f94978af7a6c",
+        "titulo": "Lição: Metodologias Ativas e Tecnologia",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81db-9c29-c87a51cf45c3",
+        "titulo": "Checklist: Metodologias Ativas e Tecnologia",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-8198-a3c4-f1077709d014",
+        "titulo": "Artigo: Metodologias Ativas e Tecnologia",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81e6-ad6c-d82cba7a2515",
+        "titulo": "Lição: Gestão de Dados e Privacidade (LGPD)",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81da-bdaa-c28e5cf45e46",
+        "titulo": "Checklist: Gestão de Dados e Privacidade (LGPD)",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-815e-bc25-c076041e51cb",
+        "titulo": "Artigo: Gestão de Dados e Privacidade (LGPD)",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-8159-b133-ecfeb1ae05a8",
+        "titulo": "Lição: Inclusão e Acessibilidade Digital",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-8104-8b58-f3f31f820410",
+        "titulo": "Checklist: Inclusão e Acessibilidade Digital",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81a4-afa5-dae39414a1df",
+        "titulo": "Artigo: Inclusão e Acessibilidade Digital",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81f1-9819-f34477b09c19",
+        "titulo": "Lição: Sustentabilidade e Educação Ambiental",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81df-a96b-c55c625cf735",
+        "titulo": "Checklist: Sustentabilidade e Educação Ambiental",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81e0-b10f-ede9250956b7",
+        "titulo": "Artigo: Sustentabilidade e Educação Ambiental",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-819e-9b48-cb48e28d8d86",
+        "titulo": "Lição: Inteligência Artificial na Gestão Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81d1-a0de-f4ef8d41796c",
+        "titulo": "Checklist: Inteligência Artificial na Gestão Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81cf-a362-f3d3a40ae821",
+        "titulo": "Artigo: Inteligência Artificial na Gestão Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função : formato incorreto"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2765113a-91a3-819b-b062-de7121dc0da4",
+        "titulo": "Artigo: Economia Circular na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2765113a-91a3-8174-911c-d7b2bb51e035",
+        "titulo": "Lição: Sustentabilidade na Gestão Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2765113a-91a3-8124-8d6f-e32a8f866a5d",
+        "titulo": "Checklist: Gestão Ambiental Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8186-9637-d9bf31dc9dd3",
+        "titulo": "Lição: Metodologias Ativas de Ensino",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-818f-819a-e363141c9a30",
+        "titulo": "Lição: Liderança Transformacional na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-810b-81f4-cd5dc133e75a",
+        "titulo": "Lição: Inovação Pedagógica na Escola",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-815e-9a87-d56ba2d0b34a",
+        "titulo": "Lição: Gestão de Mudanças na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-813d-9263-ca8d5004ea51",
+        "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-818c-8b08-d63139620b39",
+        "titulo": "Lição: Gestão Estratégica Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-81c3-8f66-ff72172bebf7",
+        "titulo": "Lição: Gestão de Conflitos Escolares",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-810a-9d60-fd812b9c51bc",
+        "titulo": "Lição: Desenvolvimento Profissional Docente",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-81dd-a50f-f48082e1214f",
+        "titulo": "📋 **CHECKLIST: SEGURANÇA ESCOLAR INTEGRAL**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8188-868e-ed9f733b41bb",
+        "titulo": "📋 **CHECKLIST: RECRUTAMENTO E SELEÇÃO DE PROFESSORES**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8145-ad96-d6f9d4fc271e",
+        "titulo": "📋 **CHECKLIST: PLANEJAMENTO ORÇAMENTÁRIO ANUAL ESCOLAR**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-816b-baa1-c38fbd76cd16",
+        "titulo": "📋 **CHECKLIST: GESTÃO TECNOLÓGICA ESCOLAR**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8195-9171-c691c8e20d77",
+        "titulo": "📋 **CHECKLIST: GESTÃO DA QUALIDADE EDUCACIONAL**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8138-890d-dcd2674e1eac",
+        "titulo": "📋 **CHECKLIST: GESTÃO DE PROJETOS EDUCACIONAIS**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-81b1-bcc7-e10fbadb53b2",
+        "titulo": "📋 **CHECKLIST: GESTÃO DE CRISES ESCOLARES**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8184-b089-ccd090744df0",
+        "titulo": "📋 **CHECKLIST: GESTÃO AMBIENTAL ESCOLAR**",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8158-8798-c2873467b416",
+        "titulo": "📋 **CHECKLIST: AVALIAÇÃO INSTITUCIONAL ESCOLAR**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81fd-a51c-e3a56577d2a8",
+        "titulo": "📋 **CHECKLIST: AVALIAÇÃO DE DESEMPENHO DOCENTE**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8141-9652-ca76853e4994",
+        "titulo": "Plano de Crescimento Sustentável",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-811b-939f-d151f274a6f5",
+        "titulo": "Sistema de Monitoramento da Biblioteca",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8192-a327-f78ae6d6ff3d",
+        "titulo": "Lição: Desenvolvimento Profissional Docente",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-81d9-bfe1-e4578d9b81ec",
+        "titulo": "Checklist de Avaliação Institucional Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81e2-b66e-e54b38caba63",
+        "titulo": "Lição: Gestão Estratégica Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-816f-a0d4-f0bf51e34b9d",
+        "titulo": "Checklist de Gestão de Crises Escolares",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-81ce-8d12-f0c5fe208428",
+        "titulo": "Lição: Gestão de Mudanças na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8126-8f77-d02a8ae08741",
+        "titulo": "Checklist de Gestão Tecnológica Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8168-8ca5-e889e4b1e290",
+        "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8195-b1be-f6a2a3a6afd2",
+        "titulo": "Checklist de Gestão Ambiental Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-81dc-a646-e30c1131f307",
+        "titulo": "Checklist de Gestão da Qualidade Educacional",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8156-a1e3-d7bd9c7af26f",
+        "titulo": "Lição: Inovação Pedagógica na Escola",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2725113a-91a3-8160-89d4-da06e2422f89",
+        "titulo": "Checklist de Gestão de Projetos Educacionais",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "❌ Função : valores inválidos"
+        ],
+        "percentual": 80.0
+      }
+    ]
+  },
+  "aluno": {
+    "total": 24,
+    "conformes": 0,
+    "media": 40.0,
+    "conformidades": [
+      {
+        "page_id": "27f5113a-91a3-817b-b018-f997ace59629",
+        "titulo": "Técnicas de Memorização para o ENEM 2025: Aprenda Mais Rápido e Retenha Melhor",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "27f5113a-91a3-81af-9a7a-f60ed50b5c32",
+        "titulo": "O Dia da Prova ENEM 2025: Checklist Completo e Estratégias Infalíveis",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "27e5113a-91a3-81a4-b631-fb86080feb20",
+        "titulo": "Ansiedade no ENEM 2025: Guia Completo para Controlar o Nervosismo e Manter a Calma",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "27e5113a-91a3-8167-bc9b-e19550dc07dc",
+        "titulo": "Simulados ENEM 2025: Como Usar de Forma Estratégica para Maximizar seu Desempenho",
+        "pontos": 1,
+        "total": 5,
+        "problemas": [
+          "❌ Status Editorial: 'Em Curadoria' inválido",
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 20.0
+      },
+      {
+        "page_id": "27e5113a-91a3-81d3-bdff-dede52c7c12e",
+        "titulo": "Simulados ENEM 2025: Como Usar de Forma Estratégica para Maximizar seu Desempenho",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+        "titulo": "Material de geometria",
+        "pontos": 1,
+        "total": 5,
+        "problemas": [
+          "⚠️ Status Editorial: formato incorreto",
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 20.0
+      },
+      {
+        "page_id": "2775113a-91a3-8055-aa64-f44db7c10609",
+        "titulo": "Acesse planners, módulos de estudo e ferramentas práticas",
+        "pontos": 1,
+        "total": 5,
+        "problemas": [
+          "⚠️ Status Editorial: formato incorreto",
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 20.0
+      },
+      {
+        "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+        "titulo": "Mudanças no ENEM 2025: O que os estudantes precisam saber",
+        "pontos": 3,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 60.0
+      },
+      {
+        "page_id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+        "titulo": "",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "2705113a-91a3-81ee-9c22-e89f72812350",
+        "titulo": "Como estruturar um calendário de pagamentos escolares",
+        "pontos": 3,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 60.0
+      },
+      {
+        "page_id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+        "titulo": "Revise e ajuste conforme necessário",
+        "pontos": 1,
+        "total": 5,
+        "problemas": [
+          "❌ Status Editorial: 'Em Revisao' inválido",
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 20.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+        "titulo": "Artigo – Formato Padrão.",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-810b-b647-e10963c83524",
+        "titulo": "Análise ENEM 2024: Tendências em Matemática",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+        "titulo": "Carreiras em Tecnologia: Guia Completo pós-ENEM",
+        "pontos": 3,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 60.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+        "titulo": "Podcast: Estratégias de Estudo com Especialistas",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8112-a314-ccea441781fb",
+        "titulo": "Calculadora ENEM",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8172-b405-e315b96897a7",
+        "titulo": "Planner Semanal de Estudos",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+        "titulo": "Redação ENEM: Como Estruturar sua Argumentação",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+        "titulo": "Dashboard de Desempenho Pessoal",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+        "titulo": "Planner ENEM: Organize seus Estudos",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+        "titulo": "Exercícios de Interpretação de Texto Comentados",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "⚠️ Função Alvo: formato incorreto"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+        "titulo": "Mudanças Climáticas: Tema Recorrente no ENEM",
+        "pontos": 3,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 60.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+        "titulo": "Como Estudar Matemática para o ENEM: Guia Completo",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "⚠️ Público Alvo: formato incorreto",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+        "titulo": "Cronograma ENEM 2025: Datas Importantes",
+        "pontos": 2,
+        "total": 5,
+        "problemas": [
+          "❌ Público Alvo: valores inválidos",
+          "⚠️ Tags Tema: formato incorreto",
+          "❌ Função Alvo: valores inválidos"
+        ],
+        "percentual": 40.0
+      }
+    ]
+  },
+  "geral": {
+    "total": 74,
+    "conformes": 49,
+    "media": 61.4
+  }
+}

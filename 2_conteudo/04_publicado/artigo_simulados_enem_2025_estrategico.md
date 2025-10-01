@@ -1,8 +1,5 @@
 # Simulados ENEM 2025: Como Usar de Forma Estratégica para Maximizar seu Desempenho
 
-## 📸 Imagem de Capa
-![Estudante fazendo simulado ENEM com cronômetro e materiais organizados](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop)
-
 ---
 
 ## 📝 Resumo Executivo

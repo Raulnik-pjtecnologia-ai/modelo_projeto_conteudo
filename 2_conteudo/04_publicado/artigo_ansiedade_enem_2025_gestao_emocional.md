@@ -1,8 +1,5 @@
 # Ansiedade no ENEM 2025: Guia Completo para Controlar o Nervosismo e Manter a Calma
 
-## 📸 Imagem de Capa
-![Estudante praticando técnicas de respiração e relaxamento para controlar ansiedade](https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&h=630&fit=crop)
-
 ---
 
 ## 📝 Resumo Executivo

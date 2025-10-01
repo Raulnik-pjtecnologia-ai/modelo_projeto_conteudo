@@ -1,0 +1,135 @@
+{
+  "data": "2025-10-01T12:30:41.426560",
+  "etapa_1": {
+    "gestao": {
+      "propriedades": {
+        "Link": "files",
+        "Checklist / URL pública": "url",
+        "Categoria": "relation",
+        "Fundacional": "checkbox",
+        "Relacionado": "relation",
+        "Cursos": "relation",
+        "Data": "date",
+        "Tags": "multi_select",
+        "Destaques": "checkbox",
+        "Módulos": "relation",
+        "Nível de profundidade": "multi_select",
+        "Editado em": "last_edited_time",
+        "Tipo de problema": "multi_select",
+        "Função ": "multi_select",
+        "Status editorial": "status",
+        "Thumbnail": "files",
+        "Tipo": "select",
+        "Name": "title"
+      },
+      "total_pages": 50,
+      "problemas_propriedades": [],
+      "pages_com_problemas": []
+    },
+    "aluno": {
+      "propriedades": {
+        "Anexos": "files",
+        "Link Externo": "url",
+        "Seção": "relation",
+        "Status Editorial": "select",
+        "Tipo": "select",
+        "Público Alvo": "multi_select",
+        "Destaque": "checkbox",
+        "Módulo": "relation",
+        "Autor": "relation",
+        "Tags Módulos": "multi_select",
+        "Prioridade": "select",
+        "Função Alvo": "multi_select",
+        "Tags Tema": "multi_select",
+        "Tipo de Conteúdo": "select",
+        "Data Publicação": "date",
+        "Comentários": "rich_text",
+        "Status": "select",
+        "Data Criação": "date",
+        "Thumbnail": "files",
+        "Tags Área": "multi_select",
+        "Tags Tipo": "multi_select",
+        "Title": "title"
+      },
+      "total_pages": 24,
+      "problemas_propriedades": [
+        "Status editorial: ausente",
+        "Nível de profundidade: ausente",
+        "Tags: ausente",
+        "Função : ausente"
+      ],
+      "pages_com_problemas": [
+        {
+          "titulo": "Técnicas de Memorização para o ENEM 2025: Aprenda Mais Rápido e Retenha Melhor",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "O Dia da Prova ENEM 2025: Checklist Completo e Estratégias Infalíveis",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "Ansiedade no ENEM 2025: Guia Completo para Controlar o Nervosismo e Manter a Calma",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "Simulados ENEM 2025: Como Usar de Forma Estratégica para Maximizar seu Desempenho",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "Simulados ENEM 2025: Como Usar de Forma Estratégica para Maximizar seu Desempenho",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "Material de geometria",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "Acesse planners, módulos de estudo e ferramentas práticas",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "Mudanças no ENEM 2025: O que os estudantes precisam saber",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        },
+        {
+          "titulo": "Como estruturar um calendário de pagamentos escolares",
+          "problemas": [
+            "Status editorial ausente",
+            "Tags ausente"
+          ]
+        }
+      ]
+    }
+  }
+}

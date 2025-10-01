@@ -1,0 +1,1831 @@
+{
+  "data": "2025-10-01T12:25:10.514136",
+  "gestao": {
+    "total": 186,
+    "conformes": 185,
+    "media": 98.17204301075269,
+    "conformidades": [
+      {
+        "page_id": "2795113a-91a3-812f-90fd-c873d67cbafd",
+        "titulo": "🎯 Gestão Estratégica Escolar: Transformando Desafios em Oportunidades em 2024",
+        "pontos": 3,
+        "total": 5,
+        "problemas": [
+          "⚠️ Nível de profundidade: formato inválido",
+          "⚠️ Função vazia"
+        ],
+        "percentual": 60.0
+      },
+      {
+        "page_id": "2775113a-91a3-813a-a575-f94978af7a6c",
+        "titulo": "Lição: Metodologias Ativas e Tecnologia",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81db-9c29-c87a51cf45c3",
+        "titulo": "Checklist: Metodologias Ativas e Tecnologia",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-8198-a3c4-f1077709d014",
+        "titulo": "Artigo: Metodologias Ativas e Tecnologia",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81e6-ad6c-d82cba7a2515",
+        "titulo": "Lição: Gestão de Dados e Privacidade (LGPD)",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81da-bdaa-c28e5cf45e46",
+        "titulo": "Checklist: Gestão de Dados e Privacidade (LGPD)",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-815e-bc25-c076041e51cb",
+        "titulo": "Artigo: Gestão de Dados e Privacidade (LGPD)",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-8159-b133-ecfeb1ae05a8",
+        "titulo": "Lição: Inclusão e Acessibilidade Digital",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-8104-8b58-f3f31f820410",
+        "titulo": "Checklist: Inclusão e Acessibilidade Digital",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81a4-afa5-dae39414a1df",
+        "titulo": "Artigo: Inclusão e Acessibilidade Digital",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81f1-9819-f34477b09c19",
+        "titulo": "Lição: Sustentabilidade e Educação Ambiental",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81df-a96b-c55c625cf735",
+        "titulo": "Checklist: Sustentabilidade e Educação Ambiental",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81e0-b10f-ede9250956b7",
+        "titulo": "Artigo: Sustentabilidade e Educação Ambiental",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-819e-9b48-cb48e28d8d86",
+        "titulo": "Lição: Inteligência Artificial na Gestão Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81d1-a0de-f4ef8d41796c",
+        "titulo": "Checklist: Inteligência Artificial na Gestão Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2775113a-91a3-81cf-a362-f3d3a40ae821",
+        "titulo": "Artigo: Inteligência Artificial na Gestão Escolar",
+        "pontos": 4,
+        "total": 5,
+        "problemas": [
+          "⚠️ Função vazia"
+        ],
+        "percentual": 80.0
+      },
+      {
+        "page_id": "2765113a-91a3-819b-b062-de7121dc0da4",
+        "titulo": "Artigo: Economia Circular na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2765113a-91a3-8174-911c-d7b2bb51e035",
+        "titulo": "Lição: Sustentabilidade na Gestão Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2765113a-91a3-8124-8d6f-e32a8f866a5d",
+        "titulo": "Checklist: Gestão Ambiental Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8186-9637-d9bf31dc9dd3",
+        "titulo": "Lição: Metodologias Ativas de Ensino",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-818f-819a-e363141c9a30",
+        "titulo": "Lição: Liderança Transformacional na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-810b-81f4-cd5dc133e75a",
+        "titulo": "Lição: Inovação Pedagógica na Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-815e-9a87-d56ba2d0b34a",
+        "titulo": "Lição: Gestão de Mudanças na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-813d-9263-ca8d5004ea51",
+        "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-818c-8b08-d63139620b39",
+        "titulo": "Lição: Gestão Estratégica Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81c3-8f66-ff72172bebf7",
+        "titulo": "Lição: Gestão de Conflitos Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-810a-9d60-fd812b9c51bc",
+        "titulo": "Lição: Desenvolvimento Profissional Docente",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81dd-a50f-f48082e1214f",
+        "titulo": "📋 **CHECKLIST: SEGURANÇA ESCOLAR INTEGRAL**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8188-868e-ed9f733b41bb",
+        "titulo": "📋 **CHECKLIST: RECRUTAMENTO E SELEÇÃO DE PROFESSORES**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8145-ad96-d6f9d4fc271e",
+        "titulo": "📋 **CHECKLIST: PLANEJAMENTO ORÇAMENTÁRIO ANUAL ESCOLAR**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-816b-baa1-c38fbd76cd16",
+        "titulo": "📋 **CHECKLIST: GESTÃO TECNOLÓGICA ESCOLAR**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8195-9171-c691c8e20d77",
+        "titulo": "📋 **CHECKLIST: GESTÃO DA QUALIDADE EDUCACIONAL**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8138-890d-dcd2674e1eac",
+        "titulo": "📋 **CHECKLIST: GESTÃO DE PROJETOS EDUCACIONAIS**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81b1-bcc7-e10fbadb53b2",
+        "titulo": "📋 **CHECKLIST: GESTÃO DE CRISES ESCOLARES**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8184-b089-ccd090744df0",
+        "titulo": "📋 **CHECKLIST: GESTÃO AMBIENTAL ESCOLAR**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8158-8798-c2873467b416",
+        "titulo": "📋 **CHECKLIST: AVALIAÇÃO INSTITUCIONAL ESCOLAR**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81fd-a51c-e3a56577d2a8",
+        "titulo": "📋 **CHECKLIST: AVALIAÇÃO DE DESEMPENHO DOCENTE**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8141-9652-ca76853e4994",
+        "titulo": "Plano de Crescimento Sustentável",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-811b-939f-d151f274a6f5",
+        "titulo": "Sistema de Monitoramento da Biblioteca",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8192-a327-f78ae6d6ff3d",
+        "titulo": "Lição: Desenvolvimento Profissional Docente",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81d9-bfe1-e4578d9b81ec",
+        "titulo": "Checklist de Avaliação Institucional Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81e2-b66e-e54b38caba63",
+        "titulo": "Lição: Gestão Estratégica Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-816f-a0d4-f0bf51e34b9d",
+        "titulo": "Checklist de Gestão de Crises Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81ce-8d12-f0c5fe208428",
+        "titulo": "Lição: Gestão de Mudanças na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8126-8f77-d02a8ae08741",
+        "titulo": "Checklist de Gestão Tecnológica Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8168-8ca5-e889e4b1e290",
+        "titulo": "Lição: Gestão Financeira Avançada para Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8195-b1be-f6a2a3a6afd2",
+        "titulo": "Checklist de Gestão Ambiental Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81dc-a646-e30c1131f307",
+        "titulo": "Checklist de Gestão da Qualidade Educacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8156-a1e3-d7bd9c7af26f",
+        "titulo": "Lição: Inovação Pedagógica na Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8160-89d4-da06e2422f89",
+        "titulo": "Checklist de Gestão de Projetos Educacionais",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-817a-b1d7-c566f4f6d48e",
+        "titulo": "Lição: Gestão de Conflitos Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8104-bac4-d661effa492b",
+        "titulo": "Checklist de Avaliação de Desempenho Docente",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8126-9c1e-c0685e13eb64",
+        "titulo": "Lição: Metodologias Ativas de Ensino",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81f6-a611-ef6fd1a214d9",
+        "titulo": "Checklist de Recrutamento e Seleção de Professores",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-816c-b278-eccce3a9bfd0",
+        "titulo": "Lição: Liderança Transformacional na Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81ab-b70b-ec55768a60a8",
+        "titulo": "Checklist de Planejamento Orçamentário Anual Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8128-950f-c862527694c4",
+        "titulo": "📋 **CHECKLIST: Implementação de Gestão de Inovação em Escolas**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81a4-93c2-e7dfbb61d39b",
+        "titulo": "Gestão de Inovação em Escolas: Criando Culturas de Transformação Educacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8144-b03e-f1b7da6e5865",
+        "titulo": "📋 **CHECKLIST: Implementação de Gestão de Projetos Educacionais**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81b3-9f0f-c5725e94e7d5",
+        "titulo": "Gestão de Projetos Educacionais: Metodologias e Práticas para Sucesso Pedagógico",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-816b-bbc8-cac848780bca",
+        "titulo": "📋 **CHECKLIST: Implementação de Gestão de Comunidade Escolar**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81f1-b72c-f5f1c645a738",
+        "titulo": "Gestão de Comunidade Escolar e Relacionamento com Famílias: Construindo Parcerias Estratégicas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8131-9939-cec2d1f61401",
+        "titulo": "📋 **CHECKLIST: Implementação de Analytics na Educação**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8169-b193-e01f6967ad1f",
+        "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81db-b688-fa5cb0e8a453",
+        "titulo": "Gestão de Inovação em Escolas: Criando Culturas de Transformação Educacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81f8-9b4f-e56c697b2df0",
+        "titulo": "Gestão de Projetos Educacionais: Metodologias e Práticas para Sucesso Pedagógico",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-814b-a50b-f4d812d4b15b",
+        "titulo": "Gestão de Comunidade Escolar e Relacionamento com Famílias: Construindo Parcerias Estratégicas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8126-b98e-e1491b32336a",
+        "titulo": "Gestão de Dados e Analytics na Educação: Transformando Informações em Decisões Estratégicas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81a0-8781-e1b8e3588756",
+        "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE SUSTENTABILIDADE EM ESCOLAS**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-811f-856f-eb858d024fce",
+        "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE LGPD NA EDUCAÇÃO**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8108-960d-f5b9a0be9f6e",
+        "titulo": "Checklist: Implementação de Inclusão e Acessibilidade na Gestão Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81d8-a5a4-f322e76f1616",
+        "titulo": "📋 **CHECKLIST: IMPLEMENTAÇÃO DE INTELIGÊNCIA ARTIFICIAL NA GESTÃO ESCOLAR**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8172-9bd6-e124f761daeb",
+        "titulo": "📋 **CHECKLIST: GESTÃO ESCOLAR PÓS-PANDEMIA**",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81e2-a716-c402876b6ca0",
+        "titulo": "Como Estruturar Rotinas de Segurança Predial",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8149-acd6-d7e8c1f3d75f",
+        "titulo": "LGPD e Proteção de Dados na Educação: Guia Completo para Gestores Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8108-8e4f-f1a5187c3c25",
+        "titulo": "Inteligência Artificial na Gestão Escolar: Implementação Prática e Benefícios",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8147-a4dc-dc29156fd2d6",
+        "titulo": "Inclusão e Acessibilidade na Gestão Escolar: Construindo uma Educação para Todos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81e1-bb37-dd26c1c77b55",
+        "titulo": "Gestão de Sustentabilidade em Escolas: Estratégias para uma Educação Responsável",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-817a-8506-c2bca4374f95",
+        "titulo": "Gestão Escolar Pós-Pandemia: Adaptações e Inovações para o Futuro da Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81f9-9079-c71e4e63c1c8",
+        "titulo": "Licao Planejamento Orcamentario Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-815f-a983-fa5213892733",
+        "titulo": "Licao Comunicacao Digital Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-814b-af29-daaa0927ac9f",
+        "titulo": "Checklist Seguranca Alimentar Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81a0-b97b-ed7e7d03ade2",
+        "titulo": "Checklist Manutencao Preventiva Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-812d-91f5-fbfa5e7563ca",
+        "titulo": "Checklist Implementacao Comunicacao Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8122-94fd-f8d21f05a2f5",
+        "titulo": "Checklist Conformidade Legal Contratacoes",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-815b-852e-f1463c1bd97a",
+        "titulo": "Checklist Auditoria Fornecedores",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8132-854b-e3d5d24a4630",
+        "titulo": "Artigo Rotinas Seguranca Predial Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-814d-ad47-c04402727471",
+        "titulo": "Artigo Riscos Operacionais Escolas Mitigacao",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81ec-bf76-e05baf4ed55a",
+        "titulo": "Artigo Politicas Compras Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81eb-8d8b-fc9c92b1df39",
+        "titulo": "Artigo Planejamento Quadro Pessoal Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-813c-a64b-f43a19a69504",
+        "titulo": "Artigo Padroes Qualidade Alimentacao Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-817c-9128-e33b001c52a7",
+        "titulo": "Artigo Normas Acessibilidade Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81c3-bce3-fcdf7efef90b",
+        "titulo": "Artigo Gestao Transporte Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-813e-8343-ca5636ea9573",
+        "titulo": "Artigo Gestao Fluxo Caixa Educacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8168-83a4-e08785858591",
+        "titulo": "Artigo Gestao Documental Secretarias Educacao",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-811a-b496-d11ae4617934",
+        "titulo": "Artigo Gestao Contratos Manutencao Escolas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-81ba-85da-ccfb1f7990cc",
+        "titulo": "Artigo Gestao Contratos Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8146-945d-db8ce3cc03ec",
+        "titulo": "Artigo Gestao Comunicacao Escolar Avancado",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8111-aa3d-e57dadce7cef",
+        "titulo": "Artigo Gestao Comunicacao Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8112-96f1-f0d0ce25c622",
+        "titulo": "Artigo Gestao Beneficios Redes Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2725113a-91a3-8167-8c78-c9e5c372ffcd",
+        "titulo": "Artigo Controle Estoque Materiais Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-810d-80eb-d4ddb59a5a89",
+        "titulo": "Gestão de Comunicação Escolar: Estratégia, Transparência e Engajamento da Comunidade",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8164-913c-f31a59e4a53b",
+        "titulo": "Checklist de Auditoria de Fornecedores Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-815f-bdea-e31289444898",
+        "titulo": "Lição: Planejamento Orçamentário Escolar: Estratégia, Controle e Sustentabilidade Financeira",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-81bf-b696-fdc9be24a775",
+        "titulo": "Checklist de Conformidade Legal em Contratações Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-81ca-9815-d81ae59ae5e8",
+        "titulo": "Gestão de Contratos Escolares: Eficiência Administrativa e Conformidade Legal",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8030-9361-d4ba2de14656",
+        "titulo": "O Papel do Coordenador Pedagógico em Redes Escolares (Duplicata)",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-80c4-96b5-f36ca93045e7",
+        "titulo": "Extração das tags únicas da planilha e cadastro no Notion (para “Assuntos”)",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8034-9c1c-c74442047eea",
+        "titulo": "Atualiza as opções do campo multi-select no Notion para incluir as novas que faltam.",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-80c9-a8cf-d083de6b8062",
+        "titulo": "O Papel do Coordenador Pedagógico em Redes Escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8025-8d4a-cdb2e5de05ee",
+        "titulo": "Checklist desligamento",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8093-9480-ea6d8eff7fd4",
+        "titulo": "Checklist de Admissão de Colaboradores",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8039-b722-f82eac69748c",
+        "titulo": "Substituição professores",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-80c6-a5f6-d30cccdc9433",
+        "titulo": "Redução rotatividade",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-80a2-82e4-c2f4ecc8b232",
+        "titulo": "Planejamento quadro pessoal",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8010-af58-fc0a0caa9f7f",
+        "titulo": "Modelos de Contratação no Setor Educacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8073-8633-c1dac6efedf7",
+        "titulo": "Gestão de Benefícios Corporativos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2705113a-91a3-8099-8c2e-f0c19124248e",
+        "titulo": "Avaliação desempenho",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26d5113a-91a3-80a6-bf2f-e2f37a4eb43d",
+        "titulo": "Checklist conformidade contratos pagamentos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26d5113a-91a3-804c-9ab2-de004801c0c5",
+        "titulo": "Checklist fechamento financeiro mensal",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26d5113a-91a3-80ed-a675-cea1352fd59e",
+        "titulo": "Gestão de Fluxo de Caixa Educacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26d5113a-91a3-80f8-be45-dfb2ea005375",
+        "titulo": "Políticas de Compras para Escolas: Boas Práticas",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26d5113a-91a3-80f8-8837-dbbfc6f6e6bc",
+        "titulo": "Prestação de contas conselhos fundos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26d5113a-91a3-8038-86b4-ddc94b330bef",
+        "titulo": "Estrutura centro de custos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26c5113a-91a3-8016-86c7-f0460673911e",
+        "titulo": "Erros execução orçamentária",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "26c5113a-91a3-807c-a228-d77d1cd54aed",
+        "titulo": "Como estruturar um calendário de pagamentos escolares",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2695113a-91a3-8057-9cd3-cbb7af6ccab9",
+        "titulo": "Adaptar atributos dos bancos para contexto ENEM",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8151-8265-e906175f8a10",
+        "titulo": "Paraná tem a melhor educação do Brasil no ranking geral do Ideb",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81d5-8882-d49f73bd6063",
+        "titulo": "Lei de Cotas Completa 33 Anos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8175-b1ad-d201e57a8fd2",
+        "titulo": "Lição: Qualidade e Auditorias: Prestação de Contas Final",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-819f-a933-e7790141676f",
+        "titulo": "Lição: Engajamento dos Pais e da Comunidade Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81b0-b96b-c71fa8d45cd1",
+        "titulo": "Lição: Planejamento Orçamentário e Finanças da Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81b8-b7b7-e30f53d0966d",
+        "titulo": "Viagens a Trabalho: Como Estruturar uma Política de Reembolsos Clara, Econômica e Auditável",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81e6-b54b-df290b89e1b3",
+        "titulo": "Promoções e Mudanças de Carga Horária no Quadro Administrativo: Critérios, Comunicação e Transparência",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8109-9d0c-e7af8032b439",
+        "titulo": "Lição: Comunicação Não-Violenta e Gestão de Conflitos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8118-9d48-d3deaeadb9d7",
+        "titulo": "As verdades sobre o programa Parceiro da Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8120-b7ca-eaea4911d473",
+        "titulo": "Fundo Nacional de Desenvolvimento da Educação",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8131-9bc1-e3ac4c930ca6",
+        "titulo": "Lição: Cultura de Aprendizagem Contínua e Inovação na Gestão",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8134-89b2-e1539f2d3e48",
+        "titulo": "A importância da Parceria entre Família e Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-816b-950b-ecec7202a2fd",
+        "titulo": "Contratação e Mobilidade Interna: Eficiência Estratégica e Valorização do Capital Humano",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8104-8402-c38c64e69782",
+        "titulo": "Lição: Integração, Desenvolvimento e Retenção de Colaboradores",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81c8-8501-f03b0ef0036f",
+        "titulo": "Desligamentos Organizacionais: Justiça, Conformidade Legal e Governança no Processo Demissional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81d7-acfb-e0deeafcbe84",
+        "titulo": "Edital Programa Parceiro da Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81db-92cc-c9d5ea7eed7d",
+        "titulo": "Lição: Colaboração com Professores e Equipe Pedagógica",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81e3-8670-d3b4343942d5",
+        "titulo": "Pagamentos Avulsos: Controle, Rastreabilidade e Redução de Riscos em Despesas Pontuais",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8156-9a1d-c71abf246e24",
+        "titulo": "Lição: Contexto e Origem do Programa Parceiro da Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8160-892e-e50b08f9129f",
+        "titulo": "Cartão de Crédito Corporativo: Agilidade com Controle, Responsabilidade e Rastreabilidade",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8170-b9ae-f1601858f1d6",
+        "titulo": "Lição: Princípios Modernos de Gestão aplicados à Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8173-a928-fe1fb1e7e2ca",
+        "titulo": "Lição: Gerenciando a Cultura e o Clima da Escola\n",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81a0-a3ba-c2e9b0311210",
+        "titulo": "Como Aproximar as Famílias da Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81ab-8df5-f453c21267b1",
+        "titulo": "Gestão de Faltas e Substituições no Quadro Administrativo: Continuidade Operacional e Controle de Recursos Humanos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8182-b802-de3f291bd082",
+        "titulo": "PDCA na Prática",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8189-870a-da6211200dcd",
+        "titulo": "Tudo que você precisa saber sobre o Parceiro da Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-819b-8341-ccaaf5697f10",
+        "titulo": "Aula 1: Slides",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81ba-98d4-f7fc6f1f1240",
+        "titulo": "Gestão à Vista ",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81b5-8ef3-c50948a8eeab",
+        "titulo": "Fechamento de Folha: Rigor Técnico, Cumprimento Legal e Confiabilidade no Pagamento",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81c4-9659-f5d423d2559c",
+        "titulo": "Banco de Horas: Flexibilidade com Controle e Segurança Jurídica",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81c5-94c4-faa3be5d1fd4",
+        "titulo": "Lição: Indicadores Administrativos e Ferramentas da Qualidade",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8190-a029-eeda344a2753",
+        "titulo": "Gestão de Benefícios Corporativos: Atratividade, Retenção e Alinhamento com a Cultura Organizacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81fb-8de1-dcbea2e3061f",
+        "titulo": "Lição: Apoio do Gestor ao Desempenho Acadêmico dos Alunos",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-812e-82e6-c1d866796dcb",
+        "titulo": "Lição: Gestão de Pessoal na Escola e Recrutamento Efetivo",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8191-87bc-e6862fe7c888",
+        "titulo": "Lei Federal nº 9.394/1996 (LDB) – Diretrizes e Bases da Educação Nacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81bf-99c7-c4872a7df16c",
+        "titulo": "Gestão de Faltas e Substituições Docentes: Organização Acadêmica, Impacto Orçamentário e Confiabilidade na Folha",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8107-9eda-fdac84bc96a2",
+        "titulo": "Lição: A Educação Pública no Paraná e seus Desafios",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8156-928c-d91d080d1c52",
+        "titulo": "Reembolsos Corporativos: Transparência, Eficiência e Responsabilidade Fiscal",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-817f-874b-eabe3c3e97d6",
+        "titulo": "Lição: Políticas Educacionais e Currículo: Alinhando Administração e Projeto Pedagógico",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81b4-b0ab-d0ccb411cc33",
+        "titulo": "Planejamento e Acompanhamento de Infraestrutura: Eficiência Operacional e Conservação Patrimonial",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8134-99ce-e57dd3f10243",
+        "titulo": "Consolidação das Leis de Trabalho",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8154-b4de-d05c7f0e75fa",
+        "titulo": "Contratos com Fornecedores: Formalização, Segurança Jurídica e Gestão de Compras",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8169-bced-c8854664ff7c",
+        "titulo": "Lição: Gestão de Fornecedores e Contratos de Serviços",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81b4-901d-fcdf6e7b628d",
+        "titulo": "Comunicação Não-Violenta no Ambiente Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81c7-b1ed-f96e5735c814",
+        "titulo": "Os desafios da BNCC para os Gestores",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81d0-b439-f24ffc0f62c1",
+        "titulo": "Lição: Liderança, Relacionamento e Cultura Colaborativa",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8105-b6d8-da3901112d84",
+        "titulo": "O Papel do Gestor Escolar Administrativo",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8160-982b-fbc97af7f56d",
+        "titulo": "Como fazer o PPP funcionar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8169-8b98-d9f276b7aa2c",
+        "titulo": "Gestão de Férias Trabalhistas: Planejamento, Conformidade Legal e Continuidade Operacional",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8172-96ae-c89eee6192c3",
+        "titulo": "Lei 14.133/2021 – Nova Lei de Licitações",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-817a-9a81-e24f37acbb53",
+        "titulo": "Lição: Acompanhamento de Indicadores Educacionais e Metas de Aprendizagem",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-819b-9598-ea5431262104",
+        "titulo": "6 Passos para Garantir a Segurança Escolar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81c0-873d-f1714f3b4f18",
+        "titulo": "Plano de Cargos e Salários: Estrutura, Transparência e Estratégia de Valorização",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8145-978a-e28aa4e5a25a",
+        "titulo": "Lei 22.006/2024 - Institui o programa Parceiro da Escola",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8172-abde-e14a88a58931",
+        "titulo": "O que são 5S | Como implementar",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-817b-bc66-e71a5a51dc80",
+        "titulo": "Lição: Infraestrutura Escolar: Manutenção e Segurança do Espaço",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-8148-9571-dccc0aa6f67f",
+        "titulo": "COM PROGRAMA PARCEIRO DA ESCOLA, GOVERNO DO ESTADO QUER EXPANDIR QUALIDADE DA EDUCAÇÃO",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81a7-b0f8-c41eed162f33",
+        "titulo": "Kanban na Prática - Como funciona o Kanban",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      },
+      {
+        "page_id": "2325113a-91a3-81b3-8faa-f87325088662",
+        "titulo": "Fechamento de Comitê Financeiro: Prestação de Contas, Indicadores Orçamentários e Decisão Estratégica",
+        "pontos": 5,
+        "total": 5,
+        "problemas": [],
+        "percentual": 100.0
+      }
+    ]
+  },
+  "aluno": {
+    "total": 24,
+    "conformes": 0,
+    "media": 25.0,
+    "conformidades": [
+      {
+        "page_id": "27f5113a-91a3-817b-b018-f997ace59629",
+        "titulo": "Técnicas de Memorização para o ENEM 2025: Aprenda Mais Rápido e Retenha Melhor",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "27f5113a-91a3-81af-9a7a-f60ed50b5c32",
+        "titulo": "O Dia da Prova ENEM 2025: Checklist Completo e Estratégias Infalíveis",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "27e5113a-91a3-81a4-b631-fb86080feb20",
+        "titulo": "Ansiedade no ENEM 2025: Guia Completo para Controlar o Nervosismo e Manter a Calma",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "27e5113a-91a3-8167-bc9b-e19550dc07dc",
+        "titulo": "Simulados ENEM 2025: Como Usar de Forma Estratégica para Maximizar seu Desempenho",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "27e5113a-91a3-81d3-bdff-dede52c7c12e",
+        "titulo": "Simulados ENEM 2025: Como Usar de Forma Estratégica para Maximizar seu Desempenho",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+        "titulo": "Material de geometria",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "2775113a-91a3-8055-aa64-f44db7c10609",
+        "titulo": "Acesse planners, módulos de estudo e ferramentas práticas",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+        "titulo": "Mudanças no ENEM 2025: O que os estudantes precisam saber",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+        "titulo": "",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "2705113a-91a3-81ee-9c22-e89f72812350",
+        "titulo": "Como estruturar um calendário de pagamentos escolares",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+        "titulo": "Revise e ajuste conforme necessário",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+        "titulo": "Artigo – Formato Padrão.",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-810b-b647-e10963c83524",
+        "titulo": "Análise ENEM 2024: Tendências em Matemática",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+        "titulo": "Carreiras em Tecnologia: Guia Completo pós-ENEM",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+        "titulo": "Podcast: Estratégias de Estudo com Especialistas",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8112-a314-ccea441781fb",
+        "titulo": "Calculadora ENEM",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8172-b405-e315b96897a7",
+        "titulo": "Planner Semanal de Estudos",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+        "titulo": "Redação ENEM: Como Estruturar sua Argumentação",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+        "titulo": "Dashboard de Desempenho Pessoal",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+        "titulo": "Planner ENEM: Organize seus Estudos",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+        "titulo": "Exercícios de Interpretação de Texto Comentados",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+        "titulo": "Mudanças Climáticas: Tema Recorrente no ENEM",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+        "titulo": "Como Estudar Matemática para o ENEM: Guia Completo",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+        "titulo": "Cronograma ENEM 2025: Datas Importantes",
+        "pontos": 1,
+        "total": 4,
+        "problemas": [
+          "⚠️ Status editorial: ausente",
+          "⚠️ Nível de profundidade: ausente",
+          "⚠️ Tags: ausente"
+        ],
+        "percentual": 25.0
+      }
+    ]
+  },
+  "geral": {
+    "total": 210,
+    "conformes": 185,
+    "media": 61.586021505376344
+  }
+}

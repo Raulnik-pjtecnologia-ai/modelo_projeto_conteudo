@@ -1,8 +1,5 @@
 # O Dia da Prova ENEM 2025: Checklist Completo e Estratégias Infalíveis
 
-## 📸 Imagem de Capa
-![Estudante preparado com materiais organizados para o dia da prova do ENEM](https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=1200&h=630&fit=crop)
-
 ---
 
 ## 📝 Resumo Executivo

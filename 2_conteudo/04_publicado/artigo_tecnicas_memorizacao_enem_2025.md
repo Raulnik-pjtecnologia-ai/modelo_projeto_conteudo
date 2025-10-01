@@ -1,8 +1,5 @@
 # Técnicas de Memorização para o ENEM 2025: Aprenda Mais Rápido e Retenha Melhor
 
-## 📸 Imagem de Capa
-![Estudante utilizando mapas mentais e flashcards para memorização eficiente](https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=1200&h=630&fit=crop)
-
 ---
 
 ## 📝 Resumo Executivo

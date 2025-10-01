@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "youtube": {
+      "command": "npx",
+      "args": ["@modelcontextprotocol/server-youtube"],
+      "env": {
+        "YOUTUBE_API_KEY": "AIzaSyBCnkA6AcLgSlfJPy3S8_oYeJQrwXwayQc"
+      }
+    }
+  }
+}
