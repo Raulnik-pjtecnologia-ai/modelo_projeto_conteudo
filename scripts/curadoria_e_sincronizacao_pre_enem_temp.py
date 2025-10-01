@@ -23,7 +23,7 @@ if not NOTION_TOKEN:
     print("ERRO: Variável de ambiente NOTION_TOKEN não configurada")
     sys.exit(1)
 
-ARQUIVO_CONTEUDO = "2_conteudo/01_ideias_e_rascunhos/artigo_simulados_enem_2025_estrategico.md"
+ARQUIVO_CONTEUDO = "2_conteudo/01_ideias_e_rascunhos/artigo_dia_prova_enem_2025_checklist.md"
 
 def print_secao(titulo):
     """Imprime seção formatada"""
