@@ -1,122 +1,143 @@
-# 🎓 Editorial Pré-ENEM
+# 📚 Editorial Alunos PRÉ-ENEM - Rascunhos e Ideias
 
-## 🎯 **VISÃO GERAL**
-
-Esta pasta contém todo o conteúdo editorial focado em **preparação para o ENEM**, incluindo guias de estudo, planners, exercícios e estratégias para estudantes.
-
-## 📁 **CONTEÚDO ATUAL**
-
-### **Guias de Estudo**
-- **Mudanças no ENEM 2025: O que os estudantes precisam saber**
-  - **Tipo**: Artigo Educacional
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Professor, Estudante
-  - **Nível**: Tático
-  - **Status**: Publicado
-
-- **Como Estudar Matemática para o ENEM: Guia Completo**
-  - **Tipo**: Guia Prático
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Professor, Estudante
-  - **Nível**: Operacional
-  - **Status**: Publicado
-
-### **Ferramentas de Apoio**
-- **Calculadora ENEM**
-  - **Tipo**: Ferramenta
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Estudante
-  - **Nível**: Operacional
-  - **Status**: Publicado
-
-- **Planner ENEM: Organize seus Estudos**
-  - **Tipo**: Template
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Estudante
-  - **Nível**: Operacional
-  - **Status**: Publicado
-
-- **Planner Semanal de Estudos**
-  - **Tipo**: Template
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Estudante
-  - **Nível**: Operacional
-  - **Status**: Publicado
-
-### **Cronogramas e Datas**
-- **Cronograma ENEM 2025: Datas Importantes**
-  - **Tipo**: Guia Prático
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Estudante, Professor
-  - **Nível**: Operacional
-  - **Status**: Publicado
-
-### **Redação e Interpretação**
-- **Redação ENEM: Como Estruturar sua Argumentação**
-  - **Tipo**: Lição Educacional
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Estudante, Professor
-  - **Nível**: Tático
-  - **Status**: Publicado
-
-- **Exercícios de Interpretação de Texto Comentados**
-  - **Tipo**: Lição Educacional
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Estudante, Professor
-  - **Nível**: Operacional
-  - **Status**: Publicado
-
-### **Análises e Tendências**
-- **Análise ENEM 2024: Tendências em Matemática**
-  - **Tipo**: Artigo Educacional
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Professor, Estudante
-  - **Nível**: Estratégico
-  - **Status**: Publicado
-
-### **Mídia e Podcasts**
-- **Podcast: Estratégias de Estudo com Especialistas**
-  - **Tipo**: Lição Educacional
-  - **Eixo Temático**: Gestão Pedagógica
-  - **Função Alvo**: Estudante, Professor
-  - **Nível**: Tático
-  - **Status**: Publicado
-
-## 🏷️ **CLASSIFICAÇÃO AUTOMÁTICA**
-
-### **Eixos Temáticos**
-- **Gestão Pedagógica**: Ensino, aprendizagem, currículo, avaliação
-- **Gestão de Pessoas**: Desenvolvimento de estudantes
-- **Gestão Estratégica**: Planejamento educacional
-
-### **Funções Alvo**
-- **Estudante**: Foco principal do conteúdo
-- **Professor**: Apoio pedagógico
-- **Coordenador Pedagógico**: Gestão acadêmica
-
-### **Níveis de Profundidade**
-- **Estratégico**: Análises e tendências
-- **Tático**: Estratégias e métodos
-- **Operacional**: Ferramentas e execução
-
-## 📊 **MÉTRICAS**
-
-- **Total de Conteúdos**: 9
-- **Artigos**: 2
-- **Guias Práticos**: 2
-- **Lições**: 3
-- **Templates**: 2
-- **Status Publicado**: 9
-
-## 🔄 **FLUXO DE TRABALHO**
-
-1. **Ideias** → Esta pasta
-2. **Revisão** → `../02_em_revisao/pre_enem/`
-3. **Aprovação** → `../03_pronto_para_publicar/pre_enem/`
-4. **Publicação** → `../04_publicado/pre_enem/`
+**Database Notion ID:** `2695113a-91a3-81dd-bfc4-fc8e4df72e7f`  
+**Última atualização:** 30/09/2025
 
 ---
 
-**Última atualização**: 17/09/2025  
-**Responsável**: Sistema de Classificação Automática  
-**Versão**: 1.0
+## 📊 STATUS ATUAL
+
+### Conteúdos nesta pasta: 4 artigos prioritários
+
+| # | Título | Palavras | Status | Notion ID |
+|---|--------|----------|--------|-----------|
+| 1 | Simulados ENEM 2025 | 4.200 | ✅ Sincronizado | `27e5113a...c12e` |
+| 2 | Ansiedade no ENEM 2025 | 5.500 | ✅ Sincronizado | `27e5113a...b20` |
+| 3 | O Dia da Prova ENEM 2025 | 5.000 | ✅ Sincronizado | `27f5113a...c32` |
+| 4 | Técnicas de Memorização ENEM | 5.800 | ✅ Sincronizado | `27f5113a...629` |
+
+**TOTAL:** 20.500+ palavras | 100% conformidade boilerplate
+
+---
+
+## 🎯 CONTEÚDOS CRIADOS
+
+### 1. 📊 Simulados ENEM 2025: Como Usar de Forma Estratégica
+
+**Arquivo:** `artigo_simulados_enem_2025_estrategico.md`
+
+**Aborda:**
+- Cronograma estratégico de simulados (4 fases)
+- 6 melhores plataformas gratuitas com correção TRI
+- Como analisar erros (metodologia avançada)
+- Entendendo a correção TRI
+- Estratégias avançadas e casos de sucesso
+
+**Lacuna resolvida:** ✅ Simulados (CRÍTICA)
+
+---
+
+### 2. 🧘 Ansiedade no ENEM 2025: Guia Completo para Controlar o Nervosismo
+
+**Arquivo:** `artigo_ansiedade_enem_2025_gestao_emocional.md`
+
+**Aborda:**
+- Sinais de ansiedade fora de controle
+- 6 técnicas científicas (respiração, mindfulness, exercício, sono)
+- Rotina equilibrada (modelo prático)
+- Quando buscar ajuda profissional
+- Rede de apoio e recursos gratuitos
+
+**Lacuna resolvida:** ✅ Ansiedade e Estresse (CRÍTICA)
+
+---
+
+### 3. ✅ O Dia da Prova ENEM 2025: Checklist Completo
+
+**Arquivo:** `artigo_dia_prova_enem_2025_checklist.md`
+
+**Aborda:**
+- Cronograma véspera e 2 dias de prova (minuto a minuto)
+- Checklist completo (documentos, materiais, alimentação)
+- O que é permitido vs. proibido
+- Gestão de tempo durante a prova
+- Plano de contingência (7 situações "E se...")
+
+**Lacuna resolvida:** ✅ Dia da Prova (CRÍTICA)
+
+---
+
+### 4. 🧠 Técnicas de Memorização para o ENEM 2025
+
+**Arquivo:** `artigo_tecnicas_memorizacao_enem_2025.md`
+
+**Aborda:**
+- 10 técnicas científicas comprovadas
+- Neurociência da memória (3 tipos de memória)
+- Curva do esquecimento de Ebbinghaus
+- Técnicas por área (MAT, LIN, HUM, NAT)
+- 10+ apps e ferramentas recomendadas
+
+**Lacuna resolvida:** ✅ Técnicas de Memorização (IMPORTANTE)
+
+---
+
+## 📋 DOCUMENTAÇÃO COMPLEMENTAR
+
+### Relatório de Pesquisa
+**Arquivo:** `relatorio_pesquisa_pre_enem_2025.md`
+
+**Contém:**
+- Análise dos 19 conteúdos existentes
+- Pesquisa aprofundada (60+ fontes)
+- Lacunas identificadas
+- Estatísticas ENEM 2024
+- Recomendações de conteúdo
+
+---
+
+## ✅ CONFORMIDADE
+
+Todos os artigos seguem **100%** o boilerplate:
+- ✅ Título H1
+- ✅ Imagem de Capa
+- ✅ Resumo Executivo (150+ palavras)
+- ✅ Dados e Gráficos (Charts MCP)
+- ✅ Vídeos/Recursos
+- ✅ Fontes Confiáveis (6+ por artigo)
+- ✅ Conclusão
+- ✅ Tags (10+)
+- ✅ Metadados Editoriais
+
+**Enriquecimento MCP:**
+- ✅ Charts MCP (gráficos)
+- ✅ Search MCP (fontes, plataformas)
+- ⚠️ YouTube MCP (inoperante - usado web search)
+
+---
+
+## 🔄 PRÓXIMOS PASSOS
+
+### Fluxo Editorial
+1. ✅ **Rascunho** (esta pasta) - CONCLUÍDO
+2. ⏳ **Revisão** → Mover para `02_em_revisao/pre_enem/`
+3. ⏳ **Aprovação** → Mover para `03_aprovado_publicacao/pre_enem/`
+4. ⏳ **Publicação** → Mover para `04_publicado/`
+
+### Ações Imediatas
+- [ ] Revisar conteúdos no Notion
+- [ ] Aprovar para publicação
+- [ ] Atualizar status no Notion (de "Rascunho" para "Publicado")
+- [ ] Mover arquivos para `03_aprovado_publicacao/pre_enem/`
+
+---
+
+## 📞 CONTATO
+
+**Database Notion:** https://notion.so/2695113a91a381ddbfc4fc8e4df72e7f  
+**Responsável:** Editorial Alunos PRÉ-ENEM  
+**Data de criação:** 30/09/2025
+
+---
+
+**🎓 Conteúdo de qualidade para alunos que buscam excelência no ENEM 2025!**
