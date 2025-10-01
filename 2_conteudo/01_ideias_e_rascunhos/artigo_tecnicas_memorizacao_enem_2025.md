@@ -864,3 +864,4 @@ Comece com **2-3 técnicas** (sugestão: Repetição Espaçada + Flashcards + Ma
 
 **🔔 Próximo Passo:** Curadoria obrigatória com enriquecimento MCP (Charts, Search)
 
+

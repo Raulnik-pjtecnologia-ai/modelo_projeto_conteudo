@@ -1,0 +1,11 @@
+{
+  "data": "2025-10-01T06:44:58.511189",
+  "arquivos_movidos": {
+    "json": 54,
+    "relatorios": 6,
+    "logs": 4,
+    "scripts": 67
+  },
+  "total_arquivos_organizados": 131,
+  "estrutura_limpa": true
+}
