@@ -1,0 +1,42 @@
+{
+  "data_verificacao": "03/10/2025 08:21",
+  "total_paginas": 24,
+  "conformes": 0,
+  "parcialmente_conformes": 9,
+  "nao_conformes": 15,
+  "pontuacao_media": 65.0,
+  "taxa_conformidade": 0.0,
+  "analise_regras": {
+    "regra_1_enriquecimento_mcp": 1.6666666666666667,
+    "regra_2_boilerplate": 20.0,
+    "regra_3_curadoria": 12.083333333333334,
+    "regra_4_apresentacao": 20.0,
+    "regra_5_manutencao": 11.25
+  },
+  "pontuacoes_individual": [
+    75,
+    75,
+    75,
+    60,
+    75,
+    70,
+    60,
+    70,
+    60,
+    60,
+    60,
+    70,
+    60,
+    60,
+    60,
+    60,
+    60,
+    75,
+    60,
+    60,
+    60,
+    60,
+    75,
+    60
+  ]
+}
