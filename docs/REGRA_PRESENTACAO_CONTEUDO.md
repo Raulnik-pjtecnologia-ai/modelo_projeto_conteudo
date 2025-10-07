@@ -41,12 +41,6 @@ Padronizar a apresentação de conteúdo para que seja **limpa, intuitiva e moti
 
 ### Distribuição de Conteúdos de Gestão Escolar por Tipo
 
-Local: assets/images/graficos/grafico_distribuicao_conteudos.jpg
-Backup Local: backup_imagens\grafico_distribuicao_conteudos_20250925_194237.jpg
-Imgur: N/A
-GitHub: https://raw.githubusercontent.com/usuario/repo/main/assets/images/graficos/grafico_distribuicao_conteudos.jpg
-Método Atual: data_uri
-[IMAGEM: assets/images/graficos/grafico_distribuicao_conteudos.jpg]
 ```
 
 ✅ **FAZER:**

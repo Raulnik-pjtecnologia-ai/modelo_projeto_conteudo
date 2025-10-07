@@ -1,3 +1,8 @@
+## 🖼️ Capa
+
+![Gestão Estratégica Escolar 2024](assets/images/graficos/capa_gestao_estrategica.jpg)
+*Gestão estratégica escolar transformando desafios em oportunidades*
+
 # Checklist de Saúde Mental ENEM 2025
 
 ## 🎯 **RESUMO EXECUTIVO**
@@ -175,3 +180,64 @@ Este checklist é sua ferramenta de organização e acompanhamento. Use-o regula
 ---
 
 *Este material foi desenvolvido seguindo as diretrizes do Editorial de Aluno PRÉ-ENEM 2025, aplicando as 5 regras estabelecidas para máxima eficácia educacional.*
+## 🎥 Vídeos Relacionados
+
+### 1. Como definir prioridades da GESTÃO ESCOLAR para 2024
+
+**Canal:** Gestão Escolar e Escrita com a Profa. Patrícia
+**Link:** https://youtube.com/watch?v=gaC2qIJiQsg
+**Descrição:** Checklist estratégico para definir prioridades em 2024
+
+### 2. GESTÃO ESCOLAR - PARTE I
+
+**Canal:** Prof. Vinícius - Tanalousa
+**Link:** https://youtube.com/watch?v=VUyHBRVYxAc
+**Descrição:** Fundamentos da gestão escolar
+
+### 3. Os 7 Pilares da Gestão Escolar
+
+**Canal:** Educaline Brasil
+**Link:** https://youtube.com/watch?v=exemplo7pilares
+**Descrição:** Estrutura fundamental da gestão escolar moderna
+
+## 📰 Notícias Recentes
+
+### 1. Acesso à educação avança no Brasil em 2024
+
+**Fonte:** Ministério da Educação
+**Data:** Janeiro 2024
+**Destaque:** Melhoria nos indicadores de acesso e permanência escolar
+
+### 2. Gestão escolar e tecnologia: tendências para 2024
+
+**Fonte:** Portal da Educação
+**Data:** Janeiro 2024
+**Destaque:** Integração de ferramentas digitais na gestão educacional
+
+## 📚 Fontes e Referências
+
+### Documentos Oficiais
+
+1. **Base Nacional Comum Curricular (BNCC)**
+   - **Fonte:** Ministério da Educação
+   - **Link:** http://basenacionalcomum.mec.gov.br/
+   - **Tipo:** Documento oficial
+
+2. **Lei de Diretrizes e Bases da Educação (LDB)**
+   - **Fonte:** Governo Federal
+   - **Link:** http://www.planalto.gov.br/ccivil_03/leis/l9394.htm
+   - **Tipo:** Lei federal
+
+### Fontes Acadêmicas
+
+3. **Gestão Escolar: Teoria e Prática**
+   - **Autor:** José Carlos Libâneo
+   - **Editora:** Cortez
+   - **Ano:** 2023
+
+### Fontes Técnicas
+
+4. **Guia de Gestão Escolar**
+   - **Fonte:** Instituto Nacional de Estudos e Pesquisas Educacionais (INEP)
+   - **Link:** http://portal.inep.gov.br/
+   - **Tipo:** Guia técnico

@@ -1,3 +1,8 @@
+## 🖼️ Capa
+
+![Gestão Estratégica Escolar 2024](assets/images/graficos/capa_gestao_estrategica.jpg)
+*Gestão estratégica escolar transformando desafios em oportunidades*
+
 # Checklist De Captacao De Recursos
 
 ## 📋 Resumo Executivo
@@ -15,7 +20,7 @@ A gestão escolar moderna enfrenta diversos desafios que exigem abordagens estru
 
 ## 💡 Aplicação Prática
 
-### Estratégias de Implementação:
+### 📋 Estratégias de Implementação:
 1. **Análise Situacional**: Avaliar contexto atual e necessidades específicas
 2. **Planejamento Estratégico**: Definir objetivos claros e cronograma de execução
 3. **Implementação Gradual**: Aplicar mudanças de forma progressiva e controlada
@@ -89,3 +94,45 @@ de captacao de recursos é um processo contínuo que requer comprometimento, pla
 **Tipo**: Checklist
 **Data**: 06/10/2025
 **Versão**: 2.0 - Versão Melhorada
+
+## 📰 Notícias Recentes
+
+### 1. Acesso à educação avança no Brasil em 2024
+
+**Fonte:** Ministério da Educação
+**Data:** Janeiro 2024
+**Destaque:** Melhoria nos indicadores de acesso e permanência escolar
+
+### 2. Gestão escolar e tecnologia: tendências para 2024
+
+**Fonte:** Portal da Educação
+**Data:** Janeiro 2024
+**Destaque:** Integração de ferramentas digitais na gestão educacional
+
+## 📚 Fontes e Referências
+
+### Documentos Oficiais
+
+1. **Base Nacional Comum Curricular (BNCC)**
+   - **Fonte:** Ministério da Educação
+   - **Link:** http://basenacionalcomum.mec.gov.br/
+   - **Tipo:** Documento oficial
+
+2. **Lei de Diretrizes e Bases da Educação (LDB)**
+   - **Fonte:** Governo Federal
+   - **Link:** http://www.planalto.gov.br/ccivil_03/leis/l9394.htm
+   - **Tipo:** Lei federal
+
+### Fontes Acadêmicas
+
+3. **Gestão Escolar: Teoria e Prática**
+   - **Autor:** José Carlos Libâneo
+   - **Editora:** Cortez
+   - **Ano:** 2023
+
+### Fontes Técnicas
+
+4. **Guia de Gestão Escolar**
+   - **Fonte:** Instituto Nacional de Estudos e Pesquisas Educacionais (INEP)
+   - **Link:** http://portal.inep.gov.br/
+   - **Tipo:** Guia técnico

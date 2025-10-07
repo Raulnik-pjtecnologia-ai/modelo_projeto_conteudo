@@ -1,3 +1,5 @@
+# Artigo Politicas Compras Escolas
+
 ﻿# Políticas de Compras para Escolas: Boas Práticas
 
 <!-- METADADOS DE CLASSIFICACAO -->

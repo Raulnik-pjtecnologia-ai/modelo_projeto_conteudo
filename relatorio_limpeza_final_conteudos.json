@@ -1,0 +1,34 @@
+{
+  "timestamp": "2025-10-06T21:05:07.720233",
+  "total_processados": 149,
+  "limpos_sucesso": 149,
+  "erros": 0,
+  "total_correcoes": 4,
+  "tipos_correcao": {
+    "Informações Técnicas": 2,
+    "Formatação": 1,
+    "Referências Externas": 1
+  },
+  "correcoes_detalhadas": [
+    {
+      "tipo": "Informações Técnicas",
+      "descricao": "Removidas 6 informações técnicas desnecessárias",
+      "arquivo": "REGRA_PRESENTACAO_CONTEUDO.md"
+    },
+    {
+      "tipo": "Formatação",
+      "descricao": "Aplicadas 1 correções de formatação",
+      "arquivo": "REGRA_PRESENTACAO_CONTEUDO.md"
+    },
+    {
+      "tipo": "Referências Externas",
+      "descricao": "Removidas 2 referências a arquivos externos",
+      "arquivo": "RELATORIO_FINAL_SINCRONIZACAO_COMPLETA.md"
+    },
+    {
+      "tipo": "Informações Técnicas",
+      "descricao": "Removidas 1 informações técnicas desnecessárias",
+      "arquivo": "SETUP_GITHUB.md"
+    }
+  ]
+}

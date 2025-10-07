@@ -1,3 +1,5 @@
+# Checklist Conformidade Legal Contratacoes
+
 ﻿# ✅ Checklist de Conformidade Legal em Contratações Escolares
 
 <!-- METADADOS DE CLASSIFICACAO -->

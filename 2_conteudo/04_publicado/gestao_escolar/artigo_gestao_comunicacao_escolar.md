@@ -1,3 +1,5 @@
+# Artigo Gestao Comunicacao Escolar
+
 ﻿# Gestão de Comunicação Escolar: Estratégia, Transparência e Engajamento da Comunidade
 
 <!-- METADADOS DE CLASSIFICACAO -->

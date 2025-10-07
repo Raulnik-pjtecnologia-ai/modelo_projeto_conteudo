@@ -1,3 +1,5 @@
+# Artigo Gestao Contratos Escolares
+
 ﻿# Gestão de Contratos Escolares: Eficiência Administrativa e Conformidade Legal
 
 <!-- METADADOS DE CLASSIFICACAO -->

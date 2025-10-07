@@ -303,4 +303,3 @@ Error calling tool: Tool mcp_youtube-mcp_searchVideos not found
 **Responsável:** Sistema de Diagnóstico MCP  
 **Data:** 30/09/2025  
 **Próxima Revisão:** Quando houver novos erros MCP
-

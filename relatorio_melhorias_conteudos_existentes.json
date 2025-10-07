@@ -1,0 +1,6508 @@
+{
+  "timestamp": "2025-10-06T21:03:21.456241",
+  "total_analisados": 553,
+  "precisavam_melhorias": 147,
+  "melhorados": 147,
+  "erros": 0,
+  "detalhes": [
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\abordagem_interdisciplinar_enem_2025.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\alimentacao_desempenho_cognitivo_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\atualidades_temas_recorrentes_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\bem_estar_saude_mental_enem_2025.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\biologia_ecologia_meio_ambiente_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\biologia_enem_2025_genetica_evolucao.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_conceitos_sociologicos_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_datas_historicas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_formulas_fisica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_formulas_matematicas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_interpretacao_texto_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_planejamento_semanal_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_reacoes_quimicas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_resolucao_problemas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_revisao_mensal_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\checklist_saude_mental_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\cronograma_estudos_ideal_enem_2025.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\estatistica_probabilidade_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\estrategias_estudo_enem_2025_guia_completo.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\filosofia_etica_politica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\fisica_enem_2025_ondas_energia.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\fisica_enem_2025_ondas_e_energia.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\fisica_mecanica_leis_newton_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\funcoes_graficos_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\geografia_enem_2025_geografia_fisica.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\geografia_fisica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\geopolitica_globalizacao_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gramatica_contextualizada_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\historia_brasil_republica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\historia_enem_2025_brasil_republica.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\lingua_estrangeira_estrategias_leitura_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\lingua_portuguesa_enem_top10_topicos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\literatura_movimentos_literarios_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\matematica_enem_formulas_essenciais.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\matematica_financeira_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\motivacao_perseveranca_estudos_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\quimica_enem_2025_organica_essencial.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\quimica_fisico_quimica_solucoes_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\rotina_sono_estudantes_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\sistema_monitoramento_progresso_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\sociologia_enem_2025_movimentos_sociais.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\trigonometria_aplicada_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\checklist_de_conformidade_legal_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\checklist_de_documentacao_administrativa_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\compliance_educacional_e_legislacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\gestao_de_documentacao_e_processos_administrativos_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\governanca_escolar_e_marco_regulatorio_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\parcerias_publico-privadas_na_educacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\politicas_publicas_e_financiamento_da_educacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\transparência_e_prestacao_de_contas_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\acessibilidade_e_inclusao_fisica_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\checklist_de_infraestrutura_basica_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\checklist_de_tecnologia_educacional_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\gestao_de_infraestrutura_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\gestao_de_recursos_materiais_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\manutencao_e_sustentabilidade_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\seguranca_e_protecao_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\tecnologia_educacional_e_inovacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\avaliacao_institucional_e_desempenho_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\checklist_de_avaliacao_institucional_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\checklist_de_planejamento_pedagogico_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\formacao_continuada_de_professores_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\gestao_de_bibliotecas_e_recursos_de_aprendizagem_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\gestao_de_sala_de_aula_e_disciplina_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\gestao_pedagogica_e_curriculo_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\projetos_pedagogicos_e_extracurriculares_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\checklist_de_comunicacao_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\checklist_de_gestao_de_equipes_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\clima_organizacional_e_bem-estar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\comunicacao_interna_e_externa_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\desenvolvimento_profissional_e_carreira_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\gestao_de_conflitos_e_mediacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\lideranca_educacional_e_gestao_de_equipes_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\recrutamento_e_selecao_de_professores_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\auditoria_e_prestacao_de_contas_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\captacao_de_recursos_e_parcerias_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\checklist_de_captacao_de_recursos_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\checklist_de_gestao_financeira_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\controle_de_custos_e_eficiência_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\gestao_financeira_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\investimentos_em_educacao_e_roi_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo/02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\orcamento_e_planejamento_financeiro_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\ANALISE_SEGURANCA_CREDENCIAIS.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\CHANGELOG.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\COMO_SUBIR_GITHUB.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\CRIAR_RELEASE.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\DIAGNOSTICO_MCP.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\EIXOS_EMERGENTES_GESTAO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\estruturacao_sequencial_conteudo.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\guia_linguagem_ensino_medio.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\guia_uso.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\INSTALACAO_GIT.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\INSTRUCOES_FINAIS.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\INSTRUCOES_TEMPLATES_ATUALIZADOS.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\INTEGRACOES.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\MANUAL_COMPLETO_PROJETO.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\MARKETING_DISTRIBUICAO.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\objetivos_aprendizagem_editorial_aluno.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\ORGANIZACAO_DESKTOP_AUTOMATICA.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\PERSONALIZACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\PESQUISA_EDITORIAL_GESTAO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\planejamento_ano1_gestao_escolar_2025.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\planejamento_ano1_pre_enem_2025.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\plano_crescimento_sustentavel.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\PLANO_MELHORIAS_2024.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\REGRAS_ATIVAS.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_BOILERPLATE_GESTAO.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_CURADORIA_OBRIGATORIA.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_ENRIQUECIMENTO_MCP.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_PRESENTACAO_CONTEUDO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_analise_biblioteca_gestao.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_CLASSIFICACAO_AUTOMATICA_FINAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_CONCLUSAO_ANO1.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_criacao_ano1_completo.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_CRIACAO_CHECKLISTS.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_DIVERSIFICACAO_CONTEUDO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_ENRIQUECIMENTO_MULTIMIDIA.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_ESCANEAMENTO_COMPLETO_BIBLIOTECA.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FASE3_DIVERSIFICACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINALIZACAO_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_4_CONTEUDOS_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_5_ETAPAS.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_COMPLETO_DIVERSIFICACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_CONSOLIDADO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_CORRECOES_COMPLETAS.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_DIVERSIFICACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_FASE4.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_final_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_final_otimizacao_completa.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_REVISAO_APROVACAO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_SINCRONIZACAO_COMPLETA.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_LEGISLACAO_EDUCACIONAL.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_LIMPEZA_BOILERPLATE.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_LIMPEZA_PROJETO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_MAPEAMENTO_BIBLIOTECA_FINAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_MELHORIAS_IMPLEMENTADAS.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_ORGANIZACAO_FINAL.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_PRODUCAO_CONTEUDOS_AUTOMATICA.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_PUBLICACAO_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_RELACOES_CATEGORIAS_FINAL.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_SINCRONIZACAO_FINAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_sincronizacao_gestao.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_SINCRONIZACAO_NOTION_FINAL.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_VALIDACAO_FINAL.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_VERIFICACAO_BIBLIOTECA_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\resumo_executivo_diretrizes_editorial_aluno.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RESUMO_PESQUISA_GESTAO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\ROADMAP.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\SETUP_GITHUB.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\SISTEMA_CURADORIA_COMPLETA.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\sistema_feedback_avaliacao.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\sistema_monitoramento_biblioteca.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\SISTEMA_VARIAVEIS_AMBIENTE.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\TAXONOMIA_INDEXACAO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_analise_completa_sincronizacao.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_analise_editorial_gestao_final.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_correcao_completa_boilerplate_100.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_correcao_final_paginas_reprovadas.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\RELATORIO_FINAL_PROJETO.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_verificacao_completa_boilerplate.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "ESTRUTURA_ORGANIZADA.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "ESTRUTURA_PROJETO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "README.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "RESUMO_FINAL_ORGANIZACAO.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\01_ideias_e_rascunhos\\gestao_escolar\\artigo_gestao_estrategica_escolar_2024.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\01_ideias_e_rascunhos\\gestao_escolar\\config_classificacao.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\01_ideias_e_rascunhos\\gestao_escolar\\README.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\01_ideias_e_rascunhos\\pre_enem\\config_classificacao.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\01_ideias_e_rascunhos\\pre_enem\\README.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\01_ideias_e_rascunhos\\pre_enem\\relatorio_pesquisa_pre_enem_2025.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\abordagem_interdisciplinar_enem_2025.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\alimentacao_desempenho_cognitivo_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\atualidades_temas_recorrentes_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\bem_estar_saude_mental_enem_2025.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\biologia_ecologia_meio_ambiente_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\biologia_enem_2025_genetica_evolucao.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_conceitos_sociologicos_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_datas_historicas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_formulas_fisica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_formulas_matematicas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_interpretacao_texto_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_planejamento_semanal_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_reacoes_quimicas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_resolucao_problemas_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_revisao_mensal_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\checklist_saude_mental_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\cronograma_estudos_ideal_enem_2025.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\estatistica_probabilidade_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\estrategias_estudo_enem_2025_guia_completo.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\filosofia_etica_politica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\fisica_enem_2025_ondas_energia.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\fisica_enem_2025_ondas_e_energia.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\fisica_mecanica_leis_newton_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\funcoes_graficos_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\geografia_enem_2025_geografia_fisica.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\geografia_fisica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\geopolitica_globalizacao_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gramatica_contextualizada_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\historia_brasil_republica_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\historia_enem_2025_brasil_republica.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\lingua_estrangeira_estrategias_leitura_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\lingua_portuguesa_enem_top10_topicos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\literatura_movimentos_literarios_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\matematica_enem_formulas_essenciais.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\matematica_financeira_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\motivacao_perseveranca_estudos_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\quimica_enem_2025_organica_essencial.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\quimica_fisico_quimica_solucoes_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\rotina_sono_estudantes_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\sistema_monitoramento_progresso_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\sociologia_enem_2025_movimentos_sociais.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\trigonometria_aplicada_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\checklist_de_conformidade_legal_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\checklist_de_documentacao_administrativa_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\compliance_educacional_e_legislacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\gestao_de_documentacao_e_processos_administrativos_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\governanca_escolar_e_marco_regulatorio_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\parcerias_publico-privadas_na_educacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\politicas_publicas_e_financiamento_da_educacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo1_governanca\\transparência_e_prestacao_de_contas_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\acessibilidade_e_inclusao_fisica_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\checklist_de_infraestrutura_basica_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\checklist_de_tecnologia_educacional_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\gestao_de_infraestrutura_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\gestao_de_recursos_materiais_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\manutencao_e_sustentabilidade_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\seguranca_e_protecao_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo2_infraestrutura\\tecnologia_educacional_e_inovacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\avaliacao_institucional_e_desempenho_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\checklist_de_avaliacao_institucional_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\checklist_de_planejamento_pedagogico_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\formacao_continuada_de_professores_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\gestao_de_bibliotecas_e_recursos_de_aprendizagem_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\gestao_de_sala_de_aula_e_disciplina_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\gestao_pedagogica_e_curriculo_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo3_pedagogico\\projetos_pedagogicos_e_extracurriculares_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\checklist_de_comunicacao_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\checklist_de_gestao_de_equipes_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\clima_organizacional_e_bem-estar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\comunicacao_interna_e_externa_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\desenvolvimento_profissional_e_carreira_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\gestao_de_conflitos_e_mediacao_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\lideranca_educacional_e_gestao_de_equipes_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo4_pessoas\\recrutamento_e_selecao_de_professores_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\auditoria_e_prestacao_de_contas_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\captacao_de_recursos_e_parcerias_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\checklist_de_captacao_de_recursos_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\checklist_de_gestao_financeira_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\controle_de_custos_e_eficiência_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\gestao_financeira_escolar_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\investimentos_em_educacao_e_roi_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_conteudos_prontos\\gestao_escolar\\eixo5_financeiro\\orcamento_e_planejamento_financeiro_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\02_revisao_aprovacao\\artigo_gestao_estrategica_escolar_2024.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\03_aprovado_publicacao\\artigo_gestao_estrategica_escolar_2024.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\artigo_ansiedade_enem_2025_gestao_emocional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\artigo_dia_prova_enem_2025_checklist.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\artigo_matematica_enem_2025_topicos_essenciais.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\artigo_portugues_enem_2025_topicos_mais_cobrados.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\artigo_simulados_enem_2025_estrategico.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\artigo_tecnicas_memorizacao_enem_2025.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\artigo_tipos_linguagem_enem_2025_guia_completo.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\apresentação_Aula_1_Slides.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Avaliação_desempenho.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Banco_de_Horas_Flexibilidade_com_Controle_e_Segurança_Jurídica.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Cartão_de_Crédito_Corporativo_Agilidade_com_Controle,_Responsabilidade_e_Rastreabilidade.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Como_Aproximar_as_Famílias_da_Escola.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Como_Estruturar_Rotinas_de_Segurança_Predial.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Como_estruturar_um_calendário_de_pagamentos_escolares.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Consolidação_das_Leis_de_Trabalho.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Contratação_e_Mobilidade_Interna_Eficiência_Estratégica_e_Valorização_do_Capital_Humano.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Contratos_com_Fornecedores_Formalização,_Segurança_Jurídica_e_Gestão_de_Compras.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_controle_estoque_materiais_escolares.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Desligamentos_Organizacionais_Justiça,_Conformidade_Legal_e_Governança_no_Processo_Demissional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Estrutura_centro_de_custos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Extração_das_tags_únicas_da_planilha_e_cadastro_no_Notion_(para_“Assuntos”).md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Fechamento_de_Comitê_Financeiro_Prestação_de_Contas,_Indicadores_Orçamentários_e_Decisão_Estratégica.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Fechamento_de_Folha_Rigor_Técnico,_Cumprimento_Legal_e_Confiabilidade_no_Pagamento.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Fundo_Nacional_de_Desenvolvimento_da_Educação.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_beneficios_redes_escolares.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_comunicacao_escolar.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_comunicacao_escolar_avancado.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_comunidade_escolar_familias.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_contratos_escolares.md",
+      "analise": {
+        "pontuacao": 55,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "❌ Crítico"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_contratos_manutencao_escolas.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_dados_analytics_educacao.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_documental_secretarias_educacao.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_escolar_pos_pandemia.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_fluxo_caixa_educacional.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_inovacao_escolas.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_projetos_educacionais.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_sustentabilidade_escolas.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_gestao_transporte_escolar.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Benefícios_Corporativos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Benefícios_Corporativos_Atratividade,_Retenção_e_Alinhamento_com_a_Cultura_Organizacional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Comunicação_Escolar_Estratégia,_Transparência_e_Engajamento_da_Comunidade.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Comunidade_Escolar_e_Relacionamento_com_Famílias_Construindo_Parcerias_Estratégicas.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Contratos_Escolares_Eficiência_Administrativa_e_Conformidade_Legal.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Dados_e_Analytics_na_Educação_Transformando_Informações_em_Decisões_Estratégicas.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Faltas_e_Substituições_Docentes_Organização_Acadêmica,_Impacto_Orçamentário_e_Confiabilidade_na_Folha.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Faltas_e_Substituições_no_Quadro_Administrativo_Continuidade_Operacional_e_Controle_de_Recursos_Humanos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Fluxo_de_Caixa_Educacional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Férias_Trabalhistas_Planejamento,_Conformidade_Legal_e_Continuidade_Operacional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Inovação_em_Escolas_Criando_Culturas_de_Transformação_Educacional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Projetos_Educacionais_Metodologias_e_Práticas_para_Sucesso_Pedagógico.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_de_Sustentabilidade_em_Escolas_Estratégias_para_uma_Educação_Responsável.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Gestão_Escolar_Pós-Pandemia_Adaptações_e_Inovações_para_o_Futuro_da_Educação.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_inclusao_acessibilidade_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Inclusão_e_Acessibilidade_na_Gestão_Escolar_Construindo_uma_Educação_para_Todos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_inteligencia_artificial_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Inteligência_Artificial_na_Gestão_Escolar_Implementação_Prática_e_Benefícios.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Lei_de_Cotas_Completa_33_Anos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Lei_Federal_nº_9.3941996_(LDB)_–_Diretrizes_e_Bases_da_Educação_Nacional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_LGPD_e_Proteção_de_Dados_na_Educação_Guia_Completo_para_Gestores_Escolares.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_lgpd_protecao_dados_educacao.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Modelos_de_Contratação_no_Setor_Educacional.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_normas_acessibilidade_escolas.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_O_Papel_do_Coordenador_Pedagógico_em_Redes_Escolares.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_padroes_qualidade_alimentacao_escolar.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Pagamentos_Avulsos_Controle,_Rastreabilidade_e_Redução_de_Riscos_em_Despesas_Pontuais.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Paraná_tem_a_melhor_educação_do_Brasil_no_ranking_geral_do_Ideb.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Planejamento_e_Acompanhamento_de_Infraestrutura_Eficiência_Operacional_e_Conservação_Patrimonial.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Planejamento_quadro_pessoal.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_planejamento_quadro_pessoal_escolar.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Plano_de_Cargos_e_Salários_Estrutura,_Transparência_e_Estratégia_de_Valorização.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_politicas_compras_escolas.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Políticas_de_Compras_para_Escolas_Boas_Práticas.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Prestação_de_contas_conselhos_fundos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Promoções_e_Mudanças_de_Carga_Horária_no_Quadro_Administrativo_Critérios,_Comunicação_e_Transparência.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Redução_rotatividade.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Reembolsos_Corporativos_Transparência,_Eficiência_e_Responsabilidade_Fiscal.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_riscos_operacionais_escolas_mitigacao.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_rotinas_seguranca_predial_escolas.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Substituição_professores.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Viagens_a_Trabalho_Como_Estruturar_uma_Política_de_Reembolsos_Clara,_Econômica_e_Auditável.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\artigo_Índice_de_Artigos_Financeiros_e_Administrativos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_auditoria_fornecedores.md",
+      "analise": {
+        "pontuacao": 65,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_avaliacao_desempenho_docente.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_avaliacao_institucional_escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_Auditoria_Fornecedores.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_conformidade_contratos_pagamentos.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_Conformidade_Legal_Contratacoes.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_desligamento.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Admissão_de_Colaboradores.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Auditoria_de_Fornecedores_Escolares.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Avaliação_de_Desempenho_Docente.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Avaliação_Institucional_Escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Conformidade_Legal_em_Contratações_Escolares.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Gestão_Ambiental_Escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Gestão_da_Qualidade_Educacional.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Gestão_de_Crises_Escolares.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Gestão_de_Projetos_Educacionais.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Gestão_Tecnológica_Escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Planejamento_Orçamentário_Anual_Escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_de_Recrutamento_e_Seleção_de_Professores.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_fechamento_financeiro_mensal.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_Implementacao_Comunicacao_Escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_Manutencao_Preventiva_Escolas.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_Checklist_Seguranca_Alimentar_Escolas.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_conformidade_legal_contratacoes.md",
+      "analise": {
+        "pontuacao": 65,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_gestao_ambiental_escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_gestao_crises_escolares.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_gestao_escolar_pos_pandemia.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_gestao_projetos_educacionais.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_gestao_qualidade_educacional.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_gestao_tecnologica_escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_analytics_educacao.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_comunicacao_escolar.md",
+      "analise": {
+        "pontuacao": 80,
+        "problemas": [
+          "❌ Sem título H1"
+        ],
+        "melhorias": [
+          "Adicionar título principal"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_gestao_comunidade_escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_gestao_inovacao_escolas.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_gestao_projetos_educacionais.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_ia_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_inclusao_acessibilidade_escolar.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_lgpd_educacao.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_implementacao_sustentabilidade_escolas.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_manutencao_preventiva_escolas.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_planejamento_orcamentario_anual.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_recrutamento_selecao_professores.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_seguranca_alimentar_escolas.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Sem título H1",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar título principal",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist_seguranca_escolar_integral.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_AVALIAÇÃO_DE_DESEMPENHO_DOCENTE.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_AVALIAÇÃO_INSTITUCIONAL_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_GESTÃO_AMBIENTAL_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_GESTÃO_DA_QUALIDADE_EDUCACIONAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_GESTÃO_DE_CRISES_ESCOLARES.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_GESTÃO_DE_PROJETOS_EDUCACIONAIS.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_GESTÃO_ESCOLAR_PÓS-PANDEMIA.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_GESTÃO_TECNOLÓGICA_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_Implementação_de_Analytics_na_Educação.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_Implementação_de_Gestão_de_Comunidade_Escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_Implementação_de_Gestão_de_Inovação_em_Escolas.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_Implementação_de_Gestão_de_Projetos_Educacionais.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_IMPLEMENTAÇÃO_DE_INCLUSÃO_E_ACESSIBILIDADE_NA_GESTÃO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_IMPLEMENTAÇÃO_DE_INTELIGÊNCIA_ARTIFICIAL_NA_GESTÃO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_IMPLEMENTAÇÃO_DE_LGPD_NA_EDUCAÇÃO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_IMPLEMENTAÇÃO_DE_SUSTENTABILIDADE_EM_ESCOLAS.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_PLANEJAMENTO_ORÇAMENTÁRIO_ANUAL_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_RECRUTAMENTO_E_SELEÇÃO_DE_PROFESSORES.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\checklist__CHECKLIST_SEGURANÇA_ESCOLAR_INTEGRAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\documento oficial_Edital_Programa_Parceiro_da_Escola.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\documento oficial_Lei_14.1332021_–_Nova_Lei_de_Licitações.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\documento oficial_Lei_22.0062024_-_Institui_o_programa_Parceiro_da_Escola.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\documento oficial_Plano_de_Crescimento_Sustentável.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\documento oficial_Sistema_de_Monitoramento_da_Biblioteca.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_comunicacao_digital_escolar.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_desenvolvimento_profissional_docente.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_gestao_conflitos_escolares.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_gestao_estrategica_escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_gestao_financeira_avancada_escolas.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_gestao_mudancas_educacao.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_inovacao_pedagogica_escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_lideranca_transformacional_educacao.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_metodologias_ativas_ensino.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\licao_planejamento_orcamentario_escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Licao_Comunicacao_Digital_Escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Licao_Planejamento_Orcamentario_Escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Acompanhamento_de_Indicadores_Educacionais_e_Metas_de_Aprendizagem.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Apoio_do_Gestor_ao_Desempenho_Acadêmico_dos_Alunos.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_A_Educação_Pública_no_Paraná_e_seus_Desafios.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Colaboração_com_Professores_e_Equipe_Pedagógica.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Comunicação_Não-Violenta_e_Gestão_de_Conflitos.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Contexto_e_Origem_do_Programa_Parceiro_da_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Cultura_de_Aprendizagem_Contínua_e_Inovação_na_Gestão.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Desenvolvimento_Profissional_Docente.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Engajamento_dos_Pais_e_da_Comunidade_Escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Gerenciando_a_Cultura_e_o_Clima_da_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Gestão_de_Conflitos_Escolares.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Gestão_de_Fornecedores_e_Contratos_de_Serviços.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Gestão_de_Mudanças_na_Educação.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Gestão_de_Pessoal_na_Escola_e_Recrutamento_Efetivo.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Gestão_Estratégica_Escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Gestão_Financeira_Avançada_para_Escolas.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Indicadores_Administrativos_e_Ferramentas_da_Qualidade.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Infraestrutura_Escolar_Manutenção_e_Segurança_do_Espaço.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Inovação_Pedagógica_na_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Integração,_Desenvolvimento_e_Retenção_de_Colaboradores.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Liderança,_Relacionamento_e_Cultura_Colaborativa.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Liderança_Transformacional_na_Educação.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Metodologias_Ativas_de_Ensino.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Planejamento_Orçamentário_Escolar_Estratégia,_Controle_e_Sustentabilidade_Financeira.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Planejamento_Orçamentário_e_Finanças_da_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Políticas_Educacionais_e_Currículo_Alinhando_Administração_e_Projeto_Pedagógico.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Princípios_Modernos_de_Gestão_aplicados_à_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\lição_Lição_Qualidade_e_Auditorias_Prestação_de_Contas_Final.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\README.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\relatorio_auditoria_conteudo.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_6_Passos_para_Garantir_a_Segurança_Escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_As_verdades_sobre_o_programa_Parceiro_da_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_A_importância_da_Parceria_entre_Família_e_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_Como_fazer_o_PPP_funcionar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_Comunicação_Não-Violenta_no_Ambiente_Escolar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_COM_PROGRAMA_PARCEIRO_DA_ESCOLA,_GOVERNO_DO_ESTADO_QUER_EXPANDIR_QUALIDADE_DA_EDUCAÇÃO.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_Gestão_à_Vista_.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_Kanban_na_Prática_-_Como_funciona_o_Kanban.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_Os_desafios_da_BNCC_para_os_Gestores.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_O_Papel_do_Gestor_Escolar_Administrativo.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_O_que_são_5S__Como_implementar.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_PDCA_na_Prática.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "2_conteudo\\04_publicado\\gestao_escolar\\vídeo_Tudo_que_você_precisa_saber_sobre_o_Parceiro_da_Escola.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "4_arquivos_suporte\\catalogo_modelos.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "4_arquivos_suporte\\checklist-sanidade-geracao-conteudo.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "4_arquivos_suporte\\CLASSIFICACAO_AUTOMATICA.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "4_arquivos_suporte\\estrutura-bancos-dados-notion.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "4_arquivos_suporte\\migracoes_versoes.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "4_arquivos_suporte\\sistema_classificacao\\README.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Pouca formatação",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar formatação com negrito e listas",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\ANALISE_SEGURANCA_CREDENCIAIS.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\CHANGELOG.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\COMO_SUBIR_GITHUB.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\CRIAR_RELEASE.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\DIAGNOSTICO_MCP.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\EIXOS_EMERGENTES_GESTAO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\estruturacao_sequencial_conteudo.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\guia_linguagem_ensino_medio.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\guia_uso.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\INSTALACAO_GIT.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\INSTRUCOES_FINAIS.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\INSTRUCOES_TEMPLATES_ATUALIZADOS.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\INTEGRACOES.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\MANUAL_COMPLETO_PROJETO.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\MARKETING_DISTRIBUICAO.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\objetivos_aprendizagem_editorial_aluno.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\ORGANIZACAO_DESKTOP_AUTOMATICA.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\PERSONALIZACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\PESQUISA_EDITORIAL_GESTAO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\planejamento_ano1_gestao_escolar_2025.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\planejamento_ano1_pre_enem_2025.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\plano_crescimento_sustentavel.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\PLANO_MELHORIAS_2024.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\REGRAS_ATIVAS.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_BOILERPLATE_GESTAO.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_CURADORIA_OBRIGATORIA.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_ENRIQUECIMENTO_MCP.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\REGRA_PRESENTACAO_CONTEUDO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_analise_biblioteca_gestao.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_CLASSIFICACAO_AUTOMATICA_FINAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_CONCLUSAO_ANO1.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_criacao_ano1_completo.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_CRIACAO_CHECKLISTS.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_DIVERSIFICACAO_CONTEUDO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_ENRIQUECIMENTO_MULTIMIDIA.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_ESCANEAMENTO_COMPLETO_BIBLIOTECA.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FASE3_DIVERSIFICACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINALIZACAO_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_4_CONTEUDOS_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_5_ETAPAS.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_COMPLETO_DIVERSIFICACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_CONSOLIDADO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_CORRECOES_COMPLETAS.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_DIVERSIFICACAO.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_FASE4.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_final_gestao_escolar.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_final_otimizacao_completa.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_REVISAO_APROVACAO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_FINAL_SINCRONIZACAO_COMPLETA.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_LEGISLACAO_EDUCACIONAL.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_LIMPEZA_BOILERPLATE.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_LIMPEZA_PROJETO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_MAPEAMENTO_BIBLIOTECA_FINAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_MELHORIAS_IMPLEMENTADAS.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_ORGANIZACAO_FINAL.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_PRODUCAO_CONTEUDOS_AUTOMATICA.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_PUBLICACAO_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_RELACOES_CATEGORIAS_FINAL.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_SINCRONIZACAO_FINAL.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorio_sincronizacao_gestao.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_SINCRONIZACAO_NOTION_FINAL.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_VALIDACAO_FINAL.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RELATORIO_VERIFICACAO_BIBLIOTECA_PRE_ENEM.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\resumo_executivo_diretrizes_editorial_aluno.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\RESUMO_PESQUISA_GESTAO_ESCOLAR.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\ROADMAP.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\SETUP_GITHUB.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\SISTEMA_CURADORIA_COMPLETA.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Poucas seções organizadas"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\sistema_feedback_avaliacao.md",
+      "analise": {
+        "pontuacao": 90,
+        "problemas": [
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\sistema_monitoramento_biblioteca.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\SISTEMA_VARIAVEIS_AMBIENTE.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\TAXONOMIA_INDEXACAO.md",
+      "analise": {
+        "pontuacao": 75,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_analise_completa_sincronizacao.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_analise_editorial_gestao_final.md",
+      "analise": {
+        "pontuacao": 70,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_correcao_completa_boilerplate_100.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_correcao_final_paginas_reprovadas.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\RELATORIO_FINAL_PROJETO.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "docs\\relatorios\\relatorio_verificacao_completa_boilerplate.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "scripts\\README.md",
+      "analise": {
+        "pontuacao": 60,
+        "problemas": [
+          "❌ Poucas seções organizadas",
+          "❌ Sem exemplos práticos",
+          "❌ Sem referências"
+        ],
+        "melhorias": [
+          "Adicionar seções: Introdução, Contexto, Aplicação, Conclusão",
+          "Adicionar exemplos e casos práticos",
+          "Adicionar seção de referências e fontes"
+        ],
+        "status": "⚠️ Precisa melhorar"
+      }
+    },
+    {
+      "filepath": "templates\\fluxo_de_trabalho.md",
+      "analise": {
+        "pontuacao": 85,
+        "problemas": [
+          "❌ Sem exemplos práticos"
+        ],
+        "melhorias": [
+          "Adicionar exemplos e casos práticos"
+        ],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\prompts_ia.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\templates_conteudo.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\template_apresentacao_padronizado.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\template_artigo_padronizado.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\template_checklist_padronizado.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\template_curadoria_conteudo.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\template_documento_oficial_padronizado.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\template_licao_padronizado.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    },
+    {
+      "filepath": "templates\\template_video_padronizado.md",
+      "analise": {
+        "pontuacao": 100,
+        "problemas": [],
+        "melhorias": [],
+        "status": "✅ Bom"
+      }
+    }
+  ]
+}
