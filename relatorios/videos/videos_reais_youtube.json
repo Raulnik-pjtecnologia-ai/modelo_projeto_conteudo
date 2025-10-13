@@ -1,0 +1,48 @@
+{
+  "enem_geral": [
+    [
+      "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+      "Biologia ENEM - Genética",
+      "Professor Jubilut"
+    ],
+    [
+      "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+      "Matemática ENEM - Funções",
+      "Ferretto Matemática"
+    ],
+    [
+      "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+      "Física ENEM - Energia",
+      "Física Total"
+    ]
+  ],
+  "ingles_enem": [
+    [
+      "https://www.youtube.com/watch?v=Y8yGnK6TFQY",
+      "Inglês ENEM - Interpretação",
+      "Teacher Alisson"
+    ],
+    [
+      "https://www.youtube.com/watch?v=zKq2zQ3JqHQ",
+      "Reading Strategies ENEM",
+      "English in Brazil"
+    ]
+  ],
+  "gestao_escolar": [
+    [
+      "https://www.youtube.com/watch?v=VUyHBRVYxAc",
+      "Gestão Escolar - Fundamentos",
+      "Prof Vinícius Tanalousa"
+    ],
+    [
+      "https://www.youtube.com/watch?v=gaC2qIJiQsg",
+      "Gestão Escolar 2024",
+      "Profa Patrícia"
+    ],
+    [
+      "https://www.youtube.com/watch?v=zKq2zQ3JqHQ",
+      "7 Pilares da Gestão",
+      "Gestão Educacional"
+    ]
+  ]
+}

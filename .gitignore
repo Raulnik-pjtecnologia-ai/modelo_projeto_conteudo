@@ -1,0 +1,52 @@
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ambiente virtual Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Arquivos de configuração sensíveis
+.env
+*.key
+*.pem
+
+# Arquivos de backup
+*.bak
+*.backup
+
+# Arquivos de aplicativos
+*.exe
+*.dll
+*.lnk
+
+# Arquivos grandes específicos
+setup act unlocktool v3.0.exe*
+setup*.exe
+
+# Arquivos com informações sensíveis
+mcp_youtube_config.json
+scripts/backup/
+scripts/*.py
+Tom/cursor_verificar_e_corrigir_mcps.md
+
+# Arquivos de imagem temporários
+Sem título*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Pasta de área de trabalho
+Área de Trabalho/
+
+# Arquivos de configuração do Cursor
+.cursor/

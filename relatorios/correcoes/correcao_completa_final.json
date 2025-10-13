@@ -1,0 +1,12 @@
+{
+  "pre_enem": {
+    "database_name": "Editorial Pré-ENEM",
+    "paginas_corrigidas": 100,
+    "total_correcoes": 511
+  },
+  "gestao": {
+    "database_name": "Editorial Gestão",
+    "paginas_corrigidas": 100,
+    "total_correcoes": 378
+  }
+}

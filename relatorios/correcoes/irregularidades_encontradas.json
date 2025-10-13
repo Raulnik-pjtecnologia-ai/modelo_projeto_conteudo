@@ -1,0 +1,1934 @@
+{
+  "total": 384,
+  "por_tipo": {
+    "sem_video": 160,
+    "sem_exercicio": 83,
+    "sem_taxonomia": 141
+  },
+  "detalhes": {
+    "gestao": [
+      [
+        "2325113a-91a3-8160-892e-e50b08f9129f",
+        "sem_video",
+        "Carto de Crdito Corporativo: Agilidade com Contr"
+      ],
+      [
+        "2325113a-91a3-8160-892e-e50b08f9129f",
+        "sem_exercicio",
+        "Carto de Crdito Corporativo: Agilidade com Contr"
+      ],
+      [
+        "2325113a-91a3-819b-8341-ccaaf5697f10",
+        "sem_video",
+        "Aula 1: Slides"
+      ],
+      [
+        "2325113a-91a3-819b-8341-ccaaf5697f10",
+        "sem_exercicio",
+        "Aula 1: Slides"
+      ],
+      [
+        "2325113a-91a3-81a0-a3ba-c2e9b0311210",
+        "sem_video",
+        "Como Aproximar as Famlias da Escola"
+      ],
+      [
+        "2325113a-91a3-81a0-a3ba-c2e9b0311210",
+        "sem_exercicio",
+        "Como Aproximar as Famlias da Escola"
+      ],
+      [
+        "2325113a-91a3-81c4-9659-f5d423d2559c",
+        "sem_video",
+        "Banco de Horas: Flexibilidade com Controle e Segur"
+      ],
+      [
+        "2325113a-91a3-81c4-9659-f5d423d2559c",
+        "sem_exercicio",
+        "Banco de Horas: Flexibilidade com Controle e Segur"
+      ],
+      [
+        "26c5113a-91a3-807c-a228-d77d1cd54aed",
+        "sem_video",
+        "Como estruturar um calendrio de pagamentos escola"
+      ],
+      [
+        "26c5113a-91a3-807c-a228-d77d1cd54aed",
+        "sem_exercicio",
+        "Como estruturar um calendrio de pagamentos escola"
+      ],
+      [
+        "2705113a-91a3-8099-8c2e-f0c19124248e",
+        "sem_video",
+        "Avaliao desempenho"
+      ],
+      [
+        "2705113a-91a3-8099-8c2e-f0c19124248e",
+        "sem_exercicio",
+        "Avaliao desempenho"
+      ],
+      [
+        "2705113a-91a3-815f-bdea-e31289444898",
+        "sem_video",
+        "Lio: Planejamento Oramentrio Escolar: Estratg"
+      ],
+      [
+        "2705113a-91a3-815f-bdea-e31289444898",
+        "sem_exercicio",
+        "Lio: Planejamento Oramentrio Escolar: Estratg"
+      ],
+      [
+        "2705113a-91a3-8164-913c-f31a59e4a53b",
+        "sem_video",
+        "Checklist de Auditoria de Fornecedores Escolares"
+      ],
+      [
+        "2705113a-91a3-8164-913c-f31a59e4a53b",
+        "sem_exercicio",
+        "Checklist de Auditoria de Fornecedores Escolares"
+      ],
+      [
+        "2705113a-91a3-81bf-b696-fdc9be24a775",
+        "sem_video",
+        "Checklist de Conformidade Legal em Contrataes Es"
+      ],
+      [
+        "2705113a-91a3-81bf-b696-fdc9be24a775",
+        "sem_exercicio",
+        "Checklist de Conformidade Legal em Contrataes Es"
+      ],
+      [
+        "2725113a-91a3-811f-856f-eb858d024fce",
+        "sem_video",
+        " CHECKLIST: IMPLEMENTAO DE LGPD NA EDUCAO"
+      ],
+      [
+        "2725113a-91a3-811f-856f-eb858d024fce",
+        "sem_exercicio",
+        " CHECKLIST: IMPLEMENTAO DE LGPD NA EDUCAO"
+      ],
+      [
+        "2725113a-91a3-812d-91f5-fbfa5e7563ca",
+        "sem_video",
+        "Checklist Implementacao Comunicacao Escolar"
+      ],
+      [
+        "2725113a-91a3-812d-91f5-fbfa5e7563ca",
+        "sem_exercicio",
+        "Checklist Implementacao Comunicacao Escolar"
+      ],
+      [
+        "2725113a-91a3-815f-a983-fa5213892733",
+        "sem_video",
+        "Licao Comunicacao Digital Escolar"
+      ],
+      [
+        "2725113a-91a3-815f-a983-fa5213892733",
+        "sem_exercicio",
+        "Licao Comunicacao Digital Escolar"
+      ],
+      [
+        "2725113a-91a3-8188-868e-ed9f733b41bb",
+        "sem_video",
+        "CHECKLIST: RECRUTAMENTO E SELEO DE PROFESSORES"
+      ],
+      [
+        "2725113a-91a3-8188-868e-ed9f733b41bb",
+        "sem_exercicio",
+        "CHECKLIST: RECRUTAMENTO E SELEO DE PROFESSORES"
+      ],
+      [
+        "2725113a-91a3-81a0-8781-e1b8e3588756",
+        "sem_video",
+        " CHECKLIST: IMPLEMENTAO DE SUSTENTABILIDADE EM "
+      ],
+      [
+        "2725113a-91a3-81a0-8781-e1b8e3588756",
+        "sem_exercicio",
+        " CHECKLIST: IMPLEMENTAO DE SUSTENTABILIDADE EM "
+      ],
+      [
+        "2725113a-91a3-81d9-bfe1-e4578d9b81ec",
+        "sem_video",
+        "Checklist de Avaliao Institucional Escolar"
+      ],
+      [
+        "2725113a-91a3-81d9-bfe1-e4578d9b81ec",
+        "sem_exercicio",
+        "Checklist de Avaliao Institucional Escolar"
+      ],
+      [
+        "2725113a-91a3-81e2-a716-c402876b6ca0",
+        "sem_video",
+        "Como Estruturar Rotinas de Segurana Predial"
+      ],
+      [
+        "2725113a-91a3-81e2-a716-c402876b6ca0",
+        "sem_exercicio",
+        "Como Estruturar Rotinas de Segurana Predial"
+      ],
+      [
+        "2855113a-91a3-8119-a059-ce18da41fdbf",
+        "sem_video",
+        "Gestao De Bibliotecas E Recursos De Aprendizagem G"
+      ],
+      [
+        "2855113a-91a3-8119-a059-ce18da41fdbf",
+        "sem_exercicio",
+        "Gestao De Bibliotecas E Recursos De Aprendizagem G"
+      ],
+      [
+        "2855113a-91a3-811f-a9ea-e6ce7ffa6f17",
+        "sem_video",
+        "Transparncia E Prestacao De Contas Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-811f-a9ea-e6ce7ffa6f17",
+        "sem_exercicio",
+        "Transparncia E Prestacao De Contas Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-8124-b878-c4f059040061",
+        "sem_video",
+        "Gestao De Documentacao E Processos Administrativos"
+      ],
+      [
+        "2855113a-91a3-8124-b878-c4f059040061",
+        "sem_exercicio",
+        "Gestao De Documentacao E Processos Administrativos"
+      ],
+      [
+        "2855113a-91a3-812e-b40c-cc5c57dd890a",
+        "sem_video",
+        "Checklist De Gestao De Equipes Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-812e-b40c-cc5c57dd890a",
+        "sem_exercicio",
+        "Checklist De Gestao De Equipes Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-8134-afae-e9f500a1fdcf",
+        "sem_video",
+        "Gestao De Infraestrutura Escolar Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-8134-afae-e9f500a1fdcf",
+        "sem_exercicio",
+        "Gestao De Infraestrutura Escolar Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-8149-9376-d58a1b9315df",
+        "sem_video",
+        "Checklist De Planejamento Pedagogico Gestao Escola"
+      ],
+      [
+        "2855113a-91a3-8149-9376-d58a1b9315df",
+        "sem_exercicio",
+        "Checklist De Planejamento Pedagogico Gestao Escola"
+      ],
+      [
+        "2855113a-91a3-814a-8d03-dc35e1d5f674",
+        "sem_video",
+        "Investimentos Em Educacao E Roi Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-814a-8d03-dc35e1d5f674",
+        "sem_exercicio",
+        "Investimentos Em Educacao E Roi Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-8155-8cfb-ec087618ee0f",
+        "sem_video",
+        "Projetos Pedagogicos E Extracurriculares Gestao Es"
+      ],
+      [
+        "2855113a-91a3-8155-8cfb-ec087618ee0f",
+        "sem_exercicio",
+        "Projetos Pedagogicos E Extracurriculares Gestao Es"
+      ],
+      [
+        "2855113a-91a3-8158-93d9-c34e5eccf7fa",
+        "sem_video",
+        "Formacao Continuada De Professores Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-8158-93d9-c34e5eccf7fa",
+        "sem_exercicio",
+        "Formacao Continuada De Professores Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-815d-b8d5-c3381d63cf14",
+        "sem_video",
+        "Avaliacao Institucional E Desempenho Gestao Escola"
+      ],
+      [
+        "2855113a-91a3-815d-b8d5-c3381d63cf14",
+        "sem_exercicio",
+        "Avaliacao Institucional E Desempenho Gestao Escola"
+      ],
+      [
+        "2855113a-91a3-815d-bbe7-c9516d135203",
+        "sem_video",
+        "Desenvolvimento Profissional E Carreira Gestao Esc"
+      ],
+      [
+        "2855113a-91a3-815d-bbe7-c9516d135203",
+        "sem_exercicio",
+        "Desenvolvimento Profissional E Carreira Gestao Esc"
+      ],
+      [
+        "2855113a-91a3-817b-8763-f0cfd636b130",
+        "sem_video",
+        "Auditoria E Prestacao De Contas Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-817b-8763-f0cfd636b130",
+        "sem_exercicio",
+        "Auditoria E Prestacao De Contas Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-8197-97a3-c7017710a631",
+        "sem_video",
+        "Checklist De Documentacao Administrativa Gestao Es"
+      ],
+      [
+        "2855113a-91a3-8197-97a3-c7017710a631",
+        "sem_exercicio",
+        "Checklist De Documentacao Administrativa Gestao Es"
+      ],
+      [
+        "2855113a-91a3-819a-8a33-d969c60e3d20",
+        "sem_video",
+        "Parcerias Publico-Privadas Na Educacao Gestao Esco"
+      ],
+      [
+        "2855113a-91a3-819a-8a33-d969c60e3d20",
+        "sem_exercicio",
+        "Parcerias Publico-Privadas Na Educacao Gestao Esco"
+      ],
+      [
+        "2855113a-91a3-819b-a58c-cab0245ccc2e",
+        "sem_video",
+        "Orcamento E Planejamento Financeiro Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-819b-a58c-cab0245ccc2e",
+        "sem_exercicio",
+        "Orcamento E Planejamento Financeiro Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-819f-b89f-c32f7506e6c1",
+        "sem_video",
+        "Tecnologia Educacional E Inovacao Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-819f-b89f-c32f7506e6c1",
+        "sem_exercicio",
+        "Tecnologia Educacional E Inovacao Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81a7-b1de-f7825e73ac32",
+        "sem_video",
+        "Checklist De Infraestrutura Basica Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81a7-b1de-f7825e73ac32",
+        "sem_exercicio",
+        "Checklist De Infraestrutura Basica Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81b0-81dc-e74643d80eb2",
+        "sem_video",
+        "Governanca Escolar E Marco Regulatorio Gestao Esco"
+      ],
+      [
+        "2855113a-91a3-81b0-81dc-e74643d80eb2",
+        "sem_exercicio",
+        "Governanca Escolar E Marco Regulatorio Gestao Esco"
+      ],
+      [
+        "2855113a-91a3-81b1-982f-c02c6e72b239",
+        "sem_video",
+        "Clima Organizacional E Bem-Estar Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81b1-982f-c02c6e72b239",
+        "sem_exercicio",
+        "Clima Organizacional E Bem-Estar Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81ba-8ac4-e81f3aed1a17",
+        "sem_video",
+        "Controle De Custos E Eficincia Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81ba-8ac4-e81f3aed1a17",
+        "sem_exercicio",
+        "Controle De Custos E Eficincia Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81bc-9af4-c9ae4d8ef14a",
+        "sem_video",
+        "Checklist De Conformidade Legal Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81bc-9af4-c9ae4d8ef14a",
+        "sem_exercicio",
+        "Checklist De Conformidade Legal Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81c7-b773-c30229686ad7",
+        "sem_video",
+        "Lideranca Educacional E Gestao De Equipes Gestao E"
+      ],
+      [
+        "2855113a-91a3-81c7-b773-c30229686ad7",
+        "sem_exercicio",
+        "Lideranca Educacional E Gestao De Equipes Gestao E"
+      ],
+      [
+        "2855113a-91a3-81cf-a1f5-f027d536476c",
+        "sem_video",
+        "Gestao De Conflitos E Mediacao Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81cf-a1f5-f027d536476c",
+        "sem_exercicio",
+        "Gestao De Conflitos E Mediacao Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81d0-bf9c-f8c2e1f88afc",
+        "sem_video",
+        "Captacao De Recursos E Parcerias Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81d0-bf9c-f8c2e1f88afc",
+        "sem_exercicio",
+        "Captacao De Recursos E Parcerias Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81de-91ca-eec210dfaff8",
+        "sem_video",
+        "Compliance Educacional E Legislacao Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81de-91ca-eec210dfaff8",
+        "sem_exercicio",
+        "Compliance Educacional E Legislacao Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81ed-87b8-db6dd0ee97a0",
+        "sem_video",
+        "Checklist De Gestao Financeira Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81ed-87b8-db6dd0ee97a0",
+        "sem_exercicio",
+        "Checklist De Gestao Financeira Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81fa-8baf-cb9a6e15341e",
+        "sem_video",
+        "Gestao De Sala De Aula E Disciplina Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81fa-8baf-cb9a6e15341e",
+        "sem_exercicio",
+        "Gestao De Sala De Aula E Disciplina Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81fc-81f2-c2d2c1d217e4",
+        "sem_video",
+        "Checklist De Captacao De Recursos Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81fc-81f2-c2d2c1d217e4",
+        "sem_exercicio",
+        "Checklist De Captacao De Recursos Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81ff-b705-d2b2160dc9b9",
+        "sem_video",
+        "Acessibilidade E Inclusao Fisica Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81ff-b705-d2b2160dc9b9",
+        "sem_exercicio",
+        "Acessibilidade E Inclusao Fisica Gestao Escolar"
+      ],
+      [
+        "2855113a-91a3-81ff-bf1a-cb217c4edaee",
+        "sem_video",
+        "Politicas Publicas E Financiamento Da Educacao Ges"
+      ],
+      [
+        "2855113a-91a3-81ff-bf1a-cb217c4edaee",
+        "sem_exercicio",
+        "Politicas Publicas E Financiamento Da Educacao Ges"
+      ],
+      [
+        "2885113a-91a3-810b-a1a3-c9f38c2bb898",
+        "sem_video",
+        "artigo_gestao_transporte_escolar"
+      ],
+      [
+        "2885113a-91a3-810b-a1a3-c9f38c2bb898",
+        "sem_exercicio",
+        "artigo_gestao_transporte_escolar"
+      ],
+      [
+        "2885113a-91a3-811a-8efe-d3dba10ef4a7",
+        "sem_video",
+        "Gesto de Desenvolvimento Profissional Docente: Es"
+      ],
+      [
+        "2885113a-91a3-811a-8efe-d3dba10ef4a7",
+        "sem_exercicio",
+        "Gesto de Desenvolvimento Profissional Docente: Es"
+      ],
+      [
+        "2885113a-91a3-812d-891c-ca6c46add0d9",
+        "sem_video",
+        "Checklist De Captacao De Recursos"
+      ],
+      [
+        "2885113a-91a3-812d-891c-ca6c46add0d9",
+        "sem_exercicio",
+        "Checklist De Captacao De Recursos"
+      ],
+      [
+        "2885113a-91a3-812f-ad28-cfdddd586cba",
+        "sem_video",
+        "artigo_riscos_operacionais_escolas_mitigacao"
+      ],
+      [
+        "2885113a-91a3-812f-ad28-cfdddd586cba",
+        "sem_exercicio",
+        "artigo_riscos_operacionais_escolas_mitigacao"
+      ],
+      [
+        "2885113a-91a3-8130-8e20-f0941ba8cc63",
+        "sem_video",
+        "Checklist De Tecnologia Educacional"
+      ],
+      [
+        "2885113a-91a3-8130-8e20-f0941ba8cc63",
+        "sem_exercicio",
+        "Checklist De Tecnologia Educacional"
+      ],
+      [
+        "2885113a-91a3-8135-93ab-c2fcf161e916",
+        "sem_video",
+        "Gesto de Reteno de Talentos na Educao: Estrat"
+      ],
+      [
+        "2885113a-91a3-8135-93ab-c2fcf161e916",
+        "sem_exercicio",
+        "Gesto de Reteno de Talentos na Educao: Estrat"
+      ],
+      [
+        "2885113a-91a3-8139-a5a0-f464028621ae",
+        "sem_video",
+        "artigo_padroes_qualidade_alimentacao_escolar"
+      ],
+      [
+        "2885113a-91a3-8139-a5a0-f464028621ae",
+        "sem_exercicio",
+        "artigo_padroes_qualidade_alimentacao_escolar"
+      ],
+      [
+        "2885113a-91a3-813a-a70f-e3753d637ca1",
+        "sem_video",
+        "artigo_gestao_documental_secretarias_educacao"
+      ],
+      [
+        "2885113a-91a3-813a-a70f-e3753d637ca1",
+        "sem_exercicio",
+        "artigo_gestao_documental_secretarias_educacao"
+      ],
+      [
+        "2885113a-91a3-8145-99cc-c4e829768834",
+        "sem_video",
+        "Checklist De Gestao Financeira"
+      ],
+      [
+        "2885113a-91a3-8145-99cc-c4e829768834",
+        "sem_exercicio",
+        "Checklist De Gestao Financeira"
+      ],
+      [
+        "2885113a-91a3-8152-86d9-ed7c1e986256",
+        "sem_video",
+        "artigo_gestao_contratos_manutencao_escolas"
+      ],
+      [
+        "2885113a-91a3-8152-86d9-ed7c1e986256",
+        "sem_exercicio",
+        "artigo_gestao_contratos_manutencao_escolas"
+      ],
+      [
+        "2885113a-91a3-8155-bff4-ee0b157bdb7c",
+        "sem_video",
+        "Checklist De Comunicacao Escolar"
+      ],
+      [
+        "2885113a-91a3-8155-bff4-ee0b157bdb7c",
+        "sem_exercicio",
+        "Checklist De Comunicacao Escolar"
+      ],
+      [
+        "2885113a-91a3-8163-8045-f9de29a182f3",
+        "sem_video",
+        "artigo_normas_acessibilidade_escolas"
+      ],
+      [
+        "2885113a-91a3-8163-8045-f9de29a182f3",
+        "sem_exercicio",
+        "artigo_normas_acessibilidade_escolas"
+      ],
+      [
+        "2885113a-91a3-8163-a924-c6cd18437f3f",
+        "sem_video",
+        "Checklist De Conformidade Legal"
+      ],
+      [
+        "2885113a-91a3-8163-a924-c6cd18437f3f",
+        "sem_exercicio",
+        "Checklist De Conformidade Legal"
+      ],
+      [
+        "2885113a-91a3-8165-bcda-c3eaa714eb43",
+        "sem_video",
+        "Checklist De Avaliacao Institucional"
+      ],
+      [
+        "2885113a-91a3-8165-bcda-c3eaa714eb43",
+        "sem_exercicio",
+        "Checklist De Avaliacao Institucional"
+      ],
+      [
+        "2885113a-91a3-8167-9cd8-ee8bf4f6896d",
+        "sem_video",
+        "Checklist De Planejamento Pedagogico"
+      ],
+      [
+        "2885113a-91a3-8167-9cd8-ee8bf4f6896d",
+        "sem_exercicio",
+        "Checklist De Planejamento Pedagogico"
+      ],
+      [
+        "2885113a-91a3-818b-81b4-c7d9af558047",
+        "sem_video",
+        "Checklist De Gestao De Equipes"
+      ],
+      [
+        "2885113a-91a3-818b-81b4-c7d9af558047",
+        "sem_exercicio",
+        "Checklist De Gestao De Equipes"
+      ],
+      [
+        "2885113a-91a3-8196-b117-eb3476a786b6",
+        "sem_video",
+        "Gesto do Clima Organizacional Escolar: Construind"
+      ],
+      [
+        "2885113a-91a3-8196-b117-eb3476a786b6",
+        "sem_exercicio",
+        "Gesto do Clima Organizacional Escolar: Construind"
+      ],
+      [
+        "2885113a-91a3-8196-bbdf-c6c23e3ece09",
+        "sem_video",
+        "Checklist De Documentacao Administrativa"
+      ],
+      [
+        "2885113a-91a3-8196-bbdf-c6c23e3ece09",
+        "sem_exercicio",
+        "Checklist De Documentacao Administrativa"
+      ],
+      [
+        "2885113a-91a3-81a5-8305-d91992ed2400",
+        "sem_video",
+        "ndice de Artigos Financeiros e Administrativos"
+      ],
+      [
+        "2885113a-91a3-81a5-8305-d91992ed2400",
+        "sem_exercicio",
+        "ndice de Artigos Financeiros e Administrativos"
+      ],
+      [
+        "2885113a-91a3-81a6-be05-c4c4fd593db2",
+        "sem_video",
+        "Checklist De Infraestrutura Basica"
+      ],
+      [
+        "2885113a-91a3-81a6-be05-c4c4fd593db2",
+        "sem_exercicio",
+        "Checklist De Infraestrutura Basica"
+      ],
+      [
+        "2885113a-91a3-81a9-b709-c6da60312f71",
+        "sem_video",
+        "artigo_gestao_comunicacao_escolar_avancado"
+      ],
+      [
+        "2885113a-91a3-81a9-b709-c6da60312f71",
+        "sem_exercicio",
+        "artigo_gestao_comunicacao_escolar_avancado"
+      ],
+      [
+        "2885113a-91a3-81ab-9177-dee11b1bf315",
+        "sem_video",
+        "checklist_implementacao_comunicacao_escolar"
+      ],
+      [
+        "2885113a-91a3-81ab-9177-dee11b1bf315",
+        "sem_exercicio",
+        "checklist_implementacao_comunicacao_escolar"
+      ],
+      [
+        "2885113a-91a3-81b6-899c-d57125793dc9",
+        "sem_exercicio",
+        " Editorial - Contedo Organizado por Categoria"
+      ],
+      [
+        "2885113a-91a3-81bd-940b-fdd80aa72d72",
+        "sem_video",
+        " Relatrio de Auditoria de Contedo - Editorial G"
+      ],
+      [
+        "2885113a-91a3-81bd-940b-fdd80aa72d72",
+        "sem_exercicio",
+        " Relatrio de Auditoria de Contedo - Editorial G"
+      ],
+      [
+        "2885113a-91a3-81d1-9960-e7068e4d1e2d",
+        "sem_video",
+        "Planejamento Oramentrio Escolar: Estratgia, Con"
+      ],
+      [
+        "2885113a-91a3-81d1-9960-e7068e4d1e2d",
+        "sem_exercicio",
+        "Planejamento Oramentrio Escolar: Estratgia, Con"
+      ],
+      [
+        "2885113a-91a3-81da-8c9e-ec9a446eb6c4",
+        "sem_video",
+        "artigo_controle_estoque_materiais_escolares"
+      ],
+      [
+        "2885113a-91a3-81da-8c9e-ec9a446eb6c4",
+        "sem_exercicio",
+        "artigo_controle_estoque_materiais_escolares"
+      ],
+      [
+        "2885113a-91a3-81dc-be3a-eb3e7cf940b3",
+        "sem_video",
+        "Compliance e LGPD em Escolas: Guia Prtico para Ad"
+      ],
+      [
+        "2885113a-91a3-81dc-be3a-eb3e7cf940b3",
+        "sem_exercicio",
+        "Compliance e LGPD em Escolas: Guia Prtico para Ad"
+      ]
+    ],
+    "preenem": [
+      [
+        "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+        "sem_taxonomia",
+        "Artigo  Formato Padro"
+      ],
+      [
+        "26a5113a-91a3-806f-a0ab-feb06eafde98",
+        "sem_taxonomia",
+        "Revise e ajuste conforme necessrio - Guia Complet"
+      ],
+      [
+        "26a5113a-91a3-810b-b647-e10963c83524",
+        "sem_taxonomia",
+        "Anlise ENEM 2024: Tendncias em Matemtica - Guia"
+      ],
+      [
+        "26a5113a-91a3-8112-a314-ccea441781fb",
+        "sem_taxonomia",
+        "Calculadora ENEM - Guia Completo ENEM 2025"
+      ],
+      [
+        "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+        "sem_taxonomia",
+        "Exerccios de Interpretao de Texto Comentados - "
+      ],
+      [
+        "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+        "sem_taxonomia",
+        "Carreiras em Tecnologia: Guia Completo ps-ENEM - "
+      ],
+      [
+        "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+        "sem_taxonomia",
+        "Dashboard de Desempenho Pessoal - Guia Completo EN"
+      ],
+      [
+        "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+        "sem_taxonomia",
+        "Mudanas Climticas: Tema Recorrente no ENEM - Gui"
+      ],
+      [
+        "2705113a-91a3-806e-b5cc-d090a5df49b2",
+        "sem_taxonomia",
+        "Contedo ENEM - Artigo Educacional - Guia Completo"
+      ],
+      [
+        "2775113a-91a3-8055-aa64-f44db7c10609",
+        "sem_taxonomia",
+        "Acesse planners, mdulos de estudo e ferramentas p"
+      ],
+      [
+        "27e5113a-91a3-8167-bc9b-e19550dc07dc",
+        "sem_taxonomia",
+        "Simulados ENEM 2025: Como Usar de Forma Estratgic"
+      ],
+      [
+        "27e5113a-91a3-81a4-b631-fb86080feb20",
+        "sem_taxonomia",
+        "Ansiedade no ENEM 2025: Guia Completo para Control"
+      ],
+      [
+        "27f5113a-91a3-817b-b018-f997ace59629",
+        "sem_taxonomia",
+        "Tcnicas de Memorizao para o ENEM 2025: Aprenda "
+      ],
+      [
+        "27f5113a-91a3-81af-9a7a-f60ed50b5c32",
+        "sem_taxonomia",
+        "O Dia da Prova ENEM 2025: Checklist Completo e Est"
+      ],
+      [
+        "2855113a-91a3-8100-811d-cccf1baac21f",
+        "sem_taxonomia",
+        "Histria ENEM 2025: Brasil Repblica - Guia Comple"
+      ],
+      [
+        "2855113a-91a3-8100-811d-cccf1baac21f",
+        "sem_video",
+        "Histria ENEM 2025: Brasil Repblica - Guia Comple"
+      ],
+      [
+        "2855113a-91a3-8113-b569-f4fc81240652",
+        "sem_taxonomia",
+        "Abordagem Interdisciplinar ENEM 2025: Conectando C"
+      ],
+      [
+        "2855113a-91a3-8118-90e9-ef51e7d79eb1",
+        "sem_taxonomia",
+        "Qumica: Fsico-Qumica e Solues ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-811d-a4d8-fff17db18acb",
+        "sem_taxonomia",
+        "Checklist Interpretacao Texto Enem 2025"
+      ],
+      [
+        "2855113a-91a3-811e-aa2f-d41495863b85",
+        "sem_taxonomia",
+        "Filosofia ENEM 2025: tica e Poltica"
+      ],
+      [
+        "2855113a-91a3-8125-8d71-ea0b8a171e59",
+        "sem_taxonomia",
+        "Estratgias de Estudo ENEM 2025: Guia Completo par"
+      ],
+      [
+        "2855113a-91a3-812d-b46a-c8eae3dd12b4",
+        "sem_taxonomia",
+        "Literatura: Movimentos Literrios Brasileiros ENEM"
+      ],
+      [
+        "2855113a-91a3-8133-b4d1-cf5365efa50e",
+        "sem_taxonomia",
+        "Alimentao e Desempenho Cognitivo ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-813a-89a5-f3657875bcb8",
+        "sem_taxonomia",
+        "Geografia ENEM 2025: Geografia Fsica - Guia Compl"
+      ],
+      [
+        "2855113a-91a3-8142-84a4-c98f7fa00d24",
+        "sem_taxonomia",
+        "Bem-Estar e Sade Mental ENEM 2025: Mantenha o Equ"
+      ],
+      [
+        "2855113a-91a3-8149-a348-fda83c6900ad",
+        "sem_taxonomia",
+        "Rotina de Sono para Estudantes ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-8153-95c2-d4f7fc48584b",
+        "sem_taxonomia",
+        "Qumica ENEM 2025: Orgnica Essencial - Guia Compl"
+      ],
+      [
+        "2855113a-91a3-8159-8ecc-e97e6ab677c9",
+        "sem_taxonomia",
+        " MATEMTICA NO ENEM: FRMULAS ESSENCIAIS E COMO A"
+      ],
+      [
+        "2855113a-91a3-8168-85c5-c0376dd7be0e",
+        "sem_taxonomia",
+        "Motivao e Perseverana nos Estudos ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-8169-9529-cec472b04bb7",
+        "sem_taxonomia",
+        "Estatstica e Probabilidade ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-816e-97c0-c3c9d36dc940",
+        "sem_taxonomia",
+        "Geografia ENEM 2025: Geografia Fsica"
+      ],
+      [
+        "2855113a-91a3-8179-810d-cdd6596e512a",
+        "sem_taxonomia",
+        " LNGUA PORTUGUESA NO ENEM: OS 10 TPICOS QUE MAI"
+      ],
+      [
+        "2855113a-91a3-817a-9d28-dd73075e45ed",
+        "sem_taxonomia",
+        "Fsica: Mecnica e Leis de Newton ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-817d-b2c8-e9a99c88cd0b",
+        "sem_taxonomia",
+        "Cronograma de Estudos Ideal para o ENEM 2025: Plan"
+      ],
+      [
+        "2855113a-91a3-8185-9b1a-e6d109402d50",
+        "sem_taxonomia",
+        "Geopoltica e Globalizao ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-8192-a723-d8ab6ce6361b",
+        "sem_taxonomia",
+        "Biologia: Ecologia e Meio Ambiente ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-8192-a723-d8ab6ce6361b",
+        "sem_video",
+        "Biologia: Ecologia e Meio Ambiente ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-8195-b211-df327d250d3f",
+        "sem_taxonomia",
+        "Checklist Planejamento Semanal Enem 2025"
+      ],
+      [
+        "2855113a-91a3-8198-9e25-fd1b73c94ba5",
+        "sem_taxonomia",
+        "Gramtica Contextualizada no ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-81aa-b190-d13087215897",
+        "sem_taxonomia",
+        "Histria ENEM 2025: Brasil Repblica"
+      ],
+      [
+        "2855113a-91a3-81aa-b190-d13087215897",
+        "sem_video",
+        "Histria ENEM 2025: Brasil Repblica"
+      ],
+      [
+        "2855113a-91a3-81ab-b517-d782098f4d58",
+        "sem_taxonomia",
+        "Checklist Reacoes Quimicas Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81b1-bacd-e1500e1918f9",
+        "sem_taxonomia",
+        "Trigonometria Aplicada ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-81b3-9728-fb38eaed84ec",
+        "sem_taxonomia",
+        "Checklist Formulas Matematicas Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81b8-a273-e1ec9f61bb3e",
+        "sem_taxonomia",
+        "Checklist Resolucao Problemas Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81bc-8d59-fd05ab1217d6",
+        "sem_taxonomia",
+        "Checklist Formulas Fisica Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81c1-8d26-e67fc52b6218",
+        "sem_taxonomia",
+        "Sociologia ENEM 2025: Movimentos Sociais - Guia Co"
+      ],
+      [
+        "2855113a-91a3-81ca-90d8-f703c8485051",
+        "sem_taxonomia",
+        "Funes e Grficos ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-81ce-9d08-fa9a0a37998d",
+        "sem_taxonomia",
+        "Biologia ENEM 2025: Gentica e Evoluo - Guia Com"
+      ],
+      [
+        "2855113a-91a3-81d2-a78d-c9ed691251df",
+        "sem_taxonomia",
+        "Checklist Saude Mental Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81d5-b2db-e55b465c864c",
+        "sem_taxonomia",
+        "Matemtica Financeira para o ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-81d5-b3e7-d6c4d8799411",
+        "sem_taxonomia",
+        "Fsica ENEM 2025: Ondas e Energia - Guia Completo "
+      ],
+      [
+        "2855113a-91a3-81de-98b6-f33ee182b6d3",
+        "sem_taxonomia",
+        "Checklist Datas Historicas Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81e0-93f8-d88bface537e",
+        "sem_taxonomia",
+        "Atualidades: Temas Recorrentes no ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-81e0-93f8-d88bface537e",
+        "sem_video",
+        "Atualidades: Temas Recorrentes no ENEM 2025"
+      ],
+      [
+        "2855113a-91a3-81e9-8feb-de67e7000b0a",
+        "sem_taxonomia",
+        "Checklist Revisao Mensal Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81ea-9960-ed902d0489e0",
+        "sem_taxonomia",
+        "Checklist Conceitos Sociologicos Enem 2025"
+      ],
+      [
+        "2855113a-91a3-81ef-a2cc-f5348ac6c88c",
+        "sem_taxonomia",
+        "Lngua Estrangeira: Estratgias de Leitura ENEM 20"
+      ],
+      [
+        "2855113a-91a3-81f8-bb8b-da1f92351ffd",
+        "sem_taxonomia",
+        "Sistema de Monitoramento de Progresso ENEM 2025: A"
+      ],
+      [
+        "2885113a-91a3-8100-a426-e7c20c4fd8e0",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Cognatos e Falsos Amigos"
+      ],
+      [
+        "2885113a-91a3-8100-a426-e7c20c4fd8e0",
+        "sem_video",
+        "Ingls ENEM 2025 - Cognatos e Falsos Amigos"
+      ],
+      [
+        "2885113a-91a3-8106-b18b-dca2288a4e5e",
+        "sem_taxonomia",
+        "Guia Completo Histria ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8106-b18b-dca2288a4e5e",
+        "sem_video",
+        "Guia Completo Histria ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-810c-a686-fd70b1468ff6",
+        "sem_taxonomia",
+        "# Histria ENEM 2025: Brasil Repblica - Guia Comp"
+      ],
+      [
+        "2885113a-91a3-810c-a686-fd70b1468ff6",
+        "sem_video",
+        "# Histria ENEM 2025: Brasil Repblica - Guia Comp"
+      ],
+      [
+        "2885113a-91a3-810f-913b-d989e4045879",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Vocabulrio"
+      ],
+      [
+        "2885113a-91a3-810f-913b-d989e4045879",
+        "sem_video",
+        "Espanhol ENEM 2025 - Vocabulrio"
+      ],
+      [
+        "2885113a-91a3-8118-8043-f2dcebb8cedd",
+        "sem_taxonomia",
+        "artigo_tipos_linguagem_enem_2025_guia_completo"
+      ],
+      [
+        "2885113a-91a3-8118-8043-f2dcebb8cedd",
+        "sem_video",
+        "artigo_tipos_linguagem_enem_2025_guia_completo"
+      ],
+      [
+        "2885113a-91a3-8119-b010-d9a8277b12d1",
+        "sem_taxonomia",
+        "Checklist Estratgias Espanhol ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8119-b010-d9a8277b12d1",
+        "sem_video",
+        "Checklist Estratgias Espanhol ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-811a-a063-fdb345b93382",
+        "sem_taxonomia",
+        "# Atualidades: Temas Recorrentes no ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-811a-a063-fdb345b93382",
+        "sem_video",
+        "# Atualidades: Temas Recorrentes no ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-811c-8b58-fd0263f90b12",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Falsos Amigos"
+      ],
+      [
+        "2885113a-91a3-811c-8b58-fd0263f90b12",
+        "sem_video",
+        "Espanhol ENEM 2025 - Falsos Amigos"
+      ],
+      [
+        "2885113a-91a3-811f-b5fe-e31bf8e916da",
+        "sem_taxonomia",
+        "# Sociologia ENEM 2025: Movimentos Sociais - Guia "
+      ],
+      [
+        "2885113a-91a3-811f-b5fe-e31bf8e916da",
+        "sem_video",
+        "# Sociologia ENEM 2025: Movimentos Sociais - Guia "
+      ],
+      [
+        "2885113a-91a3-8120-b303-f365add741d2",
+        "sem_taxonomia",
+        "Guia Completo Filosofia e Sociologia ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8120-b303-f365add741d2",
+        "sem_video",
+        "Guia Completo Filosofia e Sociologia ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8123-ad48-cdca09f33508",
+        "sem_taxonomia",
+        "Redao ENEM 2025 - Simulado Temas"
+      ],
+      [
+        "2885113a-91a3-8123-ad48-cdca09f33508",
+        "sem_video",
+        "Redao ENEM 2025 - Simulado Temas"
+      ],
+      [
+        "2885113a-91a3-8126-8bd5-e7836fd53493",
+        "sem_taxonomia",
+        "# Geografia ENEM 2025: Geografia Fsica - Guia Com"
+      ],
+      [
+        "2885113a-91a3-8126-8bd5-e7836fd53493",
+        "sem_video",
+        "# Geografia ENEM 2025: Geografia Fsica - Guia Com"
+      ],
+      [
+        "2885113a-91a3-8126-ba05-d2669cb8cf02",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Vocabulrio Essencial 500 Palav"
+      ],
+      [
+        "2885113a-91a3-8126-ba05-d2669cb8cf02",
+        "sem_video",
+        "Ingls ENEM 2025 - Vocabulrio Essencial 500 Palav"
+      ],
+      [
+        "2885113a-91a3-812a-88b1-f9dd4edda40a",
+        "sem_taxonomia",
+        "Guia Completo Biologia ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-812a-88b1-f9dd4edda40a",
+        "sem_video",
+        "Guia Completo Biologia ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-812a-89cc-fc02dc416683",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Comprensin Lectora"
+      ],
+      [
+        "2885113a-91a3-812a-89cc-fc02dc416683",
+        "sem_video",
+        "Espanhol ENEM 2025 - Comprensin Lectora"
+      ],
+      [
+        "2885113a-91a3-8130-a3c0-ec6f63b7463d",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Vocabulrio Essencial"
+      ],
+      [
+        "2885113a-91a3-8130-a3c0-ec6f63b7463d",
+        "sem_video",
+        "Espanhol ENEM 2025 - Vocabulrio Essencial"
+      ],
+      [
+        "2885113a-91a3-8132-86da-e669f23a6ca6",
+        "sem_taxonomia",
+        "# Biologia ENEM 2025: Gentica e Evoluo - Guia C"
+      ],
+      [
+        "2885113a-91a3-8132-86da-e669f23a6ca6",
+        "sem_video",
+        "# Biologia ENEM 2025: Gentica e Evoluo - Guia C"
+      ],
+      [
+        "2885113a-91a3-8136-8e29-cf7c1edab59d",
+        "sem_taxonomia",
+        "# Histria ENEM 2025: Brasil Repblica"
+      ],
+      [
+        "2885113a-91a3-8136-8e29-cf7c1edab59d",
+        "sem_video",
+        "# Histria ENEM 2025: Brasil Repblica"
+      ],
+      [
+        "2885113a-91a3-8139-871b-f6052af5ab56",
+        "sem_taxonomia",
+        "# Geopoltica e Globalizao ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8139-871b-f6052af5ab56",
+        "sem_video",
+        "# Geopoltica e Globalizao ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-813a-ad83-e1a2bd87f5a6",
+        "sem_taxonomia",
+        "#  LNGUA PORTUGUESA NO ENEM: OS 10 TPICOS QUE M"
+      ],
+      [
+        "2885113a-91a3-813a-ad83-e1a2bd87f5a6",
+        "sem_video",
+        "#  LNGUA PORTUGUESA NO ENEM: OS 10 TPICOS QUE M"
+      ],
+      [
+        "2885113a-91a3-813a-ad83-e1a2bd87f5a6",
+        "sem_exercicio",
+        "#  LNGUA PORTUGUESA NO ENEM: OS 10 TPICOS QUE M"
+      ],
+      [
+        "2885113a-91a3-813b-b380-e2b1999b6896",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Vocabulrio Essencial"
+      ],
+      [
+        "2885113a-91a3-813b-b380-e2b1999b6896",
+        "sem_video",
+        "Ingls ENEM 2025 - Vocabulrio Essencial"
+      ],
+      [
+        "2885113a-91a3-813d-8dc2-c7ac3ca4d8bb",
+        "sem_taxonomia",
+        "Simulado Espanhol ENEM 2025 - 10 Questes"
+      ],
+      [
+        "2885113a-91a3-813d-8dc2-c7ac3ca4d8bb",
+        "sem_video",
+        "Simulado Espanhol ENEM 2025 - 10 Questes"
+      ],
+      [
+        "2885113a-91a3-813e-8c30-cbe014c9f1dc",
+        "sem_taxonomia",
+        "# Rotina de Sono para Estudantes ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-813e-8c30-cbe014c9f1dc",
+        "sem_video",
+        "# Rotina de Sono para Estudantes ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8140-8cbc-f5a10270d24e",
+        "sem_taxonomia",
+        "# Fsica: Mecnica e Leis de Newton ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8140-8cbc-f5a10270d24e",
+        "sem_video",
+        "# Fsica: Mecnica e Leis de Newton ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8141-8ded-c5d8ae8fcb39",
+        "sem_taxonomia",
+        "Guia Completo Qumica ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8141-8ded-c5d8ae8fcb39",
+        "sem_video",
+        "Guia Completo Qumica ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8147-9cb5-f27ef14d4c04",
+        "sem_taxonomia",
+        "Simulado Qumica ENEM 2025 - 15 Questes"
+      ],
+      [
+        "2885113a-91a3-8147-9cb5-f27ef14d4c04",
+        "sem_video",
+        "Simulado Qumica ENEM 2025 - 15 Questes"
+      ],
+      [
+        "2885113a-91a3-814a-ad35-d2f7b362ace0",
+        "sem_taxonomia",
+        "artigo_matematica_enem_2025_topicos_essenciais"
+      ],
+      [
+        "2885113a-91a3-814a-ad35-d2f7b362ace0",
+        "sem_video",
+        "artigo_matematica_enem_2025_topicos_essenciais"
+      ],
+      [
+        "2885113a-91a3-814b-88e2-c0e223ce65da",
+        "sem_taxonomia",
+        "#  MATEMTICA NO ENEM: FRMULAS ESSENCIAIS E COMO"
+      ],
+      [
+        "2885113a-91a3-814b-88e2-c0e223ce65da",
+        "sem_video",
+        "#  MATEMTICA NO ENEM: FRMULAS ESSENCIAIS E COMO"
+      ],
+      [
+        "2885113a-91a3-814b-88e2-c0e223ce65da",
+        "sem_exercicio",
+        "#  MATEMTICA NO ENEM: FRMULAS ESSENCIAIS E COMO"
+      ],
+      [
+        "2885113a-91a3-814d-b58a-c55ea0bc36d8",
+        "sem_taxonomia",
+        "Geografia ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-814d-b58a-c55ea0bc36d8",
+        "sem_video",
+        "Geografia ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-814e-bc16-df1f5fda5151",
+        "sem_taxonomia",
+        "# Lngua Estrangeira: Estratgias de Leitura ENEM "
+      ],
+      [
+        "2885113a-91a3-814e-bc16-df1f5fda5151",
+        "sem_video",
+        "# Lngua Estrangeira: Estratgias de Leitura ENEM "
+      ],
+      [
+        "2885113a-91a3-814f-90e7-c41d855dcfb6",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Simulado"
+      ],
+      [
+        "2885113a-91a3-814f-90e7-c41d855dcfb6",
+        "sem_video",
+        "Espanhol ENEM 2025 - Simulado"
+      ],
+      [
+        "2885113a-91a3-8150-a1b7-c91180bddcab",
+        "sem_taxonomia",
+        "Matemtica ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-8150-a1b7-c91180bddcab",
+        "sem_video",
+        "Matemtica ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-8150-b804-f83466d2ce6b",
+        "sem_taxonomia",
+        "Simulado Ingls ENEM 2025 - 10 Questes"
+      ],
+      [
+        "2885113a-91a3-8150-b804-f83466d2ce6b",
+        "sem_video",
+        "Simulado Ingls ENEM 2025 - 10 Questes"
+      ],
+      [
+        "2885113a-91a3-8151-9eda-fe9dbd35ff87",
+        "sem_taxonomia",
+        "Checklist Estratgias Ingls ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8151-9eda-fe9dbd35ff87",
+        "sem_video",
+        "Checklist Estratgias Ingls ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8152-a0ba-c9796b3f9158",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Checklist"
+      ],
+      [
+        "2885113a-91a3-8152-a0ba-c9796b3f9158",
+        "sem_video",
+        "Espanhol ENEM 2025 - Checklist"
+      ],
+      [
+        "2885113a-91a3-8155-8676-ef7f1f09d901",
+        "sem_taxonomia",
+        "# Ingls ENEM 2025 - Vocabulrio Essencial: 500 Pa"
+      ],
+      [
+        "2885113a-91a3-8155-8676-ef7f1f09d901",
+        "sem_video",
+        "# Ingls ENEM 2025 - Vocabulrio Essencial: 500 Pa"
+      ],
+      [
+        "2885113a-91a3-8155-8676-ef7f1f09d901",
+        "sem_exercicio",
+        "# Ingls ENEM 2025 - Vocabulrio Essencial: 500 Pa"
+      ],
+      [
+        "2885113a-91a3-8156-9660-d8127a801b5f",
+        "sem_taxonomia",
+        "# Gramtica Contextualizada no ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8156-9660-d8127a801b5f",
+        "sem_video",
+        "# Gramtica Contextualizada no ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8156-bf9e-e878958b8ec9",
+        "sem_taxonomia",
+        "Fsica ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-8156-bf9e-e878958b8ec9",
+        "sem_video",
+        "Fsica ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-815c-a17a-f765db0dce36",
+        "sem_taxonomia",
+        "# Alimentao e Desempenho Cognitivo ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-815c-a17a-f765db0dce36",
+        "sem_video",
+        "# Alimentao e Desempenho Cognitivo ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-815e-a13a-edff3d1b9ae4",
+        "sem_taxonomia",
+        "Simulado Matemtica ENEM 2025 - 20 Questes"
+      ],
+      [
+        "2885113a-91a3-815e-a13a-edff3d1b9ae4",
+        "sem_video",
+        "Simulado Matemtica ENEM 2025 - 20 Questes"
+      ],
+      [
+        "2885113a-91a3-8162-84be-defc94c6a0e5",
+        "sem_taxonomia",
+        "# Trigonometria Aplicada ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8162-84be-defc94c6a0e5",
+        "sem_video",
+        "# Trigonometria Aplicada ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8165-9dec-c096af5e5faa",
+        "sem_taxonomia",
+        "# Fsica ENEM 2025: Ondas e Energia - Guia Complet"
+      ],
+      [
+        "2885113a-91a3-8165-9dec-c096af5e5faa",
+        "sem_video",
+        "# Fsica ENEM 2025: Ondas e Energia - Guia Complet"
+      ],
+      [
+        "2885113a-91a3-8168-97b6-e95a39acac39",
+        "sem_taxonomia",
+        "# Estatstica e Probabilidade ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8168-97b6-e95a39acac39",
+        "sem_video",
+        "# Estatstica e Probabilidade ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8168-9d72-c7d360e907d7",
+        "sem_taxonomia",
+        "Simulado Redao ENEM 2025 - 5 Temas Atuais"
+      ],
+      [
+        "2885113a-91a3-8168-9d72-c7d360e907d7",
+        "sem_video",
+        "Simulado Redao ENEM 2025 - 5 Temas Atuais"
+      ],
+      [
+        "2885113a-91a3-816e-948f-c0704ed0517c",
+        "sem_taxonomia",
+        "# Sistema de Monitoramento de Progresso ENEM 2025:"
+      ],
+      [
+        "2885113a-91a3-816e-948f-c0704ed0517c",
+        "sem_video",
+        "# Sistema de Monitoramento de Progresso ENEM 2025:"
+      ],
+      [
+        "2885113a-91a3-816e-948f-c0704ed0517c",
+        "sem_exercicio",
+        "# Sistema de Monitoramento de Progresso ENEM 2025:"
+      ],
+      [
+        "2885113a-91a3-816e-96e9-e3500b6765d7",
+        "sem_taxonomia",
+        "# Cronograma de Estudos Ideal para o ENEM 2025: Pl"
+      ],
+      [
+        "2885113a-91a3-816e-96e9-e3500b6765d7",
+        "sem_video",
+        "# Cronograma de Estudos Ideal para o ENEM 2025: Pl"
+      ],
+      [
+        "2885113a-91a3-816e-96e9-e3500b6765d7",
+        "sem_exercicio",
+        "# Cronograma de Estudos Ideal para o ENEM 2025: Pl"
+      ],
+      [
+        "2885113a-91a3-8170-8e6b-e98855d0b53d",
+        "sem_taxonomia",
+        "# Funes e Grficos ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8170-8e6b-e98855d0b53d",
+        "sem_video",
+        "# Funes e Grficos ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8171-bfff-f6405f20beef",
+        "sem_taxonomia",
+        "# Matemtica Financeira para o ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8171-bfff-f6405f20beef",
+        "sem_video",
+        "# Matemtica Financeira para o ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8176-8bcb-d0add39f0404",
+        "sem_taxonomia",
+        "Biologia ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-8176-8bcb-d0add39f0404",
+        "sem_video",
+        "Biologia ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-817b-b475-c029398364cb",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Simulado"
+      ],
+      [
+        "2885113a-91a3-817b-b475-c029398364cb",
+        "sem_video",
+        "Ingls ENEM 2025 - Simulado"
+      ],
+      [
+        "2885113a-91a3-817e-9d90-d3d64ce196ad",
+        "sem_taxonomia",
+        "artigo_portugues_enem_2025_topicos_mais_cobrados"
+      ],
+      [
+        "2885113a-91a3-817e-9d90-d3d64ce196ad",
+        "sem_video",
+        "artigo_portugues_enem_2025_topicos_mais_cobrados"
+      ],
+      [
+        "2885113a-91a3-817f-ac38-c61803611b4c",
+        "sem_taxonomia",
+        "Matemtica ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-817f-ac38-c61803611b4c",
+        "sem_video",
+        "Matemtica ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-8183-9370-c0bd050220e4",
+        "sem_taxonomia",
+        "# Geografia ENEM 2025: Geografia Fsica"
+      ],
+      [
+        "2885113a-91a3-8184-b36f-d3c32f67b336",
+        "sem_taxonomia",
+        "# Estratgias de Estudo ENEM 2025: Guia Completo p"
+      ],
+      [
+        "2885113a-91a3-8184-b36f-d3c32f67b336",
+        "sem_video",
+        "# Estratgias de Estudo ENEM 2025: Guia Completo p"
+      ],
+      [
+        "2885113a-91a3-8184-b36f-d3c32f67b336",
+        "sem_exercicio",
+        "# Estratgias de Estudo ENEM 2025: Guia Completo p"
+      ],
+      [
+        "2885113a-91a3-8186-b8e0-f53247ea8353",
+        "sem_taxonomia",
+        "Biologia ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-8186-b8e0-f53247ea8353",
+        "sem_video",
+        "Biologia ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-8189-974a-d0f6565a9dd4",
+        "sem_taxonomia",
+        "# Motivao e Perseverana nos Estudos ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8189-974a-d0f6565a9dd4",
+        "sem_video",
+        "# Motivao e Perseverana nos Estudos ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-818c-8c6c-d84d6d9da83f",
+        "sem_taxonomia",
+        "Guia Completo Fsica ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-818c-8c6c-d84d6d9da83f",
+        "sem_video",
+        "Guia Completo Fsica ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8195-bc48-effc378976dd",
+        "sem_taxonomia",
+        "Guia Completo Matemtica ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8195-bc48-effc378976dd",
+        "sem_video",
+        "Guia Completo Matemtica ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-8196-9e05-fadd67506efa",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Reading Comprehension: Estratg"
+      ],
+      [
+        "2885113a-91a3-8196-9e05-fadd67506efa",
+        "sem_video",
+        "Ingls ENEM 2025 - Reading Comprehension: Estratg"
+      ],
+      [
+        "2885113a-91a3-8196-9e05-fadd67506efa",
+        "sem_exercicio",
+        "Ingls ENEM 2025 - Reading Comprehension: Estratg"
+      ],
+      [
+        "2885113a-91a3-8197-bd22-fcb1fa019bd6",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Checklist Estratgias"
+      ],
+      [
+        "2885113a-91a3-8197-bd22-fcb1fa019bd6",
+        "sem_video",
+        "Ingls ENEM 2025 - Checklist Estratgias"
+      ],
+      [
+        "2885113a-91a3-8198-bae9-d02d99dadf7d",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Linking Words"
+      ],
+      [
+        "2885113a-91a3-8198-bae9-d02d99dadf7d",
+        "sem_video",
+        "Ingls ENEM 2025 - Linking Words"
+      ],
+      [
+        "2885113a-91a3-819e-8945-ee7b7c745f1f",
+        "sem_taxonomia",
+        "# Checklist - Estratgias para Prova de Ingls ENE"
+      ],
+      [
+        "2885113a-91a3-819e-8945-ee7b7c745f1f",
+        "sem_video",
+        "# Checklist - Estratgias para Prova de Ingls ENE"
+      ],
+      [
+        "2885113a-91a3-819e-8945-ee7b7c745f1f",
+        "sem_exercicio",
+        "# Checklist - Estratgias para Prova de Ingls ENE"
+      ],
+      [
+        "2885113a-91a3-819f-ba21-c43b5a429374",
+        "sem_taxonomia",
+        "# Qumica ENEM 2025: Orgnica Essencial - Guia Com"
+      ],
+      [
+        "2885113a-91a3-819f-ba21-c43b5a429374",
+        "sem_video",
+        "# Qumica ENEM 2025: Orgnica Essencial - Guia Com"
+      ],
+      [
+        "2885113a-91a3-81a0-b256-dfcb0543df49",
+        "sem_taxonomia",
+        "Filosofia/Sociologia ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81a0-b256-dfcb0543df49",
+        "sem_video",
+        "Filosofia/Sociologia ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81a1-9120-d485ce6ec038",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Compreenso Leitora"
+      ],
+      [
+        "2885113a-91a3-81a1-9120-d485ce6ec038",
+        "sem_video",
+        "Espanhol ENEM 2025 - Compreenso Leitora"
+      ],
+      [
+        "2885113a-91a3-81a1-96cc-c9e7a341886a",
+        "sem_taxonomia",
+        "Qumica ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-81a1-96cc-c9e7a341886a",
+        "sem_video",
+        "Qumica ENEM 2025 - Simulado Completo"
+      ],
+      [
+        "2885113a-91a3-81a4-82b7-d0d2915c0b21",
+        "sem_taxonomia",
+        "# Bem-Estar e Sade Mental ENEM 2025: Mantenha o E"
+      ],
+      [
+        "2885113a-91a3-81a4-82b7-d0d2915c0b21",
+        "sem_video",
+        "# Bem-Estar e Sade Mental ENEM 2025: Mantenha o E"
+      ],
+      [
+        "2885113a-91a3-81a6-a8a6-eb3b532d3d48",
+        "sem_taxonomia",
+        "# Ingls ENEM 2025 - Reading Comprehension: Estrat"
+      ],
+      [
+        "2885113a-91a3-81a6-a8a6-eb3b532d3d48",
+        "sem_video",
+        "# Ingls ENEM 2025 - Reading Comprehension: Estrat"
+      ],
+      [
+        "2885113a-91a3-81a6-a8a6-eb3b532d3d48",
+        "sem_exercicio",
+        "# Ingls ENEM 2025 - Reading Comprehension: Estrat"
+      ],
+      [
+        "2885113a-91a3-81a7-9745-de9fc975730e",
+        "sem_taxonomia",
+        "Fsica ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81a7-9745-de9fc975730e",
+        "sem_video",
+        "Fsica ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81a9-885a-cea85245ef43",
+        "sem_taxonomia",
+        "# Abordagem Interdisciplinar ENEM 2025: Conectando"
+      ],
+      [
+        "2885113a-91a3-81a9-885a-cea85245ef43",
+        "sem_video",
+        "# Abordagem Interdisciplinar ENEM 2025: Conectando"
+      ],
+      [
+        "2885113a-91a3-81a9-885a-cea85245ef43",
+        "sem_exercicio",
+        "# Abordagem Interdisciplinar ENEM 2025: Conectando"
+      ],
+      [
+        "2885113a-91a3-81a9-940c-eb0e2d42b2b5",
+        "sem_taxonomia",
+        "# Filosofia ENEM 2025: tica e Poltica"
+      ],
+      [
+        "2885113a-91a3-81a9-940c-eb0e2d42b2b5",
+        "sem_video",
+        "# Filosofia ENEM 2025: tica e Poltica"
+      ],
+      [
+        "2885113a-91a3-81aa-8180-d8df81146f71",
+        "sem_taxonomia",
+        "# Trigonometria Aplicada ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81b5-8ada-c788c078c6c3",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Reading Comprehension Essencial"
+      ],
+      [
+        "2885113a-91a3-81b5-8ada-c788c078c6c3",
+        "sem_video",
+        "Ingls ENEM 2025 - Reading Comprehension Essencial"
+      ],
+      [
+        "2885113a-91a3-81b8-8ac1-e6f1934e7160",
+        "sem_taxonomia",
+        "Ingls ENEM 2025 - Linking Words Conectivos"
+      ],
+      [
+        "2885113a-91a3-81b8-8ac1-e6f1934e7160",
+        "sem_video",
+        "Ingls ENEM 2025 - Linking Words Conectivos"
+      ],
+      [
+        "2885113a-91a3-81c3-8216-ed9226636d41",
+        "sem_taxonomia",
+        "# Geografia ENEM 2025: Geografia Fsica"
+      ],
+      [
+        "2885113a-91a3-81c3-8216-ed9226636d41",
+        "sem_video",
+        "# Geografia ENEM 2025: Geografia Fsica"
+      ],
+      [
+        "2885113a-91a3-81c7-bb5a-c82029a1f891",
+        "sem_taxonomia",
+        "Qumica ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81c7-bb5a-c82029a1f891",
+        "sem_video",
+        "Qumica ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81d2-a510-e3807996fa74",
+        "sem_taxonomia",
+        "Simulado Biologia ENEM 2025 - 15 Questes"
+      ],
+      [
+        "2885113a-91a3-81d2-a510-e3807996fa74",
+        "sem_video",
+        "Simulado Biologia ENEM 2025 - 15 Questes"
+      ],
+      [
+        "2885113a-91a3-81d2-b047-ef0f26cdaab0",
+        "sem_taxonomia",
+        "Histria ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81d2-b047-ef0f26cdaab0",
+        "sem_video",
+        "Histria ENEM 2025 - Guia Completo"
+      ],
+      [
+        "2885113a-91a3-81e0-b01f-f56a4e07e9b7",
+        "sem_taxonomia",
+        "Espanhol ENEM 2025 - Falsos Amigos Heterosemntico"
+      ],
+      [
+        "2885113a-91a3-81e0-b01f-f56a4e07e9b7",
+        "sem_video",
+        "Espanhol ENEM 2025 - Falsos Amigos Heterosemntico"
+      ],
+      [
+        "2885113a-91a3-81e7-83a7-c4f4629affd0",
+        "sem_taxonomia",
+        "# Qumica: Fsico-Qumica e Solues ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81e7-83a7-c4f4629affd0",
+        "sem_video",
+        "# Qumica: Fsico-Qumica e Solues ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81eb-9ab4-f33938027753",
+        "sem_taxonomia",
+        "# Literatura: Movimentos Literrios Brasileiros EN"
+      ],
+      [
+        "2885113a-91a3-81eb-9ab4-f33938027753",
+        "sem_video",
+        "# Literatura: Movimentos Literrios Brasileiros EN"
+      ],
+      [
+        "2885113a-91a3-81f1-bb3c-c4cb17b10c8f",
+        "sem_taxonomia",
+        "Simulado Fsica ENEM 2025 - 15 Questes"
+      ],
+      [
+        "2885113a-91a3-81f1-bb3c-c4cb17b10c8f",
+        "sem_video",
+        "Simulado Fsica ENEM 2025 - 15 Questes"
+      ],
+      [
+        "2885113a-91a3-81f8-a020-ef0e7e8b479d",
+        "sem_taxonomia",
+        "# Biologia: Ecologia e Meio Ambiente ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81f8-a020-ef0e7e8b479d",
+        "sem_video",
+        "# Biologia: Ecologia e Meio Ambiente ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81fd-9825-fd3ab7fe1197",
+        "sem_taxonomia",
+        "# Fsica ENEM 2025: Ondas e Energia - Guia Complet"
+      ],
+      [
+        "2885113a-91a3-81fd-9825-fd3ab7fe1197",
+        "sem_video",
+        "# Fsica ENEM 2025: Ondas e Energia - Guia Complet"
+      ],
+      [
+        "2885113a-91a3-81fe-921d-c96616fc63ab",
+        "sem_taxonomia",
+        "Guia Completo Ingls ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81fe-921d-c96616fc63ab",
+        "sem_video",
+        "Guia Completo Ingls ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81fe-98c7-ebe811c8bf4d",
+        "sem_taxonomia",
+        "Guia Completo Geografia ENEM 2025"
+      ],
+      [
+        "2885113a-91a3-81fe-98c7-ebe811c8bf4d",
+        "sem_video",
+        "Guia Completo Geografia ENEM 2025"
+      ]
+    ]
+  }
+}

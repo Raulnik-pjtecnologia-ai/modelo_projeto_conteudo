@@ -1,0 +1,4218 @@
+{
+  "gestao": {
+    "database_name": "Editorial Gestão",
+    "database_id": "2325113a91a381c09b33f826449a218f",
+    "erro": "'charmap' codec can't encode character '\\U0001f4cb' in position 12: character maps to <undefined>"
+  },
+  "pre_enem": {
+    "database_name": "Editorial Pré-ENEM",
+    "database_id": "2695113a-91a3-81dd-bfc4-fc8e4df72e7f",
+    "total_paginas": 100,
+    "paginas_ok": 6,
+    "paginas_com_problemas": 94,
+    "total_problemas": 645,
+    "resultados": [
+      {
+        "page_id": "26a5113a-91a3-8037-aca6-e8f4c1a9e84f",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 42,
+        "total_problemas": 7,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Artigo – Formato Padrão",
+            "bloco_id": "2875113a-91a3-81a6-9d4e-e3830c5fa3dc"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8153-870c-fabd34a947e6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8132-81d9-f3767867ce6c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81da-a778-c1c1616b921d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8125-a295-e07590ed753e"
+          },
+          {
+            "tipo": "SEM_EXERCICIOS",
+            "detalhes": "Página sem seção de exercícios",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-806f-a0ab-feb06eafde98",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Revise e ajuste conforme necessário - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-814e-ad44-d0b5de5af5b4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8181-a60c-f137689a5669"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-819e-997d-d356c081101b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8113-9cd2-fa3cde75ca4a"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-810b-b647-e10963c83524",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 50,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "VIDEO_INVALIDO",
+            "detalhes": "Vídeo inválido: URL falsa detectada: youtube.com/watch?v=example - https://www.youtube.com/watch?v=example1",
+            "bloco_id": "28a5113a-91a3-8132-baa0-e87df0a78caf"
+          },
+          {
+            "tipo": "VIDEO_INVALIDO",
+            "detalhes": "Vídeo inválido: URL falsa detectada: youtube.com/watch?v=example - https://www.youtube.com/watch?v=example2",
+            "bloco_id": "28a5113a-91a3-810b-a59d-c98de27f011f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Análise ENEM 2024: Tendências em Matemática - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-815d-ba7f-e7b57454d1ea"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8112-a314-ccea441781fb",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Calculadora ENEM - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-81d0-908d-eb2225dd2c08"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8119-8d4d-c59ddc833963"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81bf-9f85-e3b03b5f591d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81eb-a8ff-c63bbb280c78"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8129-8ead-f547059a6a61",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Matemática ENEM 2025: Guia Completo de Estudos para Nota Máxima",
+            "bloco_id": "2875113a-91a3-81a8-86ee-f96ef54e597a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-81a9-9b86-c7d412328bfc"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8174-b2d6-ca40e2b1e4b7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-813a-978d-c769ec7ae9ff"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-814f-9bbf-fa0ceb700ac6",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Planner ENEM: Organize seus Estudos - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-810d-81f2-d1c491441829"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-81f8-bbf6-e61d918a640c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-817b-a3b1-f8ec5937d48a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81d2-9902-da540ae085c1"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-815d-a3ab-c521b1bc1de4",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 57,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercícios de Interpretação de Texto Comentados - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-814a-8aea-dbb17de5946b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-81d0-8430-f9c78f5c399b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81f7-bbf8-fb5d2e4a4940"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-818e-952f-c788686635cc"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-8172-b405-e315b96897a7",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Planner Semanal de Estudos - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-81cd-9c78-fca22a251847"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-813f-a27c-e88290d0f0e8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81d9-b9d3-f5be88e9b237"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8142-b42f-c6e24027d4c7"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-818c-a0d4-cc051e2dd28b",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Redação ENEM 2025: Estrutura Argumentativa Perfeita para Nota 1000",
+            "bloco_id": "2875113a-91a3-81f1-89df-f108b85b1945"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-818a-bc6e-def85ee257fc"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8127-9bad-dbfc640d93b0"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81c4-928e-fa451f07252c"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81d3-bfcf-dac7dd31a6e3",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Carreiras em Tecnologia: Guia Completo pós-ENEM - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-8154-873b-fcff3773b7ed"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-813c-b45a-f925a022a7fa"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8117-8c3f-f5765f481a73"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81fc-900a-d80b082c621c"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81da-a7fa-fef93d3bbe32",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Podcast: Estratégias de Estudo com Especialistas - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-816d-ad67-e4486e5857f1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8162-82c3-e25b2c9af067"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8109-9750-f46aa81251c5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81e0-8acd-f7f3297dc230"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81ec-ad4a-da983f2616dd",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Dashboard de Desempenho Pessoal - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-812c-9703-f4806e20621a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8198-b537-c89552b7d5f6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81be-8097-e0c5134fe421"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-815d-b799-ddafae8ad521"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81f4-819b-d188f49930ab",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Cronograma ENEM 2025: Datas Importantes - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-814d-9d94-d31265c05e5d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8105-bae6-efc065a8cb58"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-814e-bbe0-cd50cde9194b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8165-aab4-e6537621e53b"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "26a5113a-91a3-81fe-bdaa-cf08b4f71ab5",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Mudanças Climáticas: Tema Recorrente no ENEM - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-8145-8caf-feba8392066e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8198-aa80-c5aaa2663d11"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-817f-8eb6-e353684c16f9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8182-a7ab-c471c86732f1"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2705113a-91a3-806e-b5cc-d090a5df49b2",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Conteúdo ENEM - Artigo Educacional - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-814d-8f10-d4b88dad7480"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8128-8964-cb279d8f7643"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8128-8d1f-cbd4339a2b2f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81b4-a7b6-c0770ec75ac2"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2705113a-91a3-81ee-9c22-e89f72812350",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Como estruturar um calendário de pagamentos escolares - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-8114-ad55-d0bf05697cfc"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8190-91a3-db62356a7b4a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81fb-b5c0-c552bb6c76d3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8169-aa8c-d6a9081f0426"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2705113a-91a3-81f7-8505-d10bcddffe7c",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Mudanças no ENEM 2025: O que os estudantes precisam saber",
+            "bloco_id": "2875113a-91a3-8127-8c8d-db6db65163b9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8186-920d-f08347a06602"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81f2-9f1c-d2f2920ea1b2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8190-8789-e8f475feee14"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2775113a-91a3-8055-aa64-f44db7c10609",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Acesse planners, módulos de estudo e ferramentas práticas - Guia Completo ENEM 2025",
+            "bloco_id": "2875113a-91a3-81ae-ae7b-c3f4de194947"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-81d0-81d0-fdb971fad8cb"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-815e-a265-c4e54e144069"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-817b-8b68-ed6f471f87b5"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2775113a-91a3-80ad-babd-d0932f3acca0",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 73,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Geometria ENEM 2025: Fórmulas Essenciais e Estratégias de Resolução",
+            "bloco_id": "2875113a-91a3-819e-abbd-d309ee89d751"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Videos Relacionados",
+            "bloco_id": "2885113a-91a3-8189-91b3-ddd9361210be"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81bd-9cc0-f3db78ccff58"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8109-bddb-d058e261a07a"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "27e5113a-91a3-8167-bc9b-e19550dc07dc",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "erro": "'charmap' codec can't encode character '\\U0001f4ca' in position 25: character maps to <undefined>"
+      },
+      {
+        "page_id": "27e5113a-91a3-81a4-b631-fb86080feb20",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "erro": "'charmap' codec can't encode character '\\U0001f4ca' in position 25: character maps to <undefined>"
+      },
+      {
+        "page_id": "27f5113a-91a3-817b-b018-f997ace59629",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "erro": "'charmap' codec can't encode character '\\U0001f4ca' in position 25: character maps to <undefined>"
+      },
+      {
+        "page_id": "27f5113a-91a3-81af-9a7a-f60ed50b5c32",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "erro": "'charmap' codec can't encode character '\\U0001f4ca' in position 25: character maps to <undefined>"
+      },
+      {
+        "page_id": "2815113a-91a3-813c-9e83-fde49dbc8b29",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Abordagem Interdisciplinar ENEM 2025",
+            "bloco_id": "2875113a-91a3-81f4-8ddd-c44660b095d5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8156-8554-d43fb87ca273"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8148-9b12-d965c47a43dd"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-819e-9cc8-f3f0d1b9a009"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-811a-b3c8-ca32f8540e03"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2815113a-91a3-8154-b95b-f93aa7d777da",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Química ENEM 2025: Orgânica Essencial - Guia Completo",
+            "bloco_id": "2875113a-91a3-81f4-85e8-caf2b44d55b7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8197-9977-c450ecccbc4f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-810f-a29d-d5a130bbcd29"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81ff-bcf1-e3fc16cadeaa"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81fe-b486-ec2c8837a4ca"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2815113a-91a3-817f-b45e-fa48b28b4152",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Bem-Estar e Saúde Mental ENEM 2025",
+            "bloco_id": "2875113a-91a3-818a-8972-c3841fe607be"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8191-86a2-e25a7418df6e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81d7-a74a-d77c7289a8f6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81d4-a9b2-d27fe299079b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-813e-a546-d1984b63e3b5"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2815113a-91a3-81c0-bec8-ccf2208fa5aa",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Sociologia ENEM 2025: Movimentos Sociais - Guia Completo",
+            "bloco_id": "2875113a-91a3-8107-a5ff-e865ffd84ea5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8111-ac2c-c0f1ada5b25f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8188-b905-c2b663bb06b2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-815a-ab27-d6563c53dde8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8184-914e-c5e3d08c88ed"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2815113a-91a3-81c6-b70d-fabfff9f81f6",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Física ENEM 2025: Ondas e Energia - Guia Completo",
+            "bloco_id": "2875113a-91a3-8126-aefc-c8610388c50b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8167-bc7f-c0e1804d4fad"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81aa-8525-c9ff8dadd21d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81bb-8298-cb2c4e6c9c6f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81a0-9c15-d68e06d628f5"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2815113a-91a3-81c7-a1b4-deb633769372",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Sistema de Monitoramento de Progresso ENEM 2025",
+            "bloco_id": "2875113a-91a3-81c8-b0cb-ea0c6365608d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81ef-af8e-f32ceb091e7d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81e4-9d2e-d1205ed593c3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81ef-af07-ef8d2159eebf"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-810f-b5f3-ce7f21dfbb8e"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2815113a-91a3-81f3-9908-ce9c915571fd",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Estratégias de Estudo ENEM 2025: Guia Completo",
+            "bloco_id": "2875113a-91a3-8124-8790-d91b5b56d392"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8118-b219-f8fb316e4a84"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81fb-9419-c8a03c800b44"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8129-b8b6-fd89f654cbad"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81b0-a258-cc7d359a4632"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8100-811d-cccf1baac21f",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 24,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RESUMO EXECUTIVO",
+            "bloco_id": "2875113a-91a3-8117-a092-f75a10673bfc"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2875113a-91a3-8192-abf1-ddd1418fddf4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Conceito Principal",
+            "bloco_id": "2875113a-91a3-81bf-8935-ff77b647dbcf"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Conceito Secundário",
+            "bloco_id": "2875113a-91a3-81a4-980e-e781a66ebe6e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Conceito Avançado",
+            "bloco_id": "2875113a-91a3-81b8-8ca5-f33b0db80c98"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2875113a-91a3-8173-b8ac-eb07e4245a1a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Identifique o Tipo de Questão",
+            "bloco_id": "2875113a-91a3-814d-9a00-d6ae41ea1f5f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Aplique o Conhecimento",
+            "bloco_id": "2875113a-91a3-8148-8766-dad2d9698a6a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Gerencie o Tempo",
+            "bloco_id": "2875113a-91a3-818c-852d-feebe7e997d8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: EXERCÍCIOS PRÁTICOS",
+            "bloco_id": "2875113a-91a3-81dc-a73f-d87c3e85973f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 1: Aplicação Básica",
+            "bloco_id": "2875113a-91a3-813f-9565-e69ad7755488"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 2: Aplicação Intermediária",
+            "bloco_id": "2875113a-91a3-8188-b95f-c53454951494"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 3: Aplicação Avançada (Estilo ENEM)",
+            "bloco_id": "2875113a-91a3-818b-99a1-c1e01f765128"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 🎥 VÍDEOS RELACIONADOS",
+            "bloco_id": "2875113a-91a3-8172-9333-c1df89bea46e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 📈 DICAS AVANÇADAS",
+            "bloco_id": "2875113a-91a3-81fa-9535-c9272f88bb21"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Para Memorização:",
+            "bloco_id": "2875113a-91a3-8116-9ce6-f59aa679bbf2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Para Aplicação:",
+            "bloco_id": "2875113a-91a3-81af-aa19-e6ed3afe9a29"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Para Revisão:",
+            "bloco_id": "2875113a-91a3-81c0-83bc-dd360562183f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST RÁPIDO",
+            "bloco_id": "2875113a-91a3-818e-ba1a-ee990e7307c8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Domínio de Conceitos:",
+            "bloco_id": "2875113a-91a3-8151-a4a9-ea76bac216c4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Preparação para Prova:",
+            "bloco_id": "2875113a-91a3-81c4-a1f7-da47bed1fc9a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TABELA DE REFERÊNCIA RÁPIDA",
+            "bloco_id": "2875113a-91a3-81b4-b119-c96100ebaaaf"
+          },
+          {
+            "tipo": "SEM_REFERENCIAS",
+            "detalhes": "Página sem referências ou fontes",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8113-b569-f4fc81240652",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 84,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Abordagem Interdisciplinar ENEM 2025: Conectando Conhecimentos para o Sucesso",
+            "bloco_id": "2875113a-91a3-8166-b51a-df939f09012a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8113-ba27-d0e9880c1b46"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-816a-8b5c-f3f2c379b1a1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81b2-9de0-c09e7b575fbf"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81df-beab-df750d528597"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8118-90e9-ef51e7d79eb1",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Química: Físico-Química e Soluções ENEM 2025",
+            "bloco_id": "2875113a-91a3-813a-86fa-c6815141b1ea"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8130-80c9-c802662173fd"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81db-a1df-ca66298f6a0f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8149-ba53-c4fc057e1155"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-818f-9572-cecc45f42a78"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-811d-a4d8-fff17db18acb",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 79,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8176-887f-ff9c75eecf9e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81dd-a24a-f7961823e15c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81c9-afca-ff9e3e11dc3b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8161-8ce1-df40c9e9b7de"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-811e-aa2f-d41495863b85",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8196-ba01-ead8cf1848a2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81cc-bd6f-cc427a4b844e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81ce-b438-c63776f48ba4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81b3-b4ea-c05f0bcbb7e3"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8125-8d71-ea0b8a171e59",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 68,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81c0-9b1f-dfe6ee4faab7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81a3-9aa3-e70a7cd57b5b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8109-95e5-fa0b1c4f6eff"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-819c-98cb-e730ad095824"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-812d-b46a-c8eae3dd12b4",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Literatura: Movimentos Literários Brasileiros ENEM 2025",
+            "bloco_id": "2875113a-91a3-81fa-8763-d41c9edd92cf"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81a7-b1b3-d9fbce5660d7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81b0-bdd7-ec14ea9fc0e3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81db-983a-c4dd8f92afc8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8106-9711-fc96b2017881"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8133-b4d1-cf5365efa50e",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Alimentação e Desempenho Cognitivo ENEM 2025",
+            "bloco_id": "2875113a-91a3-8116-bc92-d0d866d79e82"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8190-b293-e8c54bce043c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8182-bcfb-d83f58223b03"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81f8-a4b1-d0868748dac3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8107-bfbf-f9acc76ea64a"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-813a-89a5-f3657875bcb8",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 68,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8183-a37f-df8e0688d279"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8193-8d5c-df75874e1ff0"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81ee-ab79-d4662896c3c5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81a2-b463-e37c78486dd8"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8142-84a4-c98f7fa00d24",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 84,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-818c-b67d-f7076382e895"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8146-b567-dbe9a2fc0f56"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-811f-a63a-ee458b2da570"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8114-8266-cab7c1c5fff6"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8149-a348-fda83c6900ad",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8101-9bd2-f3d86b1ce51b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8148-887a-ebd2cf9e558f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-814e-87c0-cdc639701b66"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8197-8e29-dcaaaf260552"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8153-95c2-d4f7fc48584b",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 68,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8158-b1d1-e021fd7949df"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-817b-98d5-d9eb7ad19633"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-814d-8288-f420b77d183f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81d4-a88a-c733c75082cc"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8159-8ecc-e97e6ab677c9",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "erro": "'charmap' codec can't encode character '\\U0001f4d0' in position 25: character maps to <undefined>"
+      },
+      {
+        "page_id": "2855113a-91a3-8168-85c5-c0376dd7be0e",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Motivação e Perseverança nos Estudos ENEM 2025",
+            "bloco_id": "2875113a-91a3-81e4-8816-fae671f3ed19"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81a8-ae22-ccc49d484f04"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8146-b972-cc7044d01a02"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8153-b4e4-e89125791fe3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8184-8015-eb4b48e2378f"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8169-9529-cec472b04bb7",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Estatística e Probabilidade ENEM 2025",
+            "bloco_id": "2875113a-91a3-81d8-b5c7-f27f9fe7dede"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8112-bafa-de7f26a625c5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81dc-9e28-e7e3626f6396"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81b0-90c7-ec584bb3d723"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8115-86cb-c12b309da563"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-816e-97c0-c3c9d36dc940",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Geografia ENEM 2025: Geografia Física",
+            "bloco_id": "2875113a-91a3-819e-9504-c70952a173b3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-818a-88cc-f1c8ae3912ad"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81e0-aa10-ca19889653d7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-817a-a6b8-eb4d53042677"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8104-8435-dd7bbcf76b03"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8179-810d-cdd6596e512a",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "erro": "'charmap' codec can't encode character '\\U0001f4d6' in position 25: character maps to <undefined>"
+      },
+      {
+        "page_id": "2855113a-91a3-817a-9d28-dd73075e45ed",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81ec-be0a-f7a7cab875ce"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-813f-b3fe-cc1578f040d3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81b2-9682-f1103ca0d027"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-814b-be42-ebb18e206ff9"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-817d-b2c8-e9a99c88cd0b",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 81,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81a4-90b6-d6dd08daf76a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81b8-850b-e4f10714b6aa"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-810a-9b20-e48c92b0811b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81a9-aba9-ee1b2e53433e"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8185-9b1a-e6d109402d50",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81ba-a0cc-deead77b423f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8131-bd60-cadd51d48dad"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8189-bdc4-c0f510ada972"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-812b-ba69-c3dbaf19db49"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8192-a723-d8ab6ce6361b",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 24,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RESUMO EXECUTIVO",
+            "bloco_id": "2875113a-91a3-81fb-8590-c1b3b5c1cc8f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2875113a-91a3-8120-8245-e4fc56a5799a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Conceito Principal",
+            "bloco_id": "2875113a-91a3-8142-9021-d45cb0c212d3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Conceito Secundário",
+            "bloco_id": "2875113a-91a3-8161-b65b-e1e689bbf036"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Conceito Avançado",
+            "bloco_id": "2875113a-91a3-8141-8a09-c2b3caf8c2b5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2875113a-91a3-81fd-88b2-daf097219e67"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Identifique o Tipo de Questão",
+            "bloco_id": "2875113a-91a3-813c-aa3d-f1135a2e0f39"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Aplique o Conhecimento",
+            "bloco_id": "2875113a-91a3-8111-9de6-c90698e58f11"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Gerencie o Tempo",
+            "bloco_id": "2875113a-91a3-816c-a79a-df705c275a01"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: EXERCÍCIOS PRÁTICOS",
+            "bloco_id": "2875113a-91a3-81f4-af22-ce6f6d527bd3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 1: Aplicação Básica",
+            "bloco_id": "2875113a-91a3-8183-ac3f-da3897425268"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 2: Aplicação Intermediária",
+            "bloco_id": "2875113a-91a3-81b7-b27f-d0a1e23d67cb"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 3: Aplicação Avançada (Estilo ENEM)",
+            "bloco_id": "2875113a-91a3-8139-b4e9-e7c093dc3b7d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 🎥 VÍDEOS RELACIONADOS",
+            "bloco_id": "2875113a-91a3-817d-b2c3-c085e74193fa"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 📈 DICAS AVANÇADAS",
+            "bloco_id": "2875113a-91a3-8189-9ae2-e257fed3bc59"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Para Memorização:",
+            "bloco_id": "2875113a-91a3-8103-a234-ec39edf85f4c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Para Aplicação:",
+            "bloco_id": "2875113a-91a3-8127-a234-d490952f63e5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Para Revisão:",
+            "bloco_id": "2875113a-91a3-81ab-b1e8-f8d747d4098f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST RÁPIDO",
+            "bloco_id": "2875113a-91a3-8131-922d-fee872d19819"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Domínio de Conceitos:",
+            "bloco_id": "2875113a-91a3-8190-9f70-ce2503bd0d84"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Preparação para Prova:",
+            "bloco_id": "2875113a-91a3-8158-a3a1-c7cfdd17b165"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TABELA DE REFERÊNCIA RÁPIDA",
+            "bloco_id": "2875113a-91a3-81a2-96c1-cdae491e2920"
+          },
+          {
+            "tipo": "SEM_REFERENCIAS",
+            "detalhes": "Página sem referências ou fontes",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8195-b211-df327d250d3f",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 80,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Checklist Planejamento Semanal Enem 2025",
+            "bloco_id": "2875113a-91a3-81cf-9ffc-f7eaeacf8060"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-815d-b73c-f21f0e2e4865"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81ed-a332-d6ffad12d2cd"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81fb-991f-ef18cfdbfff1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8169-a030-ed1857c0c726"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-8198-9e25-fd1b73c94ba5",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Gramática Contextualizada no ENEM 2025",
+            "bloco_id": "2875113a-91a3-81cc-a2e5-f5bccf435e67"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81e3-813b-f54618cbd635"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81f2-99f4-c65422762366"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8111-87ad-d7c52730dfc0"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81f2-bc9a-e99b037f400d"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81aa-b190-d13087215897",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 27,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: REPÚBLICA VELHA (1889-1930)",
+            "bloco_id": "2875113a-91a3-813c-ad2c-c18fbe13fd22"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Proclamação da República (1889)",
+            "bloco_id": "2875113a-91a3-81de-b086-c88bef7250d8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Política do Café com Leite",
+            "bloco_id": "2875113a-91a3-8181-8441-c7e0aa49dcb9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Movimentos Sociais",
+            "bloco_id": "2875113a-91a3-81e8-b0af-c2fe44421290"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ERA VARGAS (1930-1945)",
+            "bloco_id": "2875113a-91a3-8184-9851-c55861257128"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Revolução de 1930",
+            "bloco_id": "2875113a-91a3-81de-93af-d021536a30e6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Governo Provisório (1930-1934)",
+            "bloco_id": "2875113a-91a3-81ef-94aa-cf3575576fc0"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Estado Novo (1937-1945)",
+            "bloco_id": "2875113a-91a3-8152-a58b-f49783d7bac1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: REPÚBLICA POPULISTA (1945-1964)",
+            "bloco_id": "2875113a-91a3-81e0-a4fc-c5cbf4ce2979"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Redemocratização (1945)",
+            "bloco_id": "2875113a-91a3-81c4-b0ee-f36f2c25c9a3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Segundo Governo Vargas (1951-1954)",
+            "bloco_id": "2875113a-91a3-818e-9747-d445dbb7e07a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. JK e o Desenvolvimentismo",
+            "bloco_id": "2875113a-91a3-81ba-a9c2-fa004dbc29d1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DITADURA MILITAR (1964-1985)",
+            "bloco_id": "2875113a-91a3-8115-859d-fd8f8504c3ae"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Golpe de 1964",
+            "bloco_id": "2875113a-91a3-81e8-940f-fa77a139635e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Anos de Chumbo (1968-1974)",
+            "bloco_id": "2875113a-91a3-81f0-bc60-ed11083e3023"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Abertura Política (1974-1985)",
+            "bloco_id": "2875113a-91a3-8160-93f3-f798e644d5a6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: NOVA REPÚBLICA (1985-ATUAL)",
+            "bloco_id": "2875113a-91a3-81ca-b4c9-ee277cbaa5df"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Redemocratização",
+            "bloco_id": "2875113a-91a3-81de-9d83-ff609304b5bf"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Governos Recentes",
+            "bloco_id": "2875113a-91a3-81a4-ab6e-df73a4e16414"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2875113a-91a3-8183-a004-d98593b763d5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Identifique o Período",
+            "bloco_id": "2875113a-91a3-8143-8cf7-d0640b72738d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Use Contexto Histórico",
+            "bloco_id": "2875113a-91a3-8190-86dc-d3fe0dfe80ab"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Aplique Conceitos",
+            "bloco_id": "2875113a-91a3-81ac-906e-da0e5c88b77e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 🎥 VÍDEOS RELACIONADOS",
+            "bloco_id": "2875113a-91a3-8165-ac04-eb3c64628e84"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 📈 DICAS AVANÇADAS",
+            "bloco_id": "2875113a-91a3-81ce-bab0-e8409ab28816"
+          },
+          {
+            "tipo": "SEM_REFERENCIAS",
+            "detalhes": "Página sem referências ou fontes",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81ab-b517-d782098f4d58",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 79,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81ec-925e-d7e8d2cb7c3e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-816b-9964-eddbcd663731"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81e7-8c18-f672178727f4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-811d-b57f-debdb546b4bc"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81b1-bacd-e1500e1918f9",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 88,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8171-8d9e-f7d3411139d1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81eb-a9e6-c4f9029dfa64"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8119-858a-c8336bb20822"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-813d-b1ef-e44941a0d293"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81b3-9728-fb38eaed84ec",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 80,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Checklist Formulas Matematicas Enem 2025",
+            "bloco_id": "2875113a-91a3-812a-ab23-e7aacf99d22f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-818d-956b-ec11043576d4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-818c-b273-d5775002c372"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8130-bebe-fddb2e616b7a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8113-a1ce-e2c8d2f093e1"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81b8-a273-e1ec9f61bb3e",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 80,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Checklist Resolucao Problemas Enem 2025",
+            "bloco_id": "2875113a-91a3-81d8-9631-eacc3236c8fb"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-817a-8eff-df4ae3bcd0b7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81d2-83c1-c84629cbb6eb"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81d8-94c6-d46c1f3e22af"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8149-8acb-d5ac1b497532"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81bc-8d59-fd05ab1217d6",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 80,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Checklist Formulas Fisica Enem 2025",
+            "bloco_id": "2875113a-91a3-81ba-a038-c79245320758"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81b9-9aa7-e68decdb0ab1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81f8-89d1-ccde9919fb8e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-815b-b1af-c22fe4d4ae5a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-817e-99fc-cb24deadeeef"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81c1-8d26-e67fc52b6218",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 68,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81c0-ae01-e808ef1fed72"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81e1-8d1b-c77287b849f2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81eb-b3f7-dbd7817f8ae8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-816b-968a-c2c622a77d86"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81ca-90d8-f703c8485051",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Funções e Gráficos ENEM 2025",
+            "bloco_id": "2875113a-91a3-8107-80bb-e3674eb5fd7e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81bf-988e-d2fa69ac5ba2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81b5-8d23-f1c72e9ce057"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81e4-acf1-e72cdeadd286"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81f9-833e-db5365b0fe42"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81ce-9d08-fa9a0a37998d",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 68,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Biologia ENEM 2025: Genética e Evolução - Guia Completo para Nota Máxima",
+            "bloco_id": "2875113a-91a3-815b-9ddc-f796a87049fd"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81b7-b1a9-ff6a93951cbb"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-815e-affa-ffe5af935e17"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81d9-b4ff-e78e324be68d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8187-bd73-d30758941cf0"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81d2-a78d-c9ed691251df",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 80,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Checklist Saude Mental Enem 2025",
+            "bloco_id": "2875113a-91a3-8184-b761-d148db9ee1d7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-814b-9fe2-fb8d98780449"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-818b-9c15-fef7aaa74a95"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81fa-a227-ed6dfe446655"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81e4-b831-e090c30d1650"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81d5-b2db-e55b465c864c",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-812e-b519-f7207449a6c9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8158-916f-c74672ef76e4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-818a-b985-ff4b68c634ff"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81aa-ad5d-f153b5237f64"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81d5-b3e7-d6c4d8799411",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 72,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Física ENEM 2025: Ondas e Energia - Guia Completo para Nota Máxima",
+            "bloco_id": "2875113a-91a3-81fd-98a6-de584e336882"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8148-8d00-d1bd91bcb564"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-816e-8595-eee66fa3152c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8194-b331-f27789564c4c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8101-a60b-c9acfaf9fc6d"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81de-98b6-f33ee182b6d3",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 79,
+        "total_problemas": 5,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-810b-8385-e1ffe2214130"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8199-8826-c33f3fa526fd"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81d6-b900-f99e9a9aa88a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8143-8e68-dec05f960595"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81e0-93f8-d88bface537e",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 24,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RESUMO EXECUTIVO",
+            "bloco_id": "2875113a-91a3-8166-b1f5-dc98cf4a37b9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2875113a-91a3-81c5-b6f5-e260074e9601"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Conceito Principal",
+            "bloco_id": "2875113a-91a3-8166-a0e0-c35f3cc77000"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Conceito Secundário",
+            "bloco_id": "2875113a-91a3-8139-a034-e71f20c5056f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Conceito Avançado",
+            "bloco_id": "2875113a-91a3-8125-8c3d-edb0d0e24a68"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2875113a-91a3-813a-b24e-dfddd908f737"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Identifique o Tipo de Questão",
+            "bloco_id": "2875113a-91a3-8123-accf-fefd7ea61d26"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Aplique o Conhecimento",
+            "bloco_id": "2875113a-91a3-81d3-9503-f4ee40bfd5d9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Gerencie o Tempo",
+            "bloco_id": "2875113a-91a3-81e9-9288-d7f39fc85bf6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: EXERCÍCIOS PRÁTICOS",
+            "bloco_id": "2875113a-91a3-8114-a787-c0e6dcd2ee3c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 1: Aplicação Básica",
+            "bloco_id": "2875113a-91a3-8136-890b-d1b5b9dff2f2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 2: Aplicação Intermediária",
+            "bloco_id": "2875113a-91a3-81dc-9dae-cf047dbd55de"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Exercício 3: Aplicação Avançada (Estilo ENEM)",
+            "bloco_id": "2875113a-91a3-81ac-88f8-d0c7134a52dd"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 🎥 VÍDEOS RELACIONADOS",
+            "bloco_id": "2875113a-91a3-813d-af7e-fe6125189304"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 📈 DICAS AVANÇADAS",
+            "bloco_id": "2875113a-91a3-8130-a215-fd112c7404a3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. Para Memorização:",
+            "bloco_id": "2875113a-91a3-8143-b54a-fc5ae11e8e32"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. Para Aplicação:",
+            "bloco_id": "2875113a-91a3-81e5-96c7-d880e2750597"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. Para Revisão:",
+            "bloco_id": "2875113a-91a3-8177-b477-d8cf7594d1d2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST RÁPIDO",
+            "bloco_id": "2875113a-91a3-817f-b6a8-dea0db294c4a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Domínio de Conceitos:",
+            "bloco_id": "2875113a-91a3-814d-92f1-c5e9de6f3181"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Preparação para Prova:",
+            "bloco_id": "2875113a-91a3-8187-aa0c-eb81198d8b32"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TABELA DE REFERÊNCIA RÁPIDA",
+            "bloco_id": "2875113a-91a3-81a6-832d-c48e66cbee76"
+          },
+          {
+            "tipo": "SEM_REFERENCIAS",
+            "detalhes": "Página sem referências ou fontes",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81e9-8feb-de67e7000b0a",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 80,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Checklist Revisao Mensal Enem 2025",
+            "bloco_id": "2875113a-91a3-8118-8078-ee95dd364af0"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-8185-9f78-f17691b08314"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81fb-b0db-f1d3c0565a14"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-818e-9aa1-cc9481d3aa94"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8128-aa6c-c28300d7ca2e"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81ea-9960-ed902d0489e0",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 80,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Checklist Conceitos Sociologicos Enem 2025",
+            "bloco_id": "2875113a-91a3-8188-95fe-e0a85bf81a86"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-817f-b4a4-c5693f17dc8d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-81f8-b968-c1495ae9aadd"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81c2-b890-f0b0e9678e3f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81af-bb63-c362c4f0c06e"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81ef-a2cc-f5348ac6c88c",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 64,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Língua Estrangeira: Estratégias de Leitura ENEM 2025",
+            "bloco_id": "2875113a-91a3-8139-94e7-fc44a9f4770a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-817b-847d-fe941e3c22f4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-814a-9437-d18315e82042"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-8102-b313-ff3278717ee4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81d8-ab15-d874e00aefef"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2855113a-91a3-81f8-bb8b-da1f92351ffd",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 84,
+        "total_problemas": 6,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Sistema de Monitoramento de Progresso ENEM 2025: Acompanhe sua Evolução",
+            "bloco_id": "2875113a-91a3-8117-8fb1-cb778aa9c7ce"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Resumo Executivo",
+            "bloco_id": "2885113a-91a3-81a2-ba23-ee5c4b27510c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Contexto",
+            "bloco_id": "2885113a-91a3-8197-8b6e-d5669412b94d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Aplicacao Pratica",
+            "bloco_id": "2885113a-91a3-81d7-b2da-cfff3881968c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-813b-b756-db6223c8d309"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8100-a426-e7c20c4fd8e0",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-81dd-a4af-db26d1a85f83"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-8100-adc6-d9f7af329cd3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-8181-b493-c191d1318b5c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-8106-ada5-e877d1f924cb"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-81ce-8296-ca793b793307"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-810a-9e11-fa401c89fcc6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-8112-9ee7-c999334298f8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-8193-8cbe-cf2161829ee5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-810c-b86e-eeeb4c349fcf"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8106-b18b-dca2288a4e5e",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-8108-9223-dc8e4fef8161"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-8178-9d6b-e8c827a201e7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-8174-a48f-f0b347553318"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-81d9-b50f-ca9aa018667b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-812d-bf0b-c1377c2c88ee"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-81e7-ac92-ce8e52d50f24"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-816a-8c5c-d5b7ff5891a3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-810b-a9ba-cad2134df187"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8109-9e01-da2bf17ce7f1"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-810c-a686-fd70b1468ff6",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 37,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81c0-ad93-df53f21c619c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81c9-a0b5-e40d7c686817"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-8181-9810-df2fcc7c51d0"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-810f-913b-d989e4045879",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 2,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: PASSO 3: REVISÃO RÁPIDA",
+            "bloco_id": "2885113a-91a3-81a9-9fac-ebf0960d1629"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8118-8043-f2dcebb8cedd",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81e8-a258-d1c2bf75a958"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81b1-b412-f0881e6edd52"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81a7-a03a-c1a092090ca3"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8148-ad83-e7bf122d06bd"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8105-9617-f151711ed0d9"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8199-ab36-ef4f77d2dc07"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81d3-9159-dbc85868ed3d"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8132-bd5f-f446fbc63be9"
+          },
+          {
+            "tipo": "SEM_REFERENCIAS",
+            "detalhes": "Página sem referências ou fontes",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8119-b010-d9a8277b12d1",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-81c3-81d3-e1aea61f95b6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-81c8-a193-d7a72f69a3cc"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-8168-ad86-dfcfad0c6817"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-810a-98ad-e9fc94c39d0a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-816e-9f87-e0b8fc60cc1e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-8135-ba25-e985d2ecc8c1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-81a1-8b66-e076b86be0f2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-815d-927c-dc8a3482e3e1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8189-ba9b-fe46d0a3ffd2"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-811a-a063-fdb345b93382",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81d2-8daf-c8cfb915bb5c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8181-b598-e26788cadcce"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-8103-a3ad-e720e8cb7851"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-811c-8b58-fd0263f90b12",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 2,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: PASSO 3: REVISÃO RÁPIDA",
+            "bloco_id": "2885113a-91a3-8132-9443-dd6dbe3bab4d"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-811f-b5fe-e31bf8e916da",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 38,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81a7-aa19-f872243fc6d8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81e5-abcc-f91a379ec471"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-8145-aba5-eefee731c7fd"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8120-b303-f365add741d2",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-81ec-9727-e52e03475f2b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-81c4-bdd6-e6cd5b743337"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-8193-b25b-d27ed20f49b7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-81c1-910c-c3a1940c1e82"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-8194-b298-c533a2ae788b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-8157-b508-f6ad6b3e2a0d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-81e6-8a75-c4a9c1ee796c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-812d-84d5-ffb378119163"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8198-9e01-f23a31e53363"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8123-ad48-cdca09f33508",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 2,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: PASSO 3: REVISÃO RÁPIDA",
+            "bloco_id": "2885113a-91a3-81d6-a4ca-e33e76588fa8"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8126-8bd5-e7836fd53493",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 43,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-812a-acbb-ca8f121bdb8b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81a0-904e-d21582eceb5e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-81d5-9977-ffd19358d7c9"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8126-ba05-d2669cb8cf02",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-81cc-ba16-f8ea394c9272"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-81cd-98a4-dd3c4df0a225"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-8111-8771-f4ea905fb079"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-8118-9b0e-cd9951885be5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-81d9-9887-ccb20ad18c08"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-8165-9226-e162fd929e8b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-814d-b5bc-caebc899f08c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-8193-a1c9-d40cc75bca2b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-816a-94a4-c99c2eacc593"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-812a-88b1-f9dd4edda40a",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-8122-aed8-cdd7c21eef2e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-812e-a7e4-c3c02608ca9f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-81b0-9ea5-cd281a268a2c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-81b9-b814-ca06a2381132"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-8168-8d8d-ec5ecded9d30"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-81ae-b44d-d1d5c6aefcc7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-813a-bfa5-ef130714c342"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-819a-be2d-e8c01173864c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-815e-9b60-d1930e2f33ca"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-812a-89cc-fc02dc416683",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-8188-89cf-c4efaf254cf9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-81dc-b6a4-ce2158416519"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-81c7-9139-e8b5d52e678a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-81d6-8a45-cfcd2ad6966b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-8104-85d1-ce2a10574af6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-81c9-af9d-faecf347589c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-814b-8d43-ce05a31a6d0d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-8190-b370-c4b9132e697c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81c7-a745-c0b5adfdc6ca"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8130-a3c0-ec6f63b7463d",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-8131-9c71-dc5a52784428"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-8185-9472-dfc5599c1c81"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-81e1-a723-dfb4617e4f6a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-814a-b4c3-c37c14401d49"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-810a-9ddf-cc6a70ddad47"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-8197-89e2-c98461c2de3a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-8146-a728-cc190ae1bcc2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-81e9-8aee-e1824d08082b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8172-826a-e51382233d79"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8132-86da-e669f23a6ca6",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 49,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8181-8988-ec83a5d40fc4"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8152-8fa3-c35da4f2a13f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-8190-a84d-ea90515c816a"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8136-8e29-cf7c1edab59d",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8155-b7fd-e07391a7ee4a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-818e-9f2a-cb1aac874100"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-8153-88e3-fd36acc8d579"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8139-871b-f6052af5ab56",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81d9-a2ac-dd4c21f77ab8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8158-9e71-dc4cc271e0ee"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-814a-8fd7-e0ac1829c65e"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-813a-ad83-e1a2bd87f5a6",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 19,
+        "problemas": [
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8163-9a0d-f3891ace159c"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8117-b377-c69637bea54d"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-810d-924d-fcd11b7cf7ca"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8118-8ca3-d9714e186d84"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8127-8743-e28c7f995706"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8107-98d5-ec9539d67171"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO PRATICA",
+            "bloco_id": "2885113a-91a3-81d8-a189-e41b25aba83d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-81d0-bbe7-fc82fdbac98b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-81b0-b8f4-f20c5d53f9a5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-810f-b24e-f702b38cbfc3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-81ba-8a5a-df635ed9e2c6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-81dd-babd-f1f7a9b74881"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-81e1-8e97-e83948849858"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-8186-95a9-ee0fa3f587cb"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-819e-8f38-f10dabf5edfe"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO PRATICA",
+            "bloco_id": "2895113a-91a3-81e6-b5f7-d7a43b74fa3e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Questao 2: Aplicacao Pratica",
+            "bloco_id": "2895113a-91a3-816c-8c4e-c8ce074cba4c"
+          },
+          {
+            "tipo": "SEM_REFERENCIAS",
+            "detalhes": "Página sem referências ou fontes",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-813b-b380-e2b1999b6896",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 2,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: PASSO 3: REVISÃO RÁPIDA",
+            "bloco_id": "2885113a-91a3-810a-b3ba-dd5290e5b8f7"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-813d-8dc2-c7ac3ca4d8bb",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-8141-95a3-f40fc24c5917"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-816f-b2bc-cf3afd32bef1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-8173-80e3-f9ace367f8ba"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-8193-a9c7-c08e41df51cf"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-81c7-9d0c-edf05c54f23d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-8162-99ef-d18ff6e7499d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-810b-9859-eb93def4e4c1"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-81b3-a936-c1e0e172a6b2"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81b7-99fa-c0a2e23cfa3f"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-813e-8c30-cbe014c9f1dc",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-810d-959c-c2a0905ff4f7"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-817a-835d-da7e0e8bb1c9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-81f0-a0f8-eb76317c5b24"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8140-8cbc-f5a10270d24e",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 4,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8114-b9cb-f24d15aa8339"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8150-b153-d869a1a9c055"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-810a-ac73-c06720c8a5f0"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8141-8ded-c5d8ae8fcb39",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-81aa-9909-c57dd8dc8733"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-813b-88db-e8ee92829b3f"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-81cb-8bbe-deee700bcb32"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-812b-8128-e8eaeaa1876b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-8169-8618-c2089c6cbf63"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-8125-9a0d-ec51ad80e502"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-8143-ba5f-cf11aa1301e9"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-81cd-a461-f4df037268b3"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-81ef-a02e-cdd48fad8aa7"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-8147-9cb5-f27ef14d4c04",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: TOPICOS ESSENCIAIS",
+            "bloco_id": "2885113a-91a3-8170-a338-f141a566274d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 1. CONCEITOS FUNDAMENTAIS",
+            "bloco_id": "2885113a-91a3-81ad-98b7-c3d0afa4797d"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 2. APLICAÇÕES PRÁTICAS",
+            "bloco_id": "2885113a-91a3-81dd-b6a9-fed4230c58f8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: 3. ESTRATÉGIAS DE RESOLUÇÃO",
+            "bloco_id": "2885113a-91a3-8144-a07e-f0b189bfe3a5"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: CHECKLIST DE PREPARACAO",
+            "bloco_id": "2885113a-91a3-8187-9329-d2bc07aaadca"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: ANTES DA PROVA:",
+            "bloco_id": "2885113a-91a3-8125-aa5c-ea9fea237596"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: DURANTE A PROVA:",
+            "bloco_id": "2885113a-91a3-8114-8802-da3beb628cfc"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: GESTÃO DE TEMPO:",
+            "bloco_id": "2885113a-91a3-818f-b88c-d71afd873d34"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8193-87c5-cad21913597d"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-814a-ad35-d2f7b362ace0",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 10,
+        "problemas": [
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81e0-a542-f56e026ae7fa"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81fd-8b55-cb05b6b9fa67"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8182-b0f1-c5d9fb802f49"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-818c-b54f-d80eec28c7cc"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8124-90f4-c7cf5a99a752"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8149-90fc-dbb7c684df2f"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81df-aad2-c932c53fa986"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-814b-9aac-f17fa8990b99"
+          },
+          {
+            "tipo": "SEM_REFERENCIAS",
+            "detalhes": "Página sem referências ou fontes",
+            "bloco_id": null
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-814b-88e2-c0e223ce65da",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 18,
+        "problemas": [
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81b5-9bb2-c1d46e3257f9"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-81fe-8009-c4d9f0ca4c74"
+          },
+          {
+            "tipo": "MARKDOWN_PROBLEMATICO",
+            "detalhes": "Markdown problemático: ```...",
+            "bloco_id": "2885113a-91a3-8132-8f61-ea788927a999"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8175-ac65-c8b72c4d7646"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-815b-b553-de93dca93e47"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: VIDEOS RELACIONADOS",
+            "bloco_id": "2885113a-91a3-8195-bc0c-c5bfb53f4e0b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO PRATICA",
+            "bloco_id": "2885113a-91a3-81cc-a9a7-d00709edc6a8"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-81be-a9c9-e02045a2320e"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-8102-9e06-f9c44dc337ea"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-81f0-be8f-dbe5dfd77c38"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-813d-9634-e50e5b30dc5c"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-8101-8942-d546a28f33c6"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-81e9-b43a-d82b85d5acca"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: RECURSOS",
+            "bloco_id": "2885113a-91a3-81be-8789-e3a156dbbc5a"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO",
+            "bloco_id": "2885113a-91a3-8109-8d7d-e757b530936b"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: APLICACAO PRATICA",
+            "bloco_id": "2895113a-91a3-8142-b211-cd07c5c7c549"
+          },
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: Questao 1: Analise e Reflexao",
+            "bloco_id": "2895113a-91a3-8133-8b51-d344e17a926a"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      },
+      {
+        "page_id": "2885113a-91a3-814d-b58a-c55ea0bc36d8",
+        "page_title": "Sem título",
+        "database": "Editorial Pré-ENEM",
+        "total_blocos": 100,
+        "total_problemas": 2,
+        "problemas": [
+          {
+            "tipo": "TITULO_SEM_CONTEUDO",
+            "detalhes": "Título sem conteúdo: PASSO 3: REVISÃO RÁPIDA",
+            "bloco_id": "2885113a-91a3-816f-833e-e551f3aff49c"
+          },
+          {
+            "tipo": "COERENCIA_BAIXA",
+            "detalhes": "Baixa coerência título-conteúdo: 0.0%",
+            "bloco_id": null
+          }
+        ],
+        "score_coerencia": 0.0
+      }
+    ]
+  }
+}

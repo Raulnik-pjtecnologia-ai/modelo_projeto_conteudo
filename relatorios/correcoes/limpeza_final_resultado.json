@@ -1,0 +1,24 @@
+{
+  "removidos": [
+    "analisar_conteudos_pendentes.py",
+    "analisar_conteudo_notion_completo.py",
+    "comparar_local_notion.py",
+    "corrigir_notion.py",
+    "corrigir_urls_videos_reais.py",
+    "debug_erro_gestao.py",
+    "limpar_duplicatas.py",
+    "sincronizar_13_alta_relevancia.py",
+    "sincronizar_alta_relevancia_final.py",
+    "sincronizar_alta_relevancia_simples.py",
+    "sincronizar_conteudos_alta_relevancia.py",
+    "sync_completo_oficial.py",
+    "sync_notion_final.py",
+    "sync_rapido.py",
+    "sync_substituir_completo.py",
+    "verificar_sincronizacao_completa.py"
+  ],
+  "mantidos": [
+    "limpar_estrutura_completa.py",
+    "limpeza_final_agressiva.py"
+  ]
+}

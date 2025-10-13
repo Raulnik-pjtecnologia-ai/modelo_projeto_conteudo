@@ -1,0 +1,6422 @@
+{
+  "database_name": "Editorial Pré-ENEM",
+  "data_verificacao": "12/10/2025 17:02:59",
+  "paginas_com_problemas": [
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a38037aca6e8f4c1a9e84f",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a3806fa0abfeb06eafde98",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a3810bb647e10963c83524",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "video",
+          "url": "https://www.youtube.com/watch?v=example1",
+          "video_id": null,
+          "status": "INVALIDO",
+          "detalhes": {
+            "mensagem": "URL nao e do YouTube ou invalida"
+          }
+        },
+        {
+          "tipo": "video",
+          "url": "https://www.youtube.com/watch?v=example2",
+          "video_id": null,
+          "status": "INVALIDO",
+          "detalhes": {
+            "mensagem": "URL nao e do YouTube ou invalida"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a38112a314ccea441781fb",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a381298eadf547059a6a61",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a3814f9bbffa0ceb700ac6",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a3815da3abc521b1bc1de4",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a38172b405e315b96897a7",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a3818ca0d4cc051e2dd28b",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a381d3bfcfdac7dd31a6e3",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a381daa7fafef93d3bbe32",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a381ecad4ada983f2616dd",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a381f4819bd188f49930ab",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/26a5113a91a381febdaacf08b4f71ab5",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2705113a91a3806eb5ccd090a5df49b2",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2705113a91a381ee9c22e89f72812350",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2705113a91a381f78505d10bcddffe7c",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2775113a91a38055aa64f44db7c10609",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2775113a91a380adbabdd0932f3acca0",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/27e5113a91a38167bc9be19550dc07dc",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/27e5113a91a381a4b631fb86080feb20",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/27f5113a91a3817bb018f997ace59629",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/27f5113a91a381af9a7af60ed50b5c32",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2815113a91a3813c9e83fde49dbc8b29",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2815113a91a38154b95bf93aa7d777da",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2815113a91a3817fb45efa48b28b4152",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2815113a91a381c0bec8ccf2208fa5aa",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2815113a91a381c6b70dfabfff9f81f6",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2815113a91a381c7a1b4deb633769372",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2815113a91a381f39908ce9c915571fd",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a38113b569f4fc81240652",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3811890e9ef51e7d79eb1",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3811da4d8fff17db18acb",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3811eaa2fd41495863b85",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381258d71ea0b8a171e59",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3812db46ac8eae3dd12b4",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a38133b4d1cf5365efa50e",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3813a89a5f3657875bcb8",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3814284a4c98f7fa00d24",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a38149a348fda83c6900ad",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3815395c2d4f7fc48584b",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381598ecce97e6ab677c9",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3816885c5c0376dd7be0e",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381699529cec472b04bb7",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3816e97c0c3c9d36dc940",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a38179810dcdd6596e512a",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3817a9d28dd73075e45ed",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a3817db2c8e9a99c88cd0b",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381859b1ae6d109402d50",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a38195b211df327d250d3f",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381989e25fd1b73c94ba5",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381abb517d782098f4d58",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381b1bacde1500e1918f9",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381b39728fb38eaed84ec",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381b8a273e1ec9f61bb3e",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381bc8d59fd05ab1217d6",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381c18d26e67fc52b6218",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381ca90d8f703c8485051",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381ce9d08fa9a0a37998d",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381d2a78dc9ed691251df",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381d5b2dbe55b465c864c",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381d5b3e7d6c4d8799411",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381de98b6f33ee182b6d3",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381e98febde67e7000b0a",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381ea9960ed902d0489e0",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381efa2ccf5348ac6c88c",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2855113a91a381f8bb8bda1f92351ffd",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a3810ca686fd70b1468ff6",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a3811aa063fdb345b93382",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a3811fb5fee31bf8e916da",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a381268bd5e7836fd53493",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a3813286dae669f23a6ca6",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a381368e29cf7c1edab59d",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a38139871bf6052af5ab56",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a3813aad83e1a2bd87f5a6",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a3813e8c30cbe014c9f1dc",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a381408cbcf5a10270d24e",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=kR6vG7QBtKc",
+          "video_id": "kR6vG7QBtKc",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    },
+    {
+      "titulo": "Sem título",
+      "url": "https://www.notion.so/2885113a91a3814b88e2c0e223ce65da",
+      "videos_problematicos": [
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=3T7jMcstjKQ",
+          "video_id": "3T7jMcstjKQ",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        },
+        {
+          "tipo": "embed",
+          "url": "https://www.youtube.com/watch?v=1eXnBo3YxXk",
+          "video_id": "1eXnBo3YxXk",
+          "status": "ERRO",
+          "detalhes": {
+            "status": "ERRO",
+            "mensagem": "Status code: 404"
+          }
+        }
+      ]
+    }
+  ]
+}

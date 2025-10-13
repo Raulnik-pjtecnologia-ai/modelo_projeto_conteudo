@@ -1,0 +1,53 @@
+{
+  "arquivos": [
+    "sync_checkpoint.json",
+    "plano_sincronizacao_notion.json",
+    "relatorio_conversao_markdown_richtext.json",
+    "relatorio_correcao_urls_videos.json",
+    "relatorio_validacao_urls_youtube.json",
+    "relatorio_analise_notion_completa.json",
+    "verificacao_duplicatas.json",
+    "verificacao_completa_notion.json",
+    "limpeza_duplicatas_resultado.json",
+    "limpeza_arquivos_locais_resultado.json",
+    "p1_resultado.json",
+    "p2_resultado.json",
+    "p3_resultado.json",
+    "RELATORIO_FINAL_ANALISE_CONVERSAO_EDITORIAL.md",
+    "RESUMO_EXECUTIVO_CONVERSAO.md",
+    "INSTRUCOES_PROXIMOS_PASSOS.md"
+  ],
+  "scripts": [
+    "converter_markdown_para_rich_text.py",
+    "corrigir_titulos_duplicados.py",
+    "enriquecer_videos_com_mcp_youtube.py",
+    "validar_urls_videos_youtube.py",
+    "analisar_e_sincronizar_notion_inteligente.py",
+    "sincronizar_notion_completo.py",
+    "sincronizar_notion_teste.py",
+    "sync_notion_lotes.py",
+    "sync_completo_final.py",
+    "step1_limpar_paginas_notion.py",
+    "step2_inserir_conteudo_notion.py",
+    "sync_arquivar_criar.py",
+    "sync_notion_biblioteca_oficial.py",
+    "sync_overnight_robusto.py",
+    "sync_atualizar_direto.py",
+    "sync_lotes_checkpoint.py",
+    "sync_completo_automatico.py",
+    "completar_sync_automatico.py",
+    "desarquivar_e_atualizar.py",
+    "verificar_formatacao_notion.py",
+    "verificar_notion_completo.py",
+    "processo1_limpar_arquivadas.py",
+    "processo1_limpar_duplicatas.py",
+    "processo2_adicionar_videos_embed.py",
+    "processo3_corrigir_headings_pre_enem.py",
+    "verificar_duplicatas_completo.py",
+    "limpar_duplicatas_notion.py",
+    "limpar_arquivos_duplicados_locais.py"
+  ],
+  "pastas": [
+    "EDITORIAL_GESTAO"
+  ]
+}

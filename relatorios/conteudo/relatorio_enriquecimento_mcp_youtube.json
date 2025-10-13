@@ -1,0 +1,260 @@
+{
+  "data_execucao": "2025-10-09T19:26:03.594750",
+  "total_arquivos_processados": 42,
+  "total_videos_adicionados": 12,
+  "videos_por_arquivo": [
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\abordagem_interdisciplinar_enem_2025.md",
+      "titulo": "Abordagem Interdisciplinar ENEM 2025: Conectando Conhecimentos para o Sucesso",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\alimentacao_desempenho_cognitivo_enem_2025.md",
+      "titulo": "Alimentação e Desempenho Cognitivo ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\atualidades_temas_recorrentes_enem_2025.md",
+      "titulo": "Atualidades: Temas Recorrentes no ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\bem_estar_saude_mental_enem_2025.md",
+      "titulo": "Bem-Estar e Saúde Mental ENEM 2025: Mantenha o Equilíbrio Durante a Preparação",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\biologia_ecologia_meio_ambiente_enem_2025.md",
+      "titulo": "Biologia: Ecologia e Meio Ambiente ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\biologia_enem_2025_genetica_evolucao.md",
+      "titulo": "Biologia ENEM 2025: Genética e Evolução - Guia Completo para Nota Máxima",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_conceitos_sociologicos_enem_2025.md",
+      "titulo": "Checklist de Conceitos Sociológicos Essenciais ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_datas_historicas_enem_2025.md",
+      "titulo": "Checklist de Datas Históricas Importantes ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_formulas_fisica_enem_2025.md",
+      "titulo": "Checklist de Fórmulas Essenciais de Física ENEM 2025",
+      "videos_adicionados": 3,
+      "status": "enriquecido"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_formulas_matematicas_enem_2025.md",
+      "titulo": "Checklist de Fórmulas Matemáticas ENEM 2025",
+      "videos_adicionados": 3,
+      "status": "enriquecido"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_interpretacao_texto_enem_2025.md",
+      "titulo": "Checklist de Interpretação de Texto ENEM 2025",
+      "videos_adicionados": 3,
+      "status": "enriquecido"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_planejamento_semanal_enem_2025.md",
+      "titulo": "Checklist de Planejamento Semanal ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_reacoes_quimicas_enem_2025.md",
+      "titulo": "Checklist de Reações Químicas Importantes ENEM 2025",
+      "videos_adicionados": 3,
+      "status": "enriquecido"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_resolucao_problemas_enem_2025.md",
+      "titulo": "Checklist de Resolução de Problemas ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_revisao_mensal_enem_2025.md",
+      "titulo": "Checklist de Revisão Mensal ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\checklist_saude_mental_enem_2025.md",
+      "titulo": "Checklist de Saúde Mental ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\cronograma_estudos_ideal_enem_2025.md",
+      "titulo": "Cronograma de Estudos Ideal para o ENEM 2025: Planejamento Completo",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\estatistica_probabilidade_enem_2025.md",
+      "titulo": "Estatística e Probabilidade ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\estrategias_estudo_enem_2025_guia_completo.md",
+      "titulo": "Estratégias de Estudo ENEM 2025: Guia Completo para Máximo Desempenho",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\filosofia_etica_politica_enem_2025.md",
+      "titulo": "Filosofia ENEM 2025: Ética e Política",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\fisica_enem_2025_ondas_energia.md",
+      "titulo": "Física ENEM 2025: Ondas e Energia - Guia Completo para Nota Máxima",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\fisica_enem_2025_ondas_e_energia.md",
+      "titulo": "Física ENEM 2025: Ondas e Energia - Guia Completo para Nota Máxima",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\fisica_mecanica_leis_newton_enem_2025.md",
+      "titulo": "Física: Mecânica e Leis de Newton ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\funcoes_graficos_enem_2025.md",
+      "titulo": "Funções e Gráficos ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\geografia_enem_2025_geografia_fisica.md",
+      "titulo": "Geografia ENEM 2025: Geografia Física - Guia Completo para Nota Máxima",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\geografia_fisica_enem_2025.md",
+      "titulo": "Geografia ENEM 2025: Geografia Física",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\geopolitica_globalizacao_enem_2025.md",
+      "titulo": "Geopolítica e Globalização ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\gramatica_contextualizada_enem_2025.md",
+      "titulo": "Gramática Contextualizada no ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\historia_brasil_republica_enem_2025.md",
+      "titulo": "História ENEM 2025: Brasil República",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\historia_enem_2025_brasil_republica.md",
+      "titulo": "História ENEM 2025: Brasil República - Guia Completo para Nota Máxima",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\lingua_estrangeira_estrategias_leitura_enem_2025.md",
+      "titulo": "Língua Estrangeira: Estratégias de Leitura ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\lingua_portuguesa_enem_top10_topicos.md",
+      "erro": "'charmap' codec can't encode character '\\U0001f4d6' in position 41: character maps to <undefined>",
+      "status": "erro"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\literatura_movimentos_literarios_enem_2025.md",
+      "titulo": "Literatura: Movimentos Literários Brasileiros ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\matematica_enem_formulas_essenciais.md",
+      "titulo": "📐 MATEMÁTICA NO ENEM: FÓRMULAS ESSENCIAIS E COMO APLICÁ-LAS",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\matematica_financeira_enem_2025.md",
+      "titulo": "Matemática Financeira para o ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\motivacao_perseveranca_estudos_enem_2025.md",
+      "titulo": "Motivação e Perseverança nos Estudos ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\quimica_enem_2025_organica_essencial.md",
+      "titulo": "Química ENEM 2025: Orgânica Essencial - Guia Completo para Nota Máxima",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\quimica_fisico_quimica_solucoes_enem_2025.md",
+      "titulo": "Química: Físico-Química e Soluções ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\rotina_sono_estudantes_enem_2025.md",
+      "titulo": "Rotina de Sono para Estudantes ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\sistema_monitoramento_progresso_enem_2025.md",
+      "titulo": "Sistema de Monitoramento de Progresso ENEM 2025: Acompanhe sua Evolução",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\sociologia_enem_2025_movimentos_sociais.md",
+      "titulo": "Sociologia ENEM 2025: Movimentos Sociais - Guia Completo para Nota Máxima",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    },
+    {
+      "arquivo": "modelo_projeto_conteudo\\2_conteudo\\02_conteudos_prontos\\trigonometria_aplicada_enem_2025.md",
+      "titulo": "Trigonometria Aplicada ENEM 2025",
+      "videos_adicionados": 0,
+      "status": "sem_videos_exemplo"
+    }
+  ],
+  "status": "concluido",
+  "arquivos_enriquecidos": 4
+}
